@@ -49,6 +49,21 @@ Requires outbound network access to `api.pokemontcg.io` for live prices —
 without it, the app runs entirely on the generated real-roster / modeled-price
 dataset.
 
+**Get a free API key.** Without one, pokemontcg.io rate-limits requests
+heavily and this app can easily need dozens per page load, so live pricing
+may look like it "doesn't work" — it's being rate-limited, not failing.
+Get a free key at [pokemontcg.io](https://pokemontcg.io/), then create
+`.env.local`:
+
+```
+POKEMONTCG_API_KEY=your-key-here
+```
+
+If prices still don't go live, check the terminal running `next dev` /
+`next start` — `src/lib/pokeApi.ts` logs the exact reason (rate limit,
+timeout, network error) every time a live fetch fails, rather than failing
+silently.
+
 ```bash
 npm run build     # production build
 npm run lint      # eslint

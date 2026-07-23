@@ -1,3 +1,5 @@
+import { cache } from "react";
+
 // ---------------------------------------------------------------------------
 // Live data layer: overlays real near-mint (TCGPlayer "market" price) prices
 // from the free pokemontcg.io API onto the real card roster already baked
@@ -7,11 +9,18 @@
 // real card list either way — it only decides how each card is priced: a
 // live TCGPlayer number when reachable, the rarity-tier model otherwise.
 // Every call is short-timeout + try/catch so a network failure degrades
-// gracefully instead of breaking the page.
+// gracefully instead of breaking the page, and every failure is logged so
+// it's visible in the server console instead of silently going to "Demo
+// data" with no explanation.
+//
+// Without an API key, pokemontcg.io rate-limits aggressively (a handful of
+// requests/minute) and this app can easily need dozens of requests per page
+// load. Get a free key at https://pokemontcg.io/ and set it as
+// POKEMONTCG_API_KEY in .env.local — see README for details.
 // ---------------------------------------------------------------------------
 
 const BASE = "https://api.pokemontcg.io/v2";
-const TIMEOUT_MS = 6000;
+const TIMEOUT_MS = 8000;
 
 const PRICE_VARIANT_PRIORITY = [
   "normal",
@@ -44,43 +53,42 @@ async function getJson<T>(url: string): Promise<T> {
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), TIMEOUT_MS);
   try {
+    const headers: Record<string, string> = { Accept: "application/json" };
+    if (process.env.POKEMONTCG_API_KEY) headers["X-Api-Key"] = process.env.POKEMONTCG_API_KEY;
     const res = await fetch(url, {
       signal: controller.signal,
-      headers: { Accept: "application/json" },
+      headers,
       next: { revalidate: 3600 },
     });
-    if (!res.ok) throw new Error(`pokemontcg.io ${res.status}`);
+    if (!res.ok) {
+      const body = await res.text().catch(() => "");
+      throw new Error(`pokemontcg.io ${res.status} ${res.statusText} — ${body.slice(0, 200)}`);
+    }
     return (await res.json()) as T;
   } finally {
     clearTimeout(timer);
   }
 }
 
-/** Fetches near-mint market prices for every card in one real set id, keyed by card id. */
-async function fetchLivePricesForSet(setId: string): Promise<Map<string, number>> {
+/** Fetches near-mint market prices for every card in one real set id, keyed by card id. Cached per request. */
+export const fetchLivePricesForSet = cache(async (setId: string): Promise<Map<string, number>> => {
   const prices = new Map<string, number>();
-  const res = await getJson<{ data: ApiCard[] }>(
-    `${BASE}/cards?q=${encodeURIComponent(`set.id:${setId}`)}&pageSize=250&select=id,tcgplayer`
-  );
-  for (const card of res.data) {
-    const price = nearMintMarketPrice(card);
-    if (price !== null) prices.set(card.id, price);
+  try {
+    const res = await getJson<{ data: ApiCard[] }>(`${BASE}/cards?q=${encodeURIComponent(`set.id:${setId}`)}&pageSize=250`);
+    for (const card of res.data) {
+      const price = nearMintMarketPrice(card);
+      if (price !== null) prices.set(card.id, price);
+    }
+  } catch (err) {
+    console.warn(`[pokeApi] live price fetch failed for set "${setId}":`, err instanceof Error ? err.message : err);
   }
   return prices;
-}
+});
 
-/**
- * Fetches live near-mint prices for every real set id used by the fixture
- * roster, in parallel. A set whose fetch fails is simply absent from the
- * result — callers treat a missing id as "price this card from the model."
- */
+/** Fetches live near-mint prices for a list of real set ids, in parallel, merged into one map. */
 export async function fetchLivePriceMap(setIds: string[]): Promise<Map<string, number>> {
   const merged = new Map<string, number>();
-  const results = await Promise.allSettled(setIds.map((id) => fetchLivePricesForSet(id)));
-  for (const result of results) {
-    if (result.status === "fulfilled") {
-      for (const [id, price] of result.value) merged.set(id, price);
-    }
-  }
+  const results = await Promise.all(setIds.map((id) => fetchLivePricesForSet(id)));
+  for (const prices of results) for (const [id, price] of prices) merged.set(id, price);
   return merged;
 }

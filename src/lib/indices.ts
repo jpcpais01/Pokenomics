@@ -1,24 +1,9 @@
-import { cache } from "react";
 import { FIXTURE_CARDS, POKEMON_DEFS, SET_DEFS } from "./fixtures";
 import { buildHistory, estimateCardChange, pctChange, valueDaysAgo } from "./history";
 import { fetchLivePriceMap } from "./pokeApi";
 import type { Card, IndexSummary } from "./types";
 
-const ALL_SET_IDS = SET_DEFS.map((s) => s.id);
 const LIVE_COVERAGE_THRESHOLD = 0.8;
-
-/**
- * Real TCGPlayer prices for every card in every tracked set, fetched once per
- * request (React's `cache` dedupes concurrent callers within a render pass)
- * and reused by every index. Never affects which cards appear — only price.
- */
-const getLivePriceMap = cache(async (): Promise<Map<string, number>> => {
-  try {
-    return await fetchLivePriceMap(ALL_SET_IDS);
-  } catch {
-    return new Map();
-  }
-});
 
 function priceCards(cards: Card[], liveMap: Map<string, number>): { cards: Card[]; isLive: boolean } {
   let liveHits = 0;
@@ -83,7 +68,8 @@ export async function getSetIndex(setId: string): Promise<IndexSummary | null> {
   const def = SET_DEFS.find((s) => s.id === setId);
   if (!def) return null;
   const fixtureCards = FIXTURE_CARDS.filter((c) => c.setId === setId);
-  const liveMap = await getLivePriceMap();
+  // Only this one real set's cards are needed — a set index never spans sets.
+  const liveMap = await fetchLivePriceMap([setId]);
   const { cards, isLive } = priceCards(fixtureCards, liveMap);
   return summarize(
     "set",
@@ -101,7 +87,10 @@ export async function getPokemonIndex(pokemonId: string): Promise<IndexSummary |
   const def = POKEMON_DEFS.find((p) => p.id === pokemonId);
   if (!def) return null;
   const fixtureCards = FIXTURE_CARDS.filter((c) => c.pokemon === pokemonId);
-  const liveMap = await getLivePriceMap();
+  // Only the real sets this species' cards actually come from — usually a
+  // small subset of all tracked sets, not all of them.
+  const relevantSetIds = [...new Set(fixtureCards.map((c) => c.setId))];
+  const liveMap = await fetchLivePriceMap(relevantSetIds);
   const { cards, isLive } = priceCards(fixtureCards, liveMap);
   return summarize(
     "pokemon",
