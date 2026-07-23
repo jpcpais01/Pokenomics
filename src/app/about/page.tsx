@@ -39,25 +39,33 @@ export default function AboutPage() {
       <Section title="Pricing">
         <p>
           Every price is meant to read as a <strong className="text-text-primary">near-mint raw market price</strong>, and
-          comes from up to two live sources, tried in order, before falling back to a model:
+          comes from up to three live sources, tried in order, before falling back to a model:
         </p>
         <ol className="mt-2 list-decimal space-y-1.5 pl-5">
           <li>
-            <strong className="text-text-primary">TCGPlayer</strong>
+            <strong className="text-text-primary">TCGPlayer (USD)</strong>
             {" "}via the free pokemontcg.io API — an exact match, since every card id in this app already is a real
-            pokemontcg.io card id. (TCGPlayer&rsquo;s developer program has reportedly stopped accepting new
-            applicants, so this only works with an existing key.)
+            pokemontcg.io card id. Needs a free key from{" "}
+            <span className="text-text-primary">pokemontcg.io</span>
+            {" "}itself — that&rsquo;s a separate, self-serve signup from TCGPlayer&rsquo;s own developer program,
+            which is reportedly closed to new applicants.
           </li>
           <li>
-            <strong className="text-text-primary">PriceCharting</strong>, for whatever TCGPlayer didn&rsquo;t cover —
-            matched by a text search (card name, number, and set) and only accepted above a confidence threshold, since
-            it has no exact-id lookup. A low-confidence match is treated as no live price rather than risking the
-            wrong number.
+            <strong className="text-text-primary">Cardmarket (EUR, converted to USD)</strong>, for whatever TCGPlayer
+            didn&rsquo;t price — the same pokemontcg.io response carries both feeds, so no separate key is needed. The
+            EUR→USD conversion is a fixed approximate rate, not a live exchange rate.
+          </li>
+          <li>
+            <strong className="text-text-primary">PriceCharting</strong>, for whatever neither of the above covered —
+            requires its own (paid) API access, so it&rsquo;s optional and off by default. Matched by a text search
+            (card name, number, and set) and only accepted above a confidence threshold, since it has no exact-id
+            lookup. A low-confidence match is treated as no live price rather than risking the wrong number.
           </li>
         </ol>
         <p className="mt-2">
-          Neither changes which cards an index shows, only what they&rsquo;re priced at. A card (or a whole index, if
-          coverage is too thin) that neither source prices falls back to a disclosed model instead: a base price for
+          None of these change which cards an index shows, only what they&rsquo;re priced at. A card (or a whole
+          index, if coverage is too thin) that none of them price falls back to a disclosed model instead: a base
+          price for
           the card&rsquo;s rarity tier, scaled by a power curve on how often that species shows up as a chase card
           overall (real chase-card prices are dominated by how iconic the species is, far more than by rarity alone),
           plus small deterministic per-card variation — tuned to land in a believable range, not to match any specific
