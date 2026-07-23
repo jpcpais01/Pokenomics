@@ -12,6 +12,7 @@
 
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
+import { loadEnvLocal } from "./lib/env.mjs";
 
 const BASE = "https://api.pokemontcg.io/v2";
 const HISTORY_DIR = path.join(process.cwd(), "data", "history");
@@ -42,7 +43,9 @@ async function getJson(url) {
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), 10_000);
   try {
-    const res = await fetch(url, { signal: controller.signal, headers: { Accept: "application/json" } });
+    const headers = { Accept: "application/json" };
+    if (process.env.POKEMONTCG_API_KEY) headers["X-Api-Key"] = process.env.POKEMONTCG_API_KEY;
+    const res = await fetch(url, { signal: controller.signal, headers });
     if (!res.ok) throw new Error(`${res.status} ${res.statusText}`);
     return await res.json();
   } finally {
@@ -52,7 +55,7 @@ async function getJson(url) {
 
 async function fetchPricesForSet(setId) {
   const prices = new Map();
-  const res = await getJson(`${BASE}/cards?q=${encodeURIComponent(`set.id:${setId}`)}&pageSize=250&select=id,tcgplayer`);
+  const res = await getJson(`${BASE}/cards?q=${encodeURIComponent(`set.id:${setId}`)}&pageSize=250`);
   for (const card of res.data ?? []) {
     const price = nearMintMarketPrice(card);
     if (price !== null) prices.set(card.id, price);
@@ -79,6 +82,7 @@ async function appendSnapshot(indexId, value) {
 }
 
 async function main() {
+  await loadEnvLocal();
   const manifest = JSON.parse(await readFile(MANIFEST_PATH, "utf-8"));
 
   const allSetIds = manifest.sets.map((s) => s.id);

@@ -1,9 +1,41 @@
 import { FIXTURE_CARDS, POKEMON_DEFS, SET_DEFS } from "./fixtures";
 import { buildHistory, estimateCardChange, pctChange, valueDaysAgo } from "./history";
 import { fetchLivePriceMap } from "./pokeApi";
+import { fetchPriceChartingPrices } from "./priceCharting";
 import type { Card, IndexSummary } from "./types";
 
 const LIVE_COVERAGE_THRESHOLD = 0.8;
+// PriceCharting has no exact-id lookup — each miss is a text search, so cap
+// how many an index will attempt (its priciest-by-model cards first) to keep
+// page latency bounded regardless of index size.
+const MAX_PRICECHARTING_LOOKUPS = 40;
+
+const SET_NAME_BY_ID = new Map(SET_DEFS.map((s) => [s.id, s.name]));
+
+/**
+ * TCGPlayer (via pokemontcg.io) first, since it's an exact card-id match;
+ * PriceCharting fills in cards TCGPlayer missed, capped and grouped per set
+ * for its text-search matching. Either source, or neither, can be absent —
+ * whatever isn't covered keeps its rarity-tier model price.
+ */
+async function resolveLivePrices(cards: Card[], setIds: string[]): Promise<Map<string, number>> {
+  const combined = await fetchLivePriceMap(setIds);
+
+  const misses = cards.filter((c) => !combined.has(c.id)).sort((a, b) => b.price - a.price);
+  const toLookUp = misses.slice(0, MAX_PRICECHARTING_LOOKUPS);
+  const bySet = new Map<string, Card[]>();
+  for (const card of toLookUp) {
+    const group = bySet.get(card.setId);
+    if (group) group.push(card);
+    else bySet.set(card.setId, [card]);
+  }
+  const pcResults = await Promise.all(
+    [...bySet.entries()].map(([setId, setCards]) => fetchPriceChartingPrices(setCards, SET_NAME_BY_ID.get(setId) ?? setId))
+  );
+  for (const map of pcResults) for (const [id, price] of map) combined.set(id, price);
+
+  return combined;
+}
 
 function priceCards(cards: Card[], liveMap: Map<string, number>): { cards: Card[]; isLive: boolean } {
   let liveHits = 0;
@@ -69,7 +101,7 @@ export async function getSetIndex(setId: string): Promise<IndexSummary | null> {
   if (!def) return null;
   const fixtureCards = FIXTURE_CARDS.filter((c) => c.setId === setId);
   // Only this one real set's cards are needed — a set index never spans sets.
-  const liveMap = await fetchLivePriceMap([setId]);
+  const liveMap = await resolveLivePrices(fixtureCards, [setId]);
   const { cards, isLive } = priceCards(fixtureCards, liveMap);
   return summarize(
     "set",
@@ -90,7 +122,7 @@ export async function getPokemonIndex(pokemonId: string): Promise<IndexSummary |
   // Only the real sets this species' cards actually come from — usually a
   // small subset of all tracked sets, not all of them.
   const relevantSetIds = [...new Set(fixtureCards.map((c) => c.setId))];
-  const liveMap = await fetchLivePriceMap(relevantSetIds);
+  const liveMap = await resolveLivePrices(fixtureCards, relevantSetIds);
   const { cards, isLive } = priceCards(fixtureCards, liveMap);
   return summarize(
     "pokemon",

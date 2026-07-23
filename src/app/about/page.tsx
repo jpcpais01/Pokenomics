@@ -38,20 +38,33 @@ export default function AboutPage() {
 
       <Section title="Pricing">
         <p>
-          Every price is meant to read as a <strong className="text-text-primary">near-mint TCGPlayer market price</strong>.
-          When the free pokemontcg.io API (which mirrors TCGPlayer pricing) is reachable, each card&rsquo;s real live price
-          is fetched by its exact card id and overlaid on the roster above — this never changes which cards an index
-          shows, only what they&rsquo;re priced at. Whenever pokemontcg.io can&rsquo;t be reached (or a card just
-          doesn&rsquo;t have a live price yet), it falls back to a disclosed model instead: a base price for the
-          card&rsquo;s rarity tier, scaled by a power curve on how often that species shows up as a chase card overall
-          (real chase-card prices are dominated by how iconic the species is, far more than by rarity alone), plus
-          small deterministic per-card variation. It&rsquo;s tuned to land in a believable range, not to match any
-          specific card&rsquo;s real price — a frequent-but-not-especially-famous species can still be modeled higher
-          than a rarer-but-iconic one. Every index is labeled{" "}
-          <span className="font-medium text-text-primary">Live TCGPlayer data</span> or{" "}
+          Every price is meant to read as a <strong className="text-text-primary">near-mint raw market price</strong>, and
+          comes from up to two live sources, tried in order, before falling back to a model:
+        </p>
+        <ol className="mt-2 list-decimal space-y-1.5 pl-5">
+          <li>
+            <strong className="text-text-primary">TCGPlayer</strong>
+            {" "}via the free pokemontcg.io API — an exact match, since every card id in this app already is a real
+            pokemontcg.io card id. (TCGPlayer&rsquo;s developer program has reportedly stopped accepting new
+            applicants, so this only works with an existing key.)
+          </li>
+          <li>
+            <strong className="text-text-primary">PriceCharting</strong>, for whatever TCGPlayer didn&rsquo;t cover —
+            matched by a text search (card name, number, and set) and only accepted above a confidence threshold, since
+            it has no exact-id lookup. A low-confidence match is treated as no live price rather than risking the
+            wrong number.
+          </li>
+        </ol>
+        <p className="mt-2">
+          Neither changes which cards an index shows, only what they&rsquo;re priced at. A card (or a whole index, if
+          coverage is too thin) that neither source prices falls back to a disclosed model instead: a base price for
+          the card&rsquo;s rarity tier, scaled by a power curve on how often that species shows up as a chase card
+          overall (real chase-card prices are dominated by how iconic the species is, far more than by rarity alone),
+          plus small deterministic per-card variation — tuned to land in a believable range, not to match any specific
+          card&rsquo;s real price. Every index is labeled{" "}
+          <span className="font-medium text-text-primary">Live pricing</span> or{" "}
           <span className="font-medium text-text-primary">Demo data</span>
-          {" "}so it&rsquo;s always clear which pricing
-          you&rsquo;re looking at — never both silently blended.
+          {" "}so it&rsquo;s always clear which you&rsquo;re looking at — never both silently blended.
         </p>
       </Section>
 

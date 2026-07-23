@@ -3,8 +3,8 @@
 The Pokémon card market, tracked like a financial market. Modern (2020+) chase
 cards are grouped into curated baskets — **Set indices** (one per set) and
 **Pokémon indices** (data-driven: the species with the most chase cards) —
-each priced from near-mint TCGPlayer market data, with a value chart and
-market statistics.
+each priced from a near-mint raw market price, with a value chart and market
+statistics.
 
 ## Stack
 
@@ -22,14 +22,22 @@ request time with a modeled fallback, and history is a JSON-file store.
   result to `src/lib/fixtures.ts` — nothing about which cards exist is
   hand-typed. The 16 Pokémon indices are chosen the same way: whichever
   species has the most chase-tier cards, grouped by National Pokédex number.
-- **Prices**: [pokemontcg.io](https://pokemontcg.io), a free API that mirrors
-  TCGPlayer pricing. `src/lib/pokeApi.ts` fetches each real card's near-mint
-  **market** price by its exact card id and overlays it onto the roster above
-  — live pricing never changes which cards an index shows, only what they're
-  priced at. A card (or a whole index, if coverage is too thin) without a
-  live price falls back to a disclosed rarity-tier price model. Every index
-  is labeled **Live TCGPlayer data** or **Demo data** so it's always clear
-  which pricing you're looking at.
+- **Prices**: two live sources, tried in order, before falling back to a model.
+  1. [pokemontcg.io](https://pokemontcg.io) (`src/lib/pokeApi.ts`), a free API
+     that mirrors TCGPlayer pricing — an exact match, since every card id here
+     already is a real pokemontcg.io card id. TCGPlayer's developer program is
+     reportedly closed to new applicants, so this only helps if you already
+     have a key.
+  2. [PriceCharting](https://www.pricecharting.com/api-documentation)
+     (`src/lib/priceCharting.ts`), for whatever TCGPlayer didn't cover —
+     matched by a text search (name, number, set) and only accepted above a
+     confidence threshold, since it has no exact-id lookup.
+
+  Neither changes which cards an index shows, only what they're priced at. A
+  card (or a whole index, if coverage is too thin) that neither source prices
+  falls back to a disclosed rarity-tier price model. Every index is labeled
+  **Live pricing** or **Demo data** so it's always clear which you're looking
+  at.
 - **History**: no free source publishes real historical raw-card prices, so
   each index's chart is a deterministic, seeded backfill anchored to today's
   real value (`src/lib/history.ts`) until real data accumulates. Run
@@ -45,24 +53,35 @@ npm install
 npm run dev
 ```
 
-Requires outbound network access to `api.pokemontcg.io` for live prices —
-without it, the app runs entirely on the generated real-roster / modeled-price
-dataset.
+Live prices are entirely optional — without any key configured, the app runs
+on the generated real-roster / modeled-price dataset and everything still
+works, just labeled "Demo data".
 
-**Get a free API key.** Without one, pokemontcg.io rate-limits requests
-heavily and this app can easily need dozens per page load, so live pricing
-may look like it "doesn't work" — it's being rate-limited, not failing.
-Get a free key at [pokemontcg.io](https://pokemontcg.io/), then create
-`.env.local`:
+**To get live prices, set at least one of these in `.env.local`:**
 
 ```
-POKEMONTCG_API_KEY=your-key-here
+POKEMONTCG_API_KEY=your-tcgplayer-via-pokemontcgio-key
+PRICECHARTING_API_KEY=your-pricecharting-token
 ```
 
-If prices still don't go live, check the terminal running `next dev` /
-`next start` — `src/lib/pokeApi.ts` logs the exact reason (rate limit,
-timeout, network error) every time a live fetch fails, rather than failing
-silently.
+- `POKEMONTCG_API_KEY` — from [pokemontcg.io](https://pokemontcg.io/). Without
+  one, pokemontcg.io rate-limits unauthenticated requests heavily; TCGPlayer's
+  own developer program is reportedly not accepting new applicants, so this
+  only helps if you already have a key from before.
+- `PRICECHARTING_API_KEY` — a token from
+  [pricecharting.com](https://www.pricecharting.com/api-documentation). This
+  is the fallback source, tried for whatever TCGPlayer didn't cover.
+  **I built this integration without being able to test it against the live
+  API** (outbound access to pricecharting.com wasn't available in the sandbox
+  it was built in) — the request/response shape is my best understanding of
+  their documented API, not verified end-to-end. Run `npm run test:prices`
+  (`scripts/test-price-sources.mjs`) to sanity-check both keys and see the
+  raw responses for a few sample cards, without running the whole app.
+
+Either way, check the terminal running `next dev` / `next start` if live
+prices aren't showing up — `src/lib/pokeApi.ts` and `src/lib/priceCharting.ts`
+log the exact reason (rate limit, bad token, timeout, no confident match,
+etc.) for every failed lookup instead of failing silently.
 
 ```bash
 npm run build     # production build
@@ -75,10 +94,12 @@ npm run snapshot  # record today's real index values into data/history/
 
 - `src/lib/types.ts` — shared domain types (`Card`, `IndexSummary`, …)
 - `src/lib/fixtures.ts` — **generated** real card roster (do not hand-edit)
-- `src/lib/pokeApi.ts` — live pokemontcg.io price-overlay layer
+- `src/lib/pokeApi.ts` — live pokemontcg.io (TCGPlayer) price-overlay layer
+- `src/lib/priceCharting.ts` — live PriceCharting price-overlay layer (fallback)
 - `src/lib/indices.ts` — builds a set/Pokémon index, live-priced where possible
 - `src/lib/history.ts` — seeded backfill + real snapshot overlay
 - `src/app/` — home (market overview) and `/index/[type]/[id]` (detail) pages
 - `scripts/generate-cards.mjs` — regenerates the real card roster
 - `scripts/snapshot.mjs` — daily price recorder, run by the GitHub Action
+- `scripts/test-price-sources.mjs` — quick standalone check of your API keys
 - `data/index-manifest.json` — generated: index id → real constituent card ids

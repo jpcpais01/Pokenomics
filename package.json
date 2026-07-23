@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "eslint",
     "generate": "node scripts/generate-cards.mjs",
-    "snapshot": "node scripts/snapshot.mjs"
+    "snapshot": "node scripts/snapshot.mjs",
+    "test:prices": "node scripts/test-price-sources.mjs"
   },
   "dependencies": {
     "next": "16.2.11",
