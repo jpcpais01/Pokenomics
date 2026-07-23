@@ -1,0 +1,27 @@
+name: Daily price snapshot
+
+on:
+  schedule:
+    - cron: "0 13 * * *" # ~9am ET, after TCGPlayer prices settle for the day
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Record today's index values
+        run: node scripts/snapshot.mjs
+      - name: Commit history if changed
+        run: |
+          git config user.name "pokenomics-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/history
+          git diff --cached --quiet || git commit -m "chore: daily price snapshot $(date -u +%F)"
+          git push
