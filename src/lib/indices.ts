@@ -1,21 +1,34 @@
+import { cache } from "react";
 import { FIXTURE_CARDS, POKEMON_DEFS, SET_DEFS } from "./fixtures";
 import { buildHistory, estimateCardChange, pctChange, valueDaysAgo } from "./history";
-import { fetchLiveCardsForPokemon, fetchLiveCardsForSet } from "./pokeApi";
+import { fetchLivePriceMap } from "./pokeApi";
 import type { Card, IndexSummary } from "./types";
 
-const MODERN_CUTOFF = "2020-01-01";
+const ALL_SET_IDS = SET_DEFS.map((s) => s.id);
+const LIVE_COVERAGE_THRESHOLD = 0.8;
 
-async function resolveCards(
-  live: () => Promise<Card[]>,
-  fixtureCards: Card[]
-): Promise<{ cards: Card[]; isLive: boolean }> {
+/**
+ * Real TCGPlayer prices for every card in every tracked set, fetched once per
+ * request (React's `cache` dedupes concurrent callers within a render pass)
+ * and reused by every index. Never affects which cards appear — only price.
+ */
+const getLivePriceMap = cache(async (): Promise<Map<string, number>> => {
   try {
-    const cards = await live();
-    if (cards.length > 0) return { cards, isLive: true };
+    return await fetchLivePriceMap(ALL_SET_IDS);
   } catch {
-    // fall through to fixtures
+    return new Map();
   }
-  return { cards: fixtureCards, isLive: false };
+});
+
+function priceCards(cards: Card[], liveMap: Map<string, number>): { cards: Card[]; isLive: boolean } {
+  let liveHits = 0;
+  const priced = cards.map((c) => {
+    const live = liveMap.get(c.id);
+    if (live !== undefined) liveHits++;
+    return live !== undefined ? { ...c, price: live } : c;
+  });
+  const isLive = cards.length > 0 && liveHits / cards.length >= LIVE_COVERAGE_THRESHOLD;
+  return { cards: priced, isLive };
 }
 
 function summarize(
@@ -70,7 +83,8 @@ export async function getSetIndex(setId: string): Promise<IndexSummary | null> {
   const def = SET_DEFS.find((s) => s.id === setId);
   if (!def) return null;
   const fixtureCards = FIXTURE_CARDS.filter((c) => c.setId === setId);
-  const { cards, isLive } = await resolveCards(() => fetchLiveCardsForSet(def.name), fixtureCards);
+  const liveMap = await getLivePriceMap();
+  const { cards, isLive } = priceCards(fixtureCards, liveMap);
   return summarize(
     "set",
     def.id,
@@ -87,16 +101,17 @@ export async function getPokemonIndex(pokemonId: string): Promise<IndexSummary |
   const def = POKEMON_DEFS.find((p) => p.id === pokemonId);
   if (!def) return null;
   const fixtureCards = FIXTURE_CARDS.filter((c) => c.pokemon === pokemonId);
-  const { cards, isLive } = await resolveCards(() => fetchLiveCardsForPokemon(def.name), fixtureCards);
+  const liveMap = await getLivePriceMap();
+  const { cards, isLive } = priceCards(fixtureCards, liveMap);
   return summarize(
     "pokemon",
     def.id,
     `${def.name} Index`,
     def.ticker,
-    `${cards.length} modern cards · 2020–present`,
+    `${cards.length} modern chase cards · every 2020+ set`,
     cards,
     isLive,
-    MODERN_CUTOFF
+    "2020-01-01"
   );
 }
 
@@ -129,6 +144,7 @@ export function summarizeMarket(all: IndexSummary[]): MarketOverview {
     change7d: weightedChange7d,
     isLive: all.some((i) => i.isLive),
     indexCount: all.length,
-    cardCount: all.reduce((s, i) => s + i.cards.length, 0),
+    // Distinct cards — a Pokémon index and a set index can share constituents.
+    cardCount: new Set(all.flatMap((i) => i.cards.map((c) => c.id))).size,
   };
 }

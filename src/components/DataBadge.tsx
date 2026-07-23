@@ -11,7 +11,7 @@ export function DataBadge({ isLive }: { isLive: boolean }) {
     <span
       className="inline-flex shrink-0 items-center gap-1.5 whitespace-nowrap rounded-full px-2 py-0.5 text-[11px] font-medium"
       style={{ background: "var(--accent-soft)", color: "var(--accent)" }}
-      title="Live pokemontcg.io access wasn't reachable, so this index is priced from a bundled reference dataset and an illustrative trend."
+      title="These are real cards (from the PokemonTCG open dataset) — live TCGPlayer pricing wasn't reachable, so they're priced from a disclosed rarity-tier model instead."
     >
       Demo data
     </span>

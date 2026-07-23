@@ -2,45 +2,21 @@
 // Records today's real index values into data/history/<type>-<id>.json.
 // Run manually (`node scripts/snapshot.mjs`) or on a schedule via
 // .github/workflows/snapshot.yml. Safe to run more than once a day — it
-// overwrites today's entry instead of duplicating it. An index is skipped
-// (not backfilled with a guess) for any day the live API can't be reached.
+// overwrites today's entry instead of duplicating it.
+//
+// Reads data/index-manifest.json (written by scripts/generate-cards.mjs) to
+// know which real card ids belong to each index, fetches live TCGPlayer
+// near-mint prices for those exact cards from pokemontcg.io, and averages
+// them. An index is skipped (not backfilled with a guess) for any day where
+// fewer than half its cards get a live price.
 
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 
 const BASE = "https://api.pokemontcg.io/v2";
 const HISTORY_DIR = path.join(process.cwd(), "data", "history");
-const MODERN_CUTOFF = "2020/01/01";
-
-const SETS = [
-  { id: "champions-path", name: "Champion's Path" },
-  { id: "vivid-voltage", name: "Vivid Voltage" },
-  { id: "evolving-skies", name: "Evolving Skies" },
-  { id: "brilliant-stars", name: "Brilliant Stars" },
-  { id: "lost-origin", name: "Lost Origin" },
-  { id: "silver-tempest", name: "Silver Tempest" },
-  { id: "paldea-evolved", name: "Paldea Evolved" },
-  { id: "scarlet-violet-151", name: "Scarlet & Violet 151" },
-  { id: "paradox-rift", name: "Paradox Rift" },
-  { id: "temporal-forces", name: "Temporal Forces" },
-  { id: "surging-sparks", name: "Surging Sparks" },
-  { id: "prismatic-evolutions", name: "Prismatic Evolutions" },
-];
-
-const POKEMON = [
-  { id: "charizard", name: "Charizard" },
-  { id: "pikachu", name: "Pikachu" },
-  { id: "umbreon", name: "Umbreon" },
-  { id: "mew", name: "Mew" },
-  { id: "mewtwo", name: "Mewtwo" },
-  { id: "eevee", name: "Eevee" },
-  { id: "rayquaza", name: "Rayquaza" },
-  { id: "gengar", name: "Gengar" },
-  { id: "lugia", name: "Lugia" },
-  { id: "sylveon", name: "Sylveon" },
-  { id: "gyarados", name: "Gyarados" },
-  { id: "snorlax", name: "Snorlax" },
-];
+const MANIFEST_PATH = path.join(process.cwd(), "data", "index-manifest.json");
+const MIN_COVERAGE = 0.5;
 
 const PRICE_VARIANT_PRIORITY = [
   "normal",
@@ -74,22 +50,14 @@ async function getJson(url) {
   }
 }
 
-async function averagePriceForSet(name) {
-  const setRes = await getJson(`${BASE}/sets?q=${encodeURIComponent(`name:"${name}"`)}`);
-  const setId = setRes.data?.[0]?.id;
-  if (!setId) return null;
-  const cardsRes = await getJson(`${BASE}/cards?q=${encodeURIComponent(`set.id:${setId}`)}&pageSize=250`);
-  const prices = (cardsRes.data ?? []).map(nearMintMarketPrice).filter((p) => typeof p === "number");
-  if (prices.length === 0) return null;
-  return prices.reduce((a, b) => a + b, 0) / prices.length;
-}
-
-async function averagePriceForPokemon(name) {
-  const query = `name:"${name}" set.releaseDate:[${MODERN_CUTOFF} TO *]`;
-  const cardsRes = await getJson(`${BASE}/cards?q=${encodeURIComponent(query)}&pageSize=250`);
-  const prices = (cardsRes.data ?? []).map(nearMintMarketPrice).filter((p) => typeof p === "number");
-  if (prices.length === 0) return null;
-  return prices.reduce((a, b) => a + b, 0) / prices.length;
+async function fetchPricesForSet(setId) {
+  const prices = new Map();
+  const res = await getJson(`${BASE}/cards?q=${encodeURIComponent(`set.id:${setId}`)}&pageSize=250&select=id,tcgplayer`);
+  for (const card of res.data ?? []) {
+    const price = nearMintMarketPrice(card);
+    if (price !== null) prices.set(card.id, price);
+  }
+  return prices;
 }
 
 async function appendSnapshot(indexId, value) {
@@ -111,30 +79,36 @@ async function appendSnapshot(indexId, value) {
 }
 
 async function main() {
+  const manifest = JSON.parse(await readFile(MANIFEST_PATH, "utf-8"));
+
+  const allSetIds = manifest.sets.map((s) => s.id);
+  const priceMap = new Map();
+  console.log(`Fetching live prices for ${allSetIds.length} sets...`);
+  const results = await Promise.allSettled(allSetIds.map((id) => fetchPricesForSet(id)));
+  results.forEach((result, i) => {
+    if (result.status === "fulfilled") {
+      for (const [id, price] of result.value) priceMap.set(id, price);
+    } else {
+      console.warn(`fetch failed for set ${allSetIds[i]}: ${result.reason?.message}`);
+    }
+  });
+  console.log(`Got live prices for ${priceMap.size} cards.`);
+
   let recorded = 0;
   let skipped = 0;
-  for (const set of SETS) {
-    try {
-      const value = await averagePriceForSet(set.name);
-      if (value === null) throw new Error("no priced cards returned");
-      await appendSnapshot(`set-${set.id}`, value);
-      recorded++;
-    } catch (err) {
-      console.warn(`skip set ${set.id}: ${err.message}`);
+  for (const index of [...manifest.sets.map((s) => ({ ...s, kind: "set" })), ...manifest.pokemon.map((p) => ({ ...p, kind: "pokemon" }))]) {
+    const prices = index.cardIds.map((id) => priceMap.get(id)).filter((p) => typeof p === "number");
+    const coverage = index.cardIds.length ? prices.length / index.cardIds.length : 0;
+    if (coverage < MIN_COVERAGE) {
+      console.warn(`skip ${index.kind} ${index.id}: only ${prices.length}/${index.cardIds.length} cards priced`);
       skipped++;
+      continue;
     }
+    const value = prices.reduce((a, b) => a + b, 0) / prices.length;
+    await appendSnapshot(`${index.kind}-${index.id}`, value);
+    recorded++;
   }
-  for (const pokemon of POKEMON) {
-    try {
-      const value = await averagePriceForPokemon(pokemon.name);
-      if (value === null) throw new Error("no priced cards returned");
-      await appendSnapshot(`pokemon-${pokemon.id}`, value);
-      recorded++;
-    } catch (err) {
-      console.warn(`skip pokemon ${pokemon.id}: ${err.message}`);
-      skipped++;
-    }
-  }
+
   console.log(`snapshot done: ${recorded} recorded, ${skipped} skipped`);
   if (recorded === 0) process.exitCode = 1;
 }

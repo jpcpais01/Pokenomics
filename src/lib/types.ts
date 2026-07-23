@@ -4,8 +4,8 @@
 export type Card = {
   id: string;
   name: string;
-  /** Base species used to group cards into a Pokémon index, e.g. "Charizard". */
-  pokemon: string;
+  /** Species slug used to group cards into a Pokémon index (e.g. "charizard"), or null if its species didn't make the index roster. */
+  pokemon: string | null;
   setId: string;
   number: string;
   rarity: string;
