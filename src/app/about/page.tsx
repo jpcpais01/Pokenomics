@@ -41,9 +41,13 @@ export default function AboutPage() {
           Every price is meant to read as a <strong className="text-text-primary">near-mint TCGPlayer market price</strong>.
           When the free pokemontcg.io API (which mirrors TCGPlayer pricing) is reachable, each card&rsquo;s real live price
           is fetched by its exact card id and overlaid on the roster above — this never changes which cards an index
-          shows, only what they&rsquo;re priced at. A card without a live price yet (or a whole index if too few of its
-          cards have one) falls back to a disclosed rarity-tier model: a base price for its rarity tier, scaled by how
-          often that species shows up as a chase card, with deterministic per-card variation. Every index is labeled{" "}
+          shows, only what they&rsquo;re priced at. Whenever pokemontcg.io can&rsquo;t be reached (or a card just
+          doesn&rsquo;t have a live price yet), it falls back to a disclosed model instead: a base price for the
+          card&rsquo;s rarity tier, scaled by a power curve on how often that species shows up as a chase card overall
+          (real chase-card prices are dominated by how iconic the species is, far more than by rarity alone), plus
+          small deterministic per-card variation. It&rsquo;s tuned to land in a believable range, not to match any
+          specific card&rsquo;s real price — a frequent-but-not-especially-famous species can still be modeled higher
+          than a rarer-but-iconic one. Every index is labeled{" "}
           <span className="font-medium text-text-primary">Live TCGPlayer data</span> or{" "}
           <span className="font-medium text-text-primary">Demo data</span>
           {" "}so it&rsquo;s always clear which pricing

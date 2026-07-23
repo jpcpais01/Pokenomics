@@ -106,16 +106,27 @@ function gaussian(rng) {
   return Math.sqrt(-2 * Math.log(u1)) * Math.cos(2 * Math.PI * u2);
 }
 
-const TIER_BASE_PRICE = { 5: 65, 4: 14, 3: 5 };
+// Base price for an "average-popularity" card at each tier, before the
+// popularity multiplier below. Tuned so a top-tier species (Charizard,
+// Pikachu) lands roughly in real-world chase-card territory.
+const TIER_BASE_PRICE = { 5: 22, 4: 6, 3: 2 };
 
-/** Rarity-tier price model: log-normal jitter (real chase-card prices are long-tailed) times a mild popularity boost. */
-function modelPrice(cardId, tier, popularityCount) {
-  const base = TIER_BASE_PRICE[tier] ?? 3;
+/**
+ * Rarity-tier price model. Real chase-card pricing is dominated by how
+ * iconic the species is (a Charizard SIR can be 10x an obscure one at the
+ * same rarity) far more than by rarity tier alone, so popularity — a species'
+ * real chase-card frequency across the dataset, relative to the most
+ * frequent species — drives most of the spread via a power curve, with a
+ * smaller log-normal jitter per card on top for texture.
+ */
+function modelPrice(cardId, tier, popularityCount, maxPopularity) {
+  const base = TIER_BASE_PRICE[tier] ?? 1.5;
   const rng = mulberry32(hashSeed(cardId));
-  const jitter = Math.exp(gaussian(rng) * 0.55);
-  const popularity = 1 + Math.min(1.6, popularityCount / 12);
-  const price = base * jitter * popularity;
-  return Math.max(1.5, Math.round(price * 100) / 100);
+  const jitter = Math.exp(gaussian(rng) * 0.4);
+  const popularityRatio = maxPopularity > 0 ? popularityCount / maxPopularity : 0;
+  const popularityMultiplier = 1 + 8 * Math.pow(popularityRatio, 2.2);
+  const price = base * jitter * popularityMultiplier;
+  return Math.max(1, Math.round(price * 100) / 100);
 }
 
 async function main() {
@@ -157,6 +168,8 @@ async function main() {
   console.log("\nPokémon indices (by real chase-card frequency):");
   for (const s of topSpecies) console.log(`  ${chaseBySpecies.get(s)}x ${s}`);
 
+  const maxPopularity = Math.max(...chaseBySpecies.values());
+
   // Build final card list: every chase card belongs to its set's basket; it
   // also carries a `pokemon` slug when its species made the index roster.
   const usedTickers = new Set();
@@ -176,7 +189,7 @@ async function main() {
     setId,
     number: card.number,
     rarity: card.rarity,
-    price: modelPrice(card.id, tier, chaseBySpecies.get(species) ?? 0),
+    price: modelPrice(card.id, tier, chaseBySpecies.get(species) ?? 0, maxPopularity),
   }));
 
   const setDefs = mainSets.map((s) => ({

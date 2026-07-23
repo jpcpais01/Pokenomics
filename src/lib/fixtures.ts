@@ -415,7 +415,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh1",
     "number": "50",
     "rarity": "Rare Holo VMAX",
-    "price": 64.96
+    "price": 24.68
   },
   {
     "id": "swsh1-80",
@@ -424,7 +424,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh1",
     "number": "80",
     "rarity": "Rare Holo VMAX",
-    "price": 26.2
+    "price": 16.47
   },
   {
     "id": "swsh1-116",
@@ -433,7 +433,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh1",
     "number": "116",
     "rarity": "Rare Holo VMAX",
-    "price": 17.48
+    "price": 7.05
   },
   {
     "id": "swsh1-142",
@@ -442,7 +442,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh1",
     "number": "142",
     "rarity": "Rare Holo VMAX",
-    "price": 19.04
+    "price": 10.11
   },
   {
     "id": "swsh1-187",
@@ -451,7 +451,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh1",
     "number": "187",
     "rarity": "Rare Ultra",
-    "price": 31.2
+    "price": 10.74
   },
   {
     "id": "swsh1-188",
@@ -460,7 +460,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh1",
     "number": "188",
     "rarity": "Rare Ultra",
-    "price": 44.96
+    "price": 13.44
   },
   {
     "id": "swsh1-189",
@@ -469,7 +469,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh1",
     "number": "189",
     "rarity": "Rare Ultra",
-    "price": 17.96
+    "price": 9.69
   },
   {
     "id": "swsh1-190",
@@ -478,7 +478,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh1",
     "number": "190",
     "rarity": "Rare Ultra",
-    "price": 29.85
+    "price": 18.11
   },
   {
     "id": "swsh1-191",
@@ -487,7 +487,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh1",
     "number": "191",
     "rarity": "Rare Ultra",
-    "price": 40.46
+    "price": 12.44
   },
   {
     "id": "swsh1-192",
@@ -496,7 +496,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh1",
     "number": "192",
     "rarity": "Rare Ultra",
-    "price": 21.29
+    "price": 7.8
   },
   {
     "id": "swsh1-193",
@@ -505,7 +505,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh1",
     "number": "193",
     "rarity": "Rare Ultra",
-    "price": 5.66
+    "price": 3.1
   },
   {
     "id": "swsh1-194",
@@ -514,7 +514,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh1",
     "number": "194",
     "rarity": "Rare Ultra",
-    "price": 12.17
+    "price": 5.19
   },
   {
     "id": "swsh1-195",
@@ -523,7 +523,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh1",
     "number": "195",
     "rarity": "Rare Ultra",
-    "price": 17.49
+    "price": 8.44
   },
   {
     "id": "swsh1-196",
@@ -532,7 +532,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh1",
     "number": "196",
     "rarity": "Rare Ultra",
-    "price": 37.82
+    "price": 16.65
   },
   {
     "id": "swsh1-197",
@@ -541,7 +541,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh1",
     "number": "197",
     "rarity": "Rare Ultra",
-    "price": 31.38
+    "price": 14.54
   },
   {
     "id": "swsh1-198",
@@ -550,7 +550,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh1",
     "number": "198",
     "rarity": "Rare Ultra",
-    "price": 31.98
+    "price": 10.94
   },
   {
     "id": "swsh1-203",
@@ -559,7 +559,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh1",
     "number": "203",
     "rarity": "Rare Rainbow",
-    "price": 135.67
+    "price": 50.61
   },
   {
     "id": "swsh1-204",
@@ -568,7 +568,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh1",
     "number": "204",
     "rarity": "Rare Rainbow",
-    "price": 155.86
+    "price": 72.34
   },
   {
     "id": "swsh1-205",
@@ -577,7 +577,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh1",
     "number": "205",
     "rarity": "Rare Rainbow",
-    "price": 133.04
+    "price": 37.03
   },
   {
     "id": "swsh1-206",
@@ -586,7 +586,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh1",
     "number": "206",
     "rarity": "Rare Rainbow",
-    "price": 66.24
+    "price": 30.05
   },
   {
     "id": "swsh1-211",
@@ -595,7 +595,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh1",
     "number": "211",
     "rarity": "Rare Secret",
-    "price": 40.44
+    "price": 18.64
   },
   {
     "id": "swsh1-212",
@@ -604,7 +604,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh1",
     "number": "212",
     "rarity": "Rare Secret",
-    "price": 64.89
+    "price": 29.6
   },
   {
     "id": "swsh2-18",
@@ -613,7 +613,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh2",
     "number": "18",
     "rarity": "Rare Holo VMAX",
-    "price": 24.78
+    "price": 10.88
   },
   {
     "id": "swsh2-36",
@@ -622,7 +622,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh2",
     "number": "36",
     "rarity": "Rare Holo VMAX",
-    "price": 25.25
+    "price": 16.04
   },
   {
     "id": "swsh2-50",
@@ -631,7 +631,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh2",
     "number": "50",
     "rarity": "Rare Holo VMAX",
-    "price": 27.71
+    "price": 15.07
   },
   {
     "id": "swsh2-71",
@@ -640,7 +640,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh2",
     "number": "71",
     "rarity": "Rare Holo VMAX",
-    "price": 82.18
+    "price": 33.24
   },
   {
     "id": "swsh2-93",
@@ -649,7 +649,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh2",
     "number": "93",
     "rarity": "Rare Holo VMAX",
-    "price": 11.35
+    "price": 8.96
   },
   {
     "id": "swsh2-122",
@@ -658,7 +658,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh2",
     "number": "122",
     "rarity": "Rare Holo VMAX",
-    "price": 12.82
+    "price": 5.63
   },
   {
     "id": "swsh2-137",
@@ -667,7 +667,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh2",
     "number": "137",
     "rarity": "Rare Holo VMAX",
-    "price": 13.68
+    "price": 7.06
   },
   {
     "id": "swsh2-175",
@@ -676,7 +676,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh2",
     "number": "175",
     "rarity": "Rare Ultra",
-    "price": 12.69
+    "price": 6.69
   },
   {
     "id": "swsh2-176",
@@ -685,7 +685,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh2",
     "number": "176",
     "rarity": "Rare Ultra",
-    "price": 10.1
+    "price": 4.53
   },
   {
     "id": "swsh2-177",
@@ -694,7 +694,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh2",
     "number": "177",
     "rarity": "Rare Ultra",
-    "price": 19.28
+    "price": 8.18
   },
   {
     "id": "swsh2-178",
@@ -703,7 +703,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh2",
     "number": "178",
     "rarity": "Rare Ultra",
-    "price": 33.87
+    "price": 19.86
   },
   {
     "id": "swsh2-179",
@@ -712,7 +712,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh2",
     "number": "179",
     "rarity": "Rare Ultra",
-    "price": 8.51
+    "price": 4.51
   },
   {
     "id": "swsh2-180",
@@ -721,7 +721,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh2",
     "number": "180",
     "rarity": "Rare Ultra",
-    "price": 15.2
+    "price": 9.74
   },
   {
     "id": "swsh2-181",
@@ -730,7 +730,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh2",
     "number": "181",
     "rarity": "Rare Ultra",
-    "price": 51.85
+    "price": 16.8
   },
   {
     "id": "swsh2-182",
@@ -739,7 +739,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh2",
     "number": "182",
     "rarity": "Rare Ultra",
-    "price": 18.88
+    "price": 11.4
   },
   {
     "id": "swsh2-183",
@@ -748,7 +748,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh2",
     "number": "183",
     "rarity": "Rare Ultra",
-    "price": 15.84
+    "price": 11.42
   },
   {
     "id": "swsh2-184",
@@ -757,7 +757,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh2",
     "number": "184",
     "rarity": "Rare Ultra",
-    "price": 5.91
+    "price": 3.83
   },
   {
     "id": "swsh2-185",
@@ -766,7 +766,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh2",
     "number": "185",
     "rarity": "Rare Ultra",
-    "price": 18.45
+    "price": 7.03
   },
   {
     "id": "swsh2-186",
@@ -775,7 +775,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh2",
     "number": "186",
     "rarity": "Rare Ultra",
-    "price": 10.8
+    "price": 4.97
   },
   {
     "id": "swsh2-187",
@@ -784,7 +784,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh2",
     "number": "187",
     "rarity": "Rare Ultra",
-    "price": 23.13
+    "price": 10.35
   },
   {
     "id": "swsh2-188",
@@ -793,7 +793,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh2",
     "number": "188",
     "rarity": "Rare Ultra",
-    "price": 5.39
+    "price": 2.87
   },
   {
     "id": "swsh2-193",
@@ -802,7 +802,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh2",
     "number": "193",
     "rarity": "Rare Rainbow",
-    "price": 81.86
+    "price": 31.14
   },
   {
     "id": "swsh2-194",
@@ -811,7 +811,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh2",
     "number": "194",
     "rarity": "Rare Rainbow",
-    "price": 58.8
+    "price": 35.6
   },
   {
     "id": "swsh2-195",
@@ -820,7 +820,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh2",
     "number": "195",
     "rarity": "Rare Rainbow",
-    "price": 195.55
+    "price": 74.94
   },
   {
     "id": "swsh2-196",
@@ -829,7 +829,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh2",
     "number": "196",
     "rarity": "Rare Rainbow",
-    "price": 203.25
+    "price": 77.08
   },
   {
     "id": "swsh2-197",
@@ -838,7 +838,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh2",
     "number": "197",
     "rarity": "Rare Rainbow",
-    "price": 87.87
+    "price": 47.68
   },
   {
     "id": "swsh2-198",
@@ -847,7 +847,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh2",
     "number": "198",
     "rarity": "Rare Rainbow",
-    "price": 58.54
+    "price": 20.39
   },
   {
     "id": "swsh2-199",
@@ -856,7 +856,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh2",
     "number": "199",
     "rarity": "Rare Rainbow",
-    "price": 177.11
+    "price": 54.58
   },
   {
     "id": "swsh2-204",
@@ -865,7 +865,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh2",
     "number": "204",
     "rarity": "Rare Secret",
-    "price": 48.65
+    "price": 17.08
   },
   {
     "id": "swsh2-205",
@@ -874,7 +874,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh2",
     "number": "205",
     "rarity": "Rare Secret",
-    "price": 79.51
+    "price": 25.47
   },
   {
     "id": "swsh3-2",
@@ -883,7 +883,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh3",
     "number": "2",
     "rarity": "Rare Holo VMAX",
-    "price": 20.18
+    "price": 7.83
   },
   {
     "id": "swsh3-20",
@@ -892,7 +892,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh3",
     "number": "20",
     "rarity": "Rare Holo VMAX",
-    "price": 32.23
+    "price": 52.13
   },
   {
     "id": "swsh3-34",
@@ -901,7 +901,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh3",
     "number": "34",
     "rarity": "Rare Holo VMAX",
-    "price": 28.54
+    "price": 10.07
   },
   {
     "id": "swsh3-115",
@@ -910,7 +910,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh3",
     "number": "115",
     "rarity": "Rare Holo VMAX",
-    "price": 13.23
+    "price": 5.52
   },
   {
     "id": "swsh3-117",
@@ -919,7 +919,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh3",
     "number": "117",
     "rarity": "Rare Holo VMAX",
-    "price": 9.8
+    "price": 4.44
   },
   {
     "id": "swsh3-119",
@@ -928,7 +928,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh3",
     "number": "119",
     "rarity": "Rare Holo VMAX",
-    "price": 21.48
+    "price": 12.53
   },
   {
     "id": "swsh3-144",
@@ -937,7 +937,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh3",
     "number": "144",
     "rarity": "Rare Holo VMAX",
-    "price": 17.03
+    "price": 9.32
   },
   {
     "id": "swsh3-177",
@@ -946,7 +946,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh3",
     "number": "177",
     "rarity": "Rare Ultra",
-    "price": 23.96
+    "price": 8.87
   },
   {
     "id": "swsh3-178",
@@ -955,7 +955,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh3",
     "number": "178",
     "rarity": "Rare Ultra",
-    "price": 17.42
+    "price": 7.6
   },
   {
     "id": "swsh3-179",
@@ -964,7 +964,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh3",
     "number": "179",
     "rarity": "Rare Ultra",
-    "price": 37.21
+    "price": 12.21
   },
   {
     "id": "swsh3-180",
@@ -973,7 +973,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh3",
     "number": "180",
     "rarity": "Rare Ultra",
-    "price": 19.31
+    "price": 7.27
   },
   {
     "id": "swsh3-181",
@@ -982,7 +982,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh3",
     "number": "181",
     "rarity": "Rare Ultra",
-    "price": 8.81
+    "price": 4.1
   },
   {
     "id": "swsh3-182",
@@ -991,7 +991,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh3",
     "number": "182",
     "rarity": "Rare Ultra",
-    "price": 9.59
+    "price": 4.56
   },
   {
     "id": "swsh3-183",
@@ -1000,7 +1000,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh3",
     "number": "183",
     "rarity": "Rare Ultra",
-    "price": 6.39
+    "price": 5.19
   },
   {
     "id": "swsh3-184",
@@ -1009,7 +1009,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh3",
     "number": "184",
     "rarity": "Rare Ultra",
-    "price": 15.14
+    "price": 6.09
   },
   {
     "id": "swsh3-185",
@@ -1018,7 +1018,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh3",
     "number": "185",
     "rarity": "Rare Ultra",
-    "price": 37.64
+    "price": 16.6
   },
   {
     "id": "swsh3-190",
@@ -1027,7 +1027,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh3",
     "number": "190",
     "rarity": "Rare Rainbow",
-    "price": 40.42
+    "price": 15.57
   },
   {
     "id": "swsh3-191",
@@ -1036,7 +1036,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh3",
     "number": "191",
     "rarity": "Rare Rainbow",
-    "price": 98.28
+    "price": 29.71
   },
   {
     "id": "swsh3-192",
@@ -1045,7 +1045,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh3",
     "number": "192",
     "rarity": "Rare Rainbow",
-    "price": 248.17
+    "price": 55.87
   },
   {
     "id": "swsh3-193",
@@ -1054,7 +1054,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh3",
     "number": "193",
     "rarity": "Rare Rainbow",
-    "price": 64.02
+    "price": 33.27
   },
   {
     "id": "swsh3-194",
@@ -1063,7 +1063,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh3",
     "number": "194",
     "rarity": "Rare Rainbow",
-    "price": 44.95
+    "price": 22.66
   },
   {
     "id": "swsh3-197",
@@ -1072,7 +1072,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh3",
     "number": "197",
     "rarity": "Rare Secret",
-    "price": 111.69
+    "price": 39.03
   },
   {
     "id": "swsh3-198",
@@ -1081,7 +1081,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh3",
     "number": "198",
     "rarity": "Rare Secret",
-    "price": 113.58
+    "price": 35.66
   },
   {
     "id": "swsh35-15",
@@ -1090,7 +1090,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh35",
     "number": "15",
     "rarity": "Rare Holo VMAX",
-    "price": 8.6
+    "price": 4.21
   },
   {
     "id": "swsh35-17",
@@ -1099,7 +1099,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh35",
     "number": "17",
     "rarity": "Rare Holo VMAX",
-    "price": 61.75
+    "price": 62.58
   },
   {
     "id": "swsh35-23",
@@ -1108,7 +1108,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh35",
     "number": "23",
     "rarity": "Rare Holo VMAX",
-    "price": 25.22
+    "price": 9.94
   },
   {
     "id": "swsh35-69",
@@ -1117,7 +1117,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh35",
     "number": "69",
     "rarity": "Rare Ultra",
-    "price": 19.18
+    "price": 7.54
   },
   {
     "id": "swsh35-70",
@@ -1126,7 +1126,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh35",
     "number": "70",
     "rarity": "Rare Ultra",
-    "price": 21.7
+    "price": 29.25
   },
   {
     "id": "swsh35-71",
@@ -1135,7 +1135,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh35",
     "number": "71",
     "rarity": "Rare Ultra",
-    "price": 5.43
+    "price": 2.89
   },
   {
     "id": "swsh35-72",
@@ -1144,7 +1144,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh35",
     "number": "72",
     "rarity": "Rare Ultra",
-    "price": 26.02
+    "price": 9.02
   },
   {
     "id": "swsh35-74",
@@ -1153,7 +1153,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh35",
     "number": "74",
     "rarity": "Rare Rainbow",
-    "price": 178.37
+    "price": 217.18
   },
   {
     "id": "swsh35-75",
@@ -1162,7 +1162,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh35",
     "number": "75",
     "rarity": "Rare Rainbow",
-    "price": 135.57
+    "price": 37.55
   },
   {
     "id": "swsh35-76",
@@ -1171,7 +1171,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh35",
     "number": "76",
     "rarity": "Rare Rainbow",
-    "price": 126.08
+    "price": 126.23
   },
   {
     "id": "swsh35-79",
@@ -1180,7 +1180,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh35",
     "number": "79",
     "rarity": "Rare Secret",
-    "price": 198.71
+    "price": 234.91
   },
   {
     "id": "swsh4-9",
@@ -1189,7 +1189,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh4",
     "number": "9",
     "rarity": "Amazing Rare",
-    "price": 28
+    "price": 11.89
   },
   {
     "id": "swsh4-21",
@@ -1198,7 +1198,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh4",
     "number": "21",
     "rarity": "Rare Holo VMAX",
-    "price": 15.74
+    "price": 6.53
   },
   {
     "id": "swsh4-37",
@@ -1207,7 +1207,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh4",
     "number": "37",
     "rarity": "Rare Holo VMAX",
-    "price": 64.18
+    "price": 18.16
   },
   {
     "id": "swsh4-44",
@@ -1216,7 +1216,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh4",
     "number": "44",
     "rarity": "Rare Holo VMAX",
-    "price": 20.33
+    "price": 37.29
   },
   {
     "id": "swsh4-50",
@@ -1225,7 +1225,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh4",
     "number": "50",
     "rarity": "Amazing Rare",
-    "price": 10.25
+    "price": 4.58
   },
   {
     "id": "swsh4-82",
@@ -1234,7 +1234,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh4",
     "number": "82",
     "rarity": "Amazing Rare",
-    "price": 56.87
+    "price": 19.9
   },
   {
     "id": "swsh4-99",
@@ -1243,7 +1243,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh4",
     "number": "99",
     "rarity": "Rare Holo VMAX",
-    "price": 7.71
+    "price": 4.2
   },
   {
     "id": "swsh4-102",
@@ -1252,7 +1252,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh4",
     "number": "102",
     "rarity": "Amazing Rare",
-    "price": 21.89
+    "price": 11.19
   },
   {
     "id": "swsh4-119",
@@ -1261,7 +1261,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh4",
     "number": "119",
     "rarity": "Amazing Rare",
-    "price": 45
+    "price": 13.44
   },
   {
     "id": "swsh4-127",
@@ -1270,7 +1270,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh4",
     "number": "127",
     "rarity": "Rare Holo VMAX",
-    "price": 25.9
+    "price": 12.64
   },
   {
     "id": "swsh4-138",
@@ -1279,7 +1279,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh4",
     "number": "138",
     "rarity": "Amazing Rare",
-    "price": 16.05
+    "price": 11.53
   },
   {
     "id": "swsh4-141",
@@ -1288,7 +1288,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh4",
     "number": "141",
     "rarity": "Rare Holo VMAX",
-    "price": 12.85
+    "price": 6.09
   },
   {
     "id": "swsh4-166",
@@ -1297,7 +1297,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh4",
     "number": "166",
     "rarity": "Rare Ultra",
-    "price": 13.98
+    "price": 5.99
   },
   {
     "id": "swsh4-167",
@@ -1306,7 +1306,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh4",
     "number": "167",
     "rarity": "Rare Ultra",
-    "price": 15.23
+    "price": 6.11
   },
   {
     "id": "swsh4-168",
@@ -1315,7 +1315,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh4",
     "number": "168",
     "rarity": "Rare Ultra",
-    "price": 10.19
+    "price": 4.56
   },
   {
     "id": "swsh4-169",
@@ -1324,7 +1324,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh4",
     "number": "169",
     "rarity": "Rare Ultra",
-    "price": 28.74
+    "price": 10.12
   },
   {
     "id": "swsh4-170",
@@ -1333,7 +1333,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh4",
     "number": "170",
     "rarity": "Rare Ultra",
-    "price": 67
+    "price": 88.76
   },
   {
     "id": "swsh4-171",
@@ -1342,7 +1342,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh4",
     "number": "171",
     "rarity": "Rare Ultra",
-    "price": 9.76
+    "price": 4.42
   },
   {
     "id": "swsh4-172",
@@ -1351,7 +1351,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh4",
     "number": "172",
     "rarity": "Rare Ultra",
-    "price": 25.71
+    "price": 11.17
   },
   {
     "id": "swsh4-173",
@@ -1360,7 +1360,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh4",
     "number": "173",
     "rarity": "Rare Ultra",
-    "price": 19.63
+    "price": 8.29
   },
   {
     "id": "swsh4-174",
@@ -1369,7 +1369,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh4",
     "number": "174",
     "rarity": "Rare Ultra",
-    "price": 5.6
+    "price": 2.95
   },
   {
     "id": "swsh4-175",
@@ -1378,7 +1378,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh4",
     "number": "175",
     "rarity": "Rare Ultra",
-    "price": 12.81
+    "price": 6.73
   },
   {
     "id": "swsh4-176",
@@ -1387,7 +1387,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh4",
     "number": "176",
     "rarity": "Rare Ultra",
-    "price": 17.45
+    "price": 7.04
   },
   {
     "id": "swsh4-177",
@@ -1396,7 +1396,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh4",
     "number": "177",
     "rarity": "Rare Ultra",
-    "price": 16.26
+    "price": 9.01
   },
   {
     "id": "swsh4-178",
@@ -1405,7 +1405,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh4",
     "number": "178",
     "rarity": "Rare Ultra",
-    "price": 56.31
+    "price": 17.84
   },
   {
     "id": "swsh4-186",
@@ -1414,7 +1414,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh4",
     "number": "186",
     "rarity": "Rare Rainbow",
-    "price": 139.78
+    "price": 38.39
   },
   {
     "id": "swsh4-187",
@@ -1423,7 +1423,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh4",
     "number": "187",
     "rarity": "Rare Rainbow",
-    "price": 106.12
+    "price": 31.42
   },
   {
     "id": "swsh4-188",
@@ -1432,7 +1432,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh4",
     "number": "188",
     "rarity": "Rare Rainbow",
-    "price": 135.97
+    "price": 178.27
   },
   {
     "id": "swsh4-189",
@@ -1441,7 +1441,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh4",
     "number": "189",
     "rarity": "Rare Rainbow",
-    "price": 218.77
+    "price": 57.45
   },
   {
     "id": "swsh4-190",
@@ -1450,7 +1450,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh4",
     "number": "190",
     "rarity": "Rare Rainbow",
-    "price": 56.82
+    "price": 26.87
   },
   {
     "id": "swsh4-191",
@@ -1459,7 +1459,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh4",
     "number": "191",
     "rarity": "Rare Rainbow",
-    "price": 149.85
+    "price": 43.63
   },
   {
     "id": "swsh4-198",
@@ -1468,7 +1468,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh4",
     "number": "198",
     "rarity": "Rare Secret",
-    "price": 46.19
+    "price": 16.45
   },
   {
     "id": "swsh4-199",
@@ -1477,7 +1477,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh4",
     "number": "199",
     "rarity": "Rare Secret",
-    "price": 43.42
+    "price": 15.72
   },
   {
     "id": "swsh45-10",
@@ -1486,7 +1486,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh45",
     "number": "10",
     "rarity": "Rare Holo VMAX",
-    "price": 12.77
+    "price": 5.61
   },
   {
     "id": "swsh45-17",
@@ -1495,7 +1495,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh45",
     "number": "17",
     "rarity": "Amazing Rare",
-    "price": 87.05
+    "price": 34.66
   },
   {
     "id": "swsh45-19",
@@ -1504,7 +1504,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh45",
     "number": "19",
     "rarity": "Rare Holo VMAX",
-    "price": 19.72
+    "price": 13.4
   },
   {
     "id": "swsh45-21",
@@ -1513,7 +1513,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh45",
     "number": "21",
     "rarity": "Amazing Rare",
-    "price": 39.69
+    "price": 12.27
   },
   {
     "id": "swsh45-38",
@@ -1522,7 +1522,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh45",
     "number": "38",
     "rarity": "Rare Holo VMAX",
-    "price": 29.65
+    "price": 18.02
   },
   {
     "id": "swsh45-45",
@@ -1531,7 +1531,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh45",
     "number": "45",
     "rarity": "Rare Holo VMAX",
-    "price": 18.62
+    "price": 7.38
   },
   {
     "id": "swsh45-46",
@@ -1540,7 +1540,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh45",
     "number": "46",
     "rarity": "Amazing Rare",
-    "price": 13.8
+    "price": 6.41
   },
   {
     "id": "swsh45-51",
@@ -1549,7 +1549,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh45",
     "number": "51",
     "rarity": "Rare Holo VMAX",
-    "price": 14.37
+    "price": 5.86
   },
   {
     "id": "swsh45-55",
@@ -1558,7 +1558,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh45",
     "number": "55",
     "rarity": "Rare Holo VMAX",
-    "price": 4.18
+    "price": 2.49
   },
   {
     "id": "swsh45-64",
@@ -1567,7 +1567,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh45",
     "number": "64",
     "rarity": "Rare Ultra",
-    "price": 13.86
+    "price": 6.43
   },
   {
     "id": "swsh45-73",
@@ -1576,7 +1576,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh45",
     "number": "73",
     "rarity": "Rare Rainbow",
-    "price": 93.57
+    "price": 30.98
   },
   {
     "id": "swsh5-19",
@@ -1585,7 +1585,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh5",
     "number": "19",
     "rarity": "Rare Holo VMAX",
-    "price": 15.19
+    "price": 6.88
   },
   {
     "id": "swsh5-22",
@@ -1594,7 +1594,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh5",
     "number": "22",
     "rarity": "Rare Holo VMAX",
-    "price": 11.78
+    "price": 5.72
   },
   {
     "id": "swsh5-51",
@@ -1603,7 +1603,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh5",
     "number": "51",
     "rarity": "Rare Holo VMAX",
-    "price": 31.16
+    "price": 16.42
   },
   {
     "id": "swsh5-86",
@@ -1612,7 +1612,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh5",
     "number": "86",
     "rarity": "Rare Holo VMAX",
-    "price": 26.48
+    "price": 11.41
   },
   {
     "id": "swsh5-88",
@@ -1621,7 +1621,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh5",
     "number": "88",
     "rarity": "Rare Holo VMAX",
-    "price": 10.61
+    "price": 5.87
   },
   {
     "id": "swsh5-110",
@@ -1630,7 +1630,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh5",
     "number": "110",
     "rarity": "Rare Holo VMAX",
-    "price": 17.92
+    "price": 7.18
   },
   {
     "id": "swsh5-142",
@@ -1639,7 +1639,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh5",
     "number": "142",
     "rarity": "Rare Ultra",
-    "price": 7.78
+    "price": 3.75
   },
   {
     "id": "swsh5-143",
@@ -1648,7 +1648,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh5",
     "number": "143",
     "rarity": "Rare Ultra",
-    "price": 31.48
+    "price": 11.68
   },
   {
     "id": "swsh5-144",
@@ -1657,7 +1657,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh5",
     "number": "144",
     "rarity": "Rare Ultra",
-    "price": 30.4
+    "price": 11.39
   },
   {
     "id": "swsh5-145",
@@ -1666,7 +1666,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh5",
     "number": "145",
     "rarity": "Rare Ultra",
-    "price": 20.1
+    "price": 8.43
   },
   {
     "id": "swsh5-146",
@@ -1675,7 +1675,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh5",
     "number": "146",
     "rarity": "Rare Ultra",
-    "price": 14.88
+    "price": 6.77
   },
   {
     "id": "swsh5-147",
@@ -1684,7 +1684,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh5",
     "number": "147",
     "rarity": "Rare Ultra",
-    "price": 44.17
+    "price": 21.16
   },
   {
     "id": "swsh5-148",
@@ -1693,7 +1693,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh5",
     "number": "148",
     "rarity": "Rare Ultra",
-    "price": 15.19
+    "price": 6.88
   },
   {
     "id": "swsh5-149",
@@ -1702,7 +1702,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh5",
     "number": "149",
     "rarity": "Rare Ultra",
-    "price": 5.35
+    "price": 2.86
   },
   {
     "id": "swsh5-150",
@@ -1711,7 +1711,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh5",
     "number": "150",
     "rarity": "Rare Ultra",
-    "price": 27.08
+    "price": 11.6
   },
   {
     "id": "swsh5-151",
@@ -1720,7 +1720,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh5",
     "number": "151",
     "rarity": "Rare Ultra",
-    "price": 9.84
+    "price": 5.55
   },
   {
     "id": "swsh5-152",
@@ -1729,7 +1729,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh5",
     "number": "152",
     "rarity": "Rare Ultra",
-    "price": 17.09
+    "price": 8.3
   },
   {
     "id": "swsh5-153",
@@ -1738,7 +1738,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh5",
     "number": "153",
     "rarity": "Rare Ultra",
-    "price": 7.51
+    "price": 4.56
   },
   {
     "id": "swsh5-154",
@@ -1747,7 +1747,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh5",
     "number": "154",
     "rarity": "Rare Ultra",
-    "price": 42.29
+    "price": 18.06
   },
   {
     "id": "swsh5-155",
@@ -1756,7 +1756,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh5",
     "number": "155",
     "rarity": "Rare Ultra",
-    "price": 21.22
+    "price": 10.94
   },
   {
     "id": "swsh5-156",
@@ -1765,7 +1765,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh5",
     "number": "156",
     "rarity": "Rare Ultra",
-    "price": 32
+    "price": 10.94
   },
   {
     "id": "swsh5-157",
@@ -1774,7 +1774,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh5",
     "number": "157",
     "rarity": "Rare Ultra",
-    "price": 17.15
+    "price": 6.67
   },
   {
     "id": "swsh5-164",
@@ -1783,7 +1783,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh5",
     "number": "164",
     "rarity": "Rare Rainbow",
-    "price": 125.25
+    "price": 38.29
   },
   {
     "id": "swsh5-165",
@@ -1792,7 +1792,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh5",
     "number": "165",
     "rarity": "Rare Rainbow",
-    "price": 88.4
+    "price": 29.72
   },
   {
     "id": "swsh5-166",
@@ -1801,7 +1801,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh5",
     "number": "166",
     "rarity": "Rare Rainbow",
-    "price": 64.15
+    "price": 33.32
   },
   {
     "id": "swsh5-167",
@@ -1810,7 +1810,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh5",
     "number": "167",
     "rarity": "Rare Rainbow",
-    "price": 122.59
+    "price": 41.77
   },
   {
     "id": "swsh5-168",
@@ -1819,7 +1819,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh5",
     "number": "168",
     "rarity": "Rare Rainbow",
-    "price": 41.52
+    "price": 19.01
   },
   {
     "id": "swsh5-169",
@@ -1828,7 +1828,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh5",
     "number": "169",
     "rarity": "Rare Rainbow",
-    "price": 98.09
+    "price": 35.51
   },
   {
     "id": "swsh5-170",
@@ -1837,7 +1837,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh5",
     "number": "170",
     "rarity": "Rare Rainbow",
-    "price": 76.93
+    "price": 29.76
   },
   {
     "id": "swsh5-171",
@@ -1846,7 +1846,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh5",
     "number": "171",
     "rarity": "Rare Rainbow",
-    "price": 59.62
+    "price": 20.66
   },
   {
     "id": "swsh5-178",
@@ -1855,7 +1855,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh5",
     "number": "178",
     "rarity": "Rare Secret",
-    "price": 93.45
+    "price": 27.45
   },
   {
     "id": "swsh5-179",
@@ -1864,7 +1864,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh5",
     "number": "179",
     "rarity": "Rare Secret",
-    "price": 56.66
+    "price": 21.51
   },
   {
     "id": "swsh6-8",
@@ -1873,7 +1873,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "8",
     "rarity": "Rare Holo VMAX",
-    "price": 11.26
+    "price": 6.13
   },
   {
     "id": "swsh6-21",
@@ -1882,7 +1882,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "21",
     "rarity": "Rare Holo VMAX",
-    "price": 18.71
+    "price": 9.98
   },
   {
     "id": "swsh6-46",
@@ -1891,7 +1891,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "46",
     "rarity": "Rare Holo VMAX",
-    "price": 16.19
+    "price": 7.98
   },
   {
     "id": "swsh6-75",
@@ -1900,7 +1900,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "75",
     "rarity": "Rare Holo VMAX",
-    "price": 16.03
+    "price": 7.92
   },
   {
     "id": "swsh6-90",
@@ -1909,7 +1909,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "90",
     "rarity": "Rare Holo VMAX",
-    "price": 43.5
+    "price": 16.38
   },
   {
     "id": "swsh6-100",
@@ -1918,7 +1918,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "100",
     "rarity": "Rare Holo VMAX",
-    "price": 6.64
+    "price": 3.77
   },
   {
     "id": "swsh6-113",
@@ -1927,7 +1927,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "113",
     "rarity": "Rare Holo VMAX",
-    "price": 21.19
+    "price": 8.76
   },
   {
     "id": "swsh6-125",
@@ -1936,7 +1936,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "125",
     "rarity": "Rare Holo VMAX",
-    "price": 14.91
+    "price": 6.79
   },
   {
     "id": "swsh6-160",
@@ -1945,7 +1945,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "160",
     "rarity": "Rare Ultra",
-    "price": 9.52
+    "price": 5.42
   },
   {
     "id": "swsh6-161",
@@ -1954,7 +1954,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "161",
     "rarity": "Rare Ultra",
-    "price": 19.26
+    "price": 10.19
   },
   {
     "id": "swsh6-162",
@@ -1963,7 +1963,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "162",
     "rarity": "Rare Ultra",
-    "price": 25.95
+    "price": 10.15
   },
   {
     "id": "swsh6-163",
@@ -1972,7 +1972,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "163",
     "rarity": "Rare Ultra",
-    "price": 19.6
+    "price": 9.17
   },
   {
     "id": "swsh6-164",
@@ -1981,7 +1981,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "164",
     "rarity": "Rare Ultra",
-    "price": 16.83
+    "price": 8.21
   },
   {
     "id": "swsh6-165",
@@ -1990,7 +1990,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "165",
     "rarity": "Rare Ultra",
-    "price": 32.76
+    "price": 19.38
   },
   {
     "id": "swsh6-166",
@@ -1999,7 +1999,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "166",
     "rarity": "Rare Ultra",
-    "price": 28.33
+    "price": 17.44
   },
   {
     "id": "swsh6-167",
@@ -2008,7 +2008,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "167",
     "rarity": "Rare Ultra",
-    "price": 12.29
+    "price": 5.23
   },
   {
     "id": "swsh6-168",
@@ -2017,7 +2017,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "168",
     "rarity": "Rare Ultra",
-    "price": 13.69
+    "price": 5.66
   },
   {
     "id": "swsh6-169",
@@ -2026,7 +2026,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "169",
     "rarity": "Rare Ultra",
-    "price": 37.88
+    "price": 12.37
   },
   {
     "id": "swsh6-170",
@@ -2035,7 +2035,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "170",
     "rarity": "Rare Ultra",
-    "price": 41.48
+    "price": 13.22
   },
   {
     "id": "swsh6-171",
@@ -2044,7 +2044,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "171",
     "rarity": "Rare Ultra",
-    "price": 21.9
+    "price": 9.94
   },
   {
     "id": "swsh6-172",
@@ -2053,7 +2053,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "172",
     "rarity": "Rare Ultra",
-    "price": 21.89
+    "price": 9.94
   },
   {
     "id": "swsh6-173",
@@ -2062,7 +2062,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "173",
     "rarity": "Rare Ultra",
-    "price": 11.47
+    "price": 5.19
   },
   {
     "id": "swsh6-174",
@@ -2071,7 +2071,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "174",
     "rarity": "Rare Ultra",
-    "price": 22.53
+    "price": 8.48
   },
   {
     "id": "swsh6-175",
@@ -2080,7 +2080,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "175",
     "rarity": "Rare Ultra",
-    "price": 14.84
+    "price": 7.49
   },
   {
     "id": "swsh6-176",
@@ -2089,7 +2089,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "176",
     "rarity": "Rare Ultra",
-    "price": 41.26
+    "price": 13.17
   },
   {
     "id": "swsh6-177",
@@ -2098,7 +2098,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "177",
     "rarity": "Rare Ultra",
-    "price": 24.41
+    "price": 8.99
   },
   {
     "id": "swsh6-178",
@@ -2107,7 +2107,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "178",
     "rarity": "Rare Ultra",
-    "price": 13.55
+    "price": 6.33
   },
   {
     "id": "swsh6-179",
@@ -2116,7 +2116,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "179",
     "rarity": "Rare Ultra",
-    "price": 60.67
+    "price": 18.83
   },
   {
     "id": "swsh6-180",
@@ -2125,7 +2125,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "180",
     "rarity": "Rare Ultra",
-    "price": 23.56
+    "price": 8.4
   },
   {
     "id": "swsh6-181",
@@ -2134,7 +2134,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "181",
     "rarity": "Rare Ultra",
-    "price": 17.54
+    "price": 7.63
   },
   {
     "id": "swsh6-182",
@@ -2143,7 +2143,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "182",
     "rarity": "Rare Ultra",
-    "price": 34.21
+    "price": 12.41
   },
   {
     "id": "swsh6-183",
@@ -2152,7 +2152,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "183",
     "rarity": "Rare Ultra",
-    "price": 46.39
+    "price": 15.49
   },
   {
     "id": "swsh6-184",
@@ -2161,7 +2161,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "184",
     "rarity": "Rare Ultra",
-    "price": 12.19
+    "price": 5.86
   },
   {
     "id": "swsh6-185",
@@ -2170,7 +2170,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "185",
     "rarity": "Rare Ultra",
-    "price": 26.95
+    "price": 10.44
   },
   {
     "id": "swsh6-199",
@@ -2179,7 +2179,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "199",
     "rarity": "Rare Rainbow",
-    "price": 149.9
+    "price": 48.35
   },
   {
     "id": "swsh6-200",
@@ -2188,7 +2188,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "200",
     "rarity": "Rare Rainbow",
-    "price": 135.56
+    "price": 50.58
   },
   {
     "id": "swsh6-201",
@@ -2197,7 +2197,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "201",
     "rarity": "Rare Rainbow",
-    "price": 93.65
+    "price": 38.65
   },
   {
     "id": "swsh6-202",
@@ -2206,7 +2206,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "202",
     "rarity": "Rare Rainbow",
-    "price": 73.37
+    "price": 28.75
   },
   {
     "id": "swsh6-203",
@@ -2215,7 +2215,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "203",
     "rarity": "Rare Rainbow",
-    "price": 83.12
+    "price": 31.49
   },
   {
     "id": "swsh6-204",
@@ -2224,7 +2224,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "204",
     "rarity": "Rare Rainbow",
-    "price": 102.6
+    "price": 36.7
   },
   {
     "id": "swsh6-205",
@@ -2233,7 +2233,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "205",
     "rarity": "Rare Rainbow",
-    "price": 98.63
+    "price": 35.66
   },
   {
     "id": "swsh6-206",
@@ -2242,7 +2242,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "206",
     "rarity": "Rare Rainbow",
-    "price": 82.6
+    "price": 31.34
   },
   {
     "id": "swsh6-207",
@@ -2251,7 +2251,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "207",
     "rarity": "Rare Rainbow",
-    "price": 139.06
+    "price": 41.32
   },
   {
     "id": "swsh6-208",
@@ -2260,7 +2260,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "208",
     "rarity": "Rare Rainbow",
-    "price": 92.31
+    "price": 30.67
   },
   {
     "id": "swsh6-209",
@@ -2269,7 +2269,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "209",
     "rarity": "Rare Rainbow",
-    "price": 329.76
+    "price": 77.42
   },
   {
     "id": "swsh6-222",
@@ -2278,7 +2278,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "222",
     "rarity": "Rare Secret",
-    "price": 118.9
+    "price": 32.72
   },
   {
     "id": "swsh6-223",
@@ -2287,7 +2287,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "223",
     "rarity": "Rare Secret",
-    "price": 73.86
+    "price": 23.13
   },
   {
     "id": "swsh6-224",
@@ -2296,7 +2296,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh6",
     "number": "224",
     "rarity": "Rare Secret",
-    "price": 213.49
+    "price": 70.38
   },
   {
     "id": "swsh7-8",
@@ -2305,7 +2305,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "8",
     "rarity": "Rare Holo VMAX",
-    "price": 26.46
+    "price": 16.59
   },
   {
     "id": "swsh7-14",
@@ -2314,7 +2314,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "14",
     "rarity": "Rare Holo VMAX",
-    "price": 56.56
+    "price": 16.56
   },
   {
     "id": "swsh7-18",
@@ -2323,7 +2323,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "18",
     "rarity": "Rare Holo VMAX",
-    "price": 42.11
+    "price": 14.44
   },
   {
     "id": "swsh7-29",
@@ -2332,7 +2332,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "29",
     "rarity": "Rare Holo VMAX",
-    "price": 31.06
+    "price": 12.82
   },
   {
     "id": "swsh7-30",
@@ -2341,7 +2341,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "30",
     "rarity": "Rare Holo VMAX",
-    "price": 12
+    "price": 5.79
   },
   {
     "id": "swsh7-41",
@@ -2350,7 +2350,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "41",
     "rarity": "Rare Holo VMAX",
-    "price": 17.62
+    "price": 10.84
   },
   {
     "id": "swsh7-51",
@@ -2359,7 +2359,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "51",
     "rarity": "Rare Holo VMAX",
-    "price": 22.55
+    "price": 9.17
   },
   {
     "id": "swsh7-59",
@@ -2368,7 +2368,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "59",
     "rarity": "Rare Holo VMAX",
-    "price": 10.37
+    "price": 4.82
   },
   {
     "id": "swsh7-65",
@@ -2377,7 +2377,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "65",
     "rarity": "Rare Holo VMAX",
-    "price": 23.15
+    "price": 11.65
   },
   {
     "id": "swsh7-75",
@@ -2386,7 +2386,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "75",
     "rarity": "Rare Holo VMAX",
-    "price": 19.82
+    "price": 13.45
   },
   {
     "id": "swsh7-92",
@@ -2395,7 +2395,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "92",
     "rarity": "Rare Holo VMAX",
-    "price": 5.68
+    "price": 4.19
   },
   {
     "id": "swsh7-95",
@@ -2404,7 +2404,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "95",
     "rarity": "Rare Holo VMAX",
-    "price": 15.81
+    "price": 10.02
   },
   {
     "id": "swsh7-101",
@@ -2413,7 +2413,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "101",
     "rarity": "Rare Holo VMAX",
-    "price": 15.57
+    "price": 7.76
   },
   {
     "id": "swsh7-111",
@@ -2422,7 +2422,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "111",
     "rarity": "Rare Holo VMAX",
-    "price": 36.55
+    "price": 20.99
   },
   {
     "id": "swsh7-123",
@@ -2431,7 +2431,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "123",
     "rarity": "Rare Holo VMAX",
-    "price": 27.55
+    "price": 13.23
   },
   {
     "id": "swsh7-166",
@@ -2440,7 +2440,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "166",
     "rarity": "Rare Ultra",
-    "price": 23.12
+    "price": 15.04
   },
   {
     "id": "swsh7-167",
@@ -2449,7 +2449,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "167",
     "rarity": "Rare Ultra",
-    "price": 36.5
+    "price": 20.96
   },
   {
     "id": "swsh7-168",
@@ -2458,7 +2458,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "168",
     "rarity": "Rare Ultra",
-    "price": 10.13
+    "price": 4.74
   },
   {
     "id": "swsh7-169",
@@ -2467,7 +2467,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "169",
     "rarity": "Rare Ultra",
-    "price": 24.69
+    "price": 9.79
   },
   {
     "id": "swsh7-170",
@@ -2476,7 +2476,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "170",
     "rarity": "Rare Ultra",
-    "price": 21.28
+    "price": 7.8
   },
   {
     "id": "swsh7-171",
@@ -2485,7 +2485,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "171",
     "rarity": "Rare Ultra",
-    "price": 15.38
+    "price": 7.69
   },
   {
     "id": "swsh7-172",
@@ -2494,7 +2494,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "172",
     "rarity": "Rare Ultra",
-    "price": 26.34
+    "price": 10.26
   },
   {
     "id": "swsh7-173",
@@ -2503,7 +2503,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "173",
     "rarity": "Rare Ultra",
-    "price": 21.86
+    "price": 7.95
   },
   {
     "id": "swsh7-174",
@@ -2512,7 +2512,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "174",
     "rarity": "Rare Ultra",
-    "price": 67.07
+    "price": 28.67
   },
   {
     "id": "swsh7-175",
@@ -2521,7 +2521,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "175",
     "rarity": "Rare Ultra",
-    "price": 33.53
+    "price": 17.32
   },
   {
     "id": "swsh7-176",
@@ -2530,7 +2530,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "176",
     "rarity": "Rare Ultra",
-    "price": 14.67
+    "price": 5.95
   },
   {
     "id": "swsh7-177",
@@ -2539,7 +2539,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "177",
     "rarity": "Rare Ultra",
-    "price": 17.93
+    "price": 7.76
   },
   {
     "id": "swsh7-178",
@@ -2548,7 +2548,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "178",
     "rarity": "Rare Ultra",
-    "price": 13.33
+    "price": 5.79
   },
   {
     "id": "swsh7-179",
@@ -2557,7 +2557,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "179",
     "rarity": "Rare Ultra",
-    "price": 20.96
+    "price": 10.84
   },
   {
     "id": "swsh7-180",
@@ -2566,7 +2566,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "180",
     "rarity": "Rare Ultra",
-    "price": 29.88
+    "price": 14.03
   },
   {
     "id": "swsh7-181",
@@ -2575,7 +2575,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "181",
     "rarity": "Rare Ultra",
-    "price": 34.31
+    "price": 11.51
   },
   {
     "id": "swsh7-182",
@@ -2584,7 +2584,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "182",
     "rarity": "Rare Ultra",
-    "price": 7.82
+    "price": 3.93
   },
   {
     "id": "swsh7-183",
@@ -2593,7 +2593,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "183",
     "rarity": "Rare Ultra",
-    "price": 13.82
+    "price": 10.34
   },
   {
     "id": "swsh7-184",
@@ -2602,7 +2602,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "184",
     "rarity": "Rare Ultra",
-    "price": 14.43
+    "price": 10.68
   },
   {
     "id": "swsh7-185",
@@ -2611,7 +2611,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "185",
     "rarity": "Rare Ultra",
-    "price": 32.8
+    "price": 13.34
   },
   {
     "id": "swsh7-186",
@@ -2620,7 +2620,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "186",
     "rarity": "Rare Ultra",
-    "price": 29.43
+    "price": 12.33
   },
   {
     "id": "swsh7-187",
@@ -2629,7 +2629,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "187",
     "rarity": "Rare Ultra",
-    "price": 17.16
+    "price": 9.37
   },
   {
     "id": "swsh7-188",
@@ -2638,7 +2638,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "188",
     "rarity": "Rare Ultra",
-    "price": 16.24
+    "price": 10.22
   },
   {
     "id": "swsh7-189",
@@ -2647,7 +2647,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "189",
     "rarity": "Rare Ultra",
-    "price": 14.48
+    "price": 9.4
   },
   {
     "id": "swsh7-190",
@@ -2656,7 +2656,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "190",
     "rarity": "Rare Ultra",
-    "price": 18.69
+    "price": 8.86
   },
   {
     "id": "swsh7-191",
@@ -2665,7 +2665,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "191",
     "rarity": "Rare Ultra",
-    "price": 17.67
+    "price": 15.96
   },
   {
     "id": "swsh7-192",
@@ -2674,7 +2674,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "192",
     "rarity": "Rare Ultra",
-    "price": 8.45
+    "price": 9.33
   },
   {
     "id": "swsh7-193",
@@ -2683,7 +2683,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "193",
     "rarity": "Rare Ultra",
-    "price": 20.46
+    "price": 13.76
   },
   {
     "id": "swsh7-194",
@@ -2692,7 +2692,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "194",
     "rarity": "Rare Ultra",
-    "price": 42.28
+    "price": 23.33
   },
   {
     "id": "swsh7-195",
@@ -2701,7 +2701,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "195",
     "rarity": "Rare Ultra",
-    "price": 36.92
+    "price": 18.57
   },
   {
     "id": "swsh7-196",
@@ -2710,7 +2710,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "196",
     "rarity": "Rare Ultra",
-    "price": 32.1
+    "price": 16.77
   },
   {
     "id": "swsh7-197",
@@ -2719,7 +2719,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "197",
     "rarity": "Rare Ultra",
-    "price": 30.1
+    "price": 14.1
   },
   {
     "id": "swsh7-198",
@@ -2728,7 +2728,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "198",
     "rarity": "Rare Ultra",
-    "price": 9.72
+    "price": 6.2
   },
   {
     "id": "swsh7-204",
@@ -2737,7 +2737,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "204",
     "rarity": "Rare Rainbow",
-    "price": 172.75
+    "price": 77.95
   },
   {
     "id": "swsh7-205",
@@ -2746,7 +2746,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "205",
     "rarity": "Rare Rainbow",
-    "price": 134.78
+    "price": 65.08
   },
   {
     "id": "swsh7-206",
@@ -2755,7 +2755,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "206",
     "rarity": "Rare Rainbow",
-    "price": 68.22
+    "price": 22.78
   },
   {
     "id": "swsh7-207",
@@ -2764,7 +2764,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "207",
     "rarity": "Rare Rainbow",
-    "price": 45.56
+    "price": 20.33
   },
   {
     "id": "swsh7-208",
@@ -2773,7 +2773,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "208",
     "rarity": "Rare Rainbow",
-    "price": 50.12
+    "price": 27.84
   },
   {
     "id": "swsh7-209",
@@ -2782,7 +2782,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "209",
     "rarity": "Rare Rainbow",
-    "price": 77.68
+    "price": 38.3
   },
   {
     "id": "swsh7-210",
@@ -2791,7 +2791,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "210",
     "rarity": "Rare Rainbow",
-    "price": 129.98
+    "price": 36.41
   },
   {
     "id": "swsh7-211",
@@ -2800,7 +2800,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "211",
     "rarity": "Rare Rainbow",
-    "price": 170.28
+    "price": 77.14
   },
   {
     "id": "swsh7-212",
@@ -2809,7 +2809,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "212",
     "rarity": "Rare Rainbow",
-    "price": 137.91
+    "price": 66.18
   },
   {
     "id": "swsh7-213",
@@ -2818,7 +2818,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "213",
     "rarity": "Rare Rainbow",
-    "price": 82.79
+    "price": 35.34
   },
   {
     "id": "swsh7-214",
@@ -2827,7 +2827,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "214",
     "rarity": "Rare Rainbow",
-    "price": 309.19
+    "price": 104.58
   },
   {
     "id": "swsh7-215",
@@ -2836,7 +2836,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "215",
     "rarity": "Rare Rainbow",
-    "price": 165.2
+    "price": 66.29
   },
   {
     "id": "swsh7-216",
@@ -2845,7 +2845,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "216",
     "rarity": "Rare Rainbow",
-    "price": 40.59
+    "price": 18.7
   },
   {
     "id": "swsh7-217",
@@ -2854,7 +2854,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "217",
     "rarity": "Rare Rainbow",
-    "price": 120.6
+    "price": 60.03
   },
   {
     "id": "swsh7-218",
@@ -2863,7 +2863,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "218",
     "rarity": "Rare Rainbow",
-    "price": 156.3
+    "price": 72.49
   },
   {
     "id": "swsh7-219",
@@ -2872,7 +2872,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "219",
     "rarity": "Rare Rainbow",
-    "price": 192.85
+    "price": 65.36
   },
   {
     "id": "swsh7-220",
@@ -2881,7 +2881,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "220",
     "rarity": "Rare Rainbow",
-    "price": 152.65
+    "price": 55.14
   },
   {
     "id": "swsh7-226",
@@ -2890,7 +2890,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "226",
     "rarity": "Rare Secret",
-    "price": 160.61
+    "price": 64.95
   },
   {
     "id": "swsh7-227",
@@ -2899,7 +2899,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "227",
     "rarity": "Rare Secret",
-    "price": 147.46
+    "price": 61.03
   },
   {
     "id": "swsh7-228",
@@ -2908,7 +2908,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh7",
     "number": "228",
     "rarity": "Rare Secret",
-    "price": 43.97
+    "price": 15.87
   },
   {
     "id": "cel25-7",
@@ -2917,7 +2917,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "cel25",
     "number": "7",
     "rarity": "Rare Holo VMAX",
-    "price": 20.66
+    "price": 7.63
   },
   {
     "id": "cel25-9",
@@ -2926,7 +2926,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "cel25",
     "number": "9",
     "rarity": "Rare Holo VMAX",
-    "price": 13.61
+    "price": 5.63
   },
   {
     "id": "swsh8-23",
@@ -2935,7 +2935,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh8",
     "number": "23",
     "rarity": "Rare Holo VMAX",
-    "price": 37.22
+    "price": 14.62
   },
   {
     "id": "swsh8-40",
@@ -2944,7 +2944,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh8",
     "number": "40",
     "rarity": "Rare Holo VMAX",
-    "price": 28.31
+    "price": 15.31
   },
   {
     "id": "swsh8-45",
@@ -2953,7 +2953,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh8",
     "number": "45",
     "rarity": "Rare Holo VMAX",
-    "price": 15.75
+    "price": 11.38
   },
   {
     "id": "swsh8-79",
@@ -2962,7 +2962,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh8",
     "number": "79",
     "rarity": "Rare Holo VMAX",
-    "price": 25.27
+    "price": 14.1
   },
   {
     "id": "swsh8-104",
@@ -2971,7 +2971,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh8",
     "number": "104",
     "rarity": "Rare Holo VMAX",
-    "price": 21.05
+    "price": 8.72
   },
   {
     "id": "swsh8-114",
@@ -2980,7 +2980,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh8",
     "number": "114",
     "rarity": "Rare Holo VMAX",
-    "price": 26.06
+    "price": 21.17
   },
   {
     "id": "swsh8-157",
@@ -2989,7 +2989,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh8",
     "number": "157",
     "rarity": "Rare Holo VMAX",
-    "price": 26.86
+    "price": 16.77
   },
   {
     "id": "swsh8-218",
@@ -2998,7 +2998,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh8",
     "number": "218",
     "rarity": "Rare Holo VMAX",
-    "price": 19.84
+    "price": 10.41
   },
   {
     "id": "swsh8-245",
@@ -3007,7 +3007,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh8",
     "number": "245",
     "rarity": "Rare Ultra",
-    "price": 21.37
+    "price": 9.77
   },
   {
     "id": "swsh8-246",
@@ -3016,7 +3016,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh8",
     "number": "246",
     "rarity": "Rare Ultra",
-    "price": 20.51
+    "price": 7.92
   },
   {
     "id": "swsh8-247",
@@ -3025,7 +3025,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh8",
     "number": "247",
     "rarity": "Rare Ultra",
-    "price": 33.05
+    "price": 17.13
   },
   {
     "id": "swsh8-248",
@@ -3034,7 +3034,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh8",
     "number": "248",
     "rarity": "Rare Ultra",
-    "price": 17.92
+    "price": 6.88
   },
   {
     "id": "swsh8-249",
@@ -3043,7 +3043,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh8",
     "number": "249",
     "rarity": "Rare Ultra",
-    "price": 8.98
+    "price": 4.69
   },
   {
     "id": "swsh8-250",
@@ -3052,7 +3052,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh8",
     "number": "250",
     "rarity": "Rare Ultra",
-    "price": 24.93
+    "price": 20.5
   },
   {
     "id": "swsh8-251",
@@ -3061,7 +3061,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh8",
     "number": "251",
     "rarity": "Rare Ultra",
-    "price": 29.34
+    "price": 23.08
   },
   {
     "id": "swsh8-252",
@@ -3070,7 +3070,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh8",
     "number": "252",
     "rarity": "Rare Ultra",
-    "price": 13.6
+    "price": 7.03
   },
   {
     "id": "swsh8-253",
@@ -3079,7 +3079,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh8",
     "number": "253",
     "rarity": "Rare Ultra",
-    "price": 19.63
+    "price": 7.67
   },
   {
     "id": "swsh8-254",
@@ -3088,7 +3088,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh8",
     "number": "254",
     "rarity": "Rare Ultra",
-    "price": 35.93
+    "price": 14.25
   },
   {
     "id": "swsh8-255",
@@ -3097,7 +3097,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh8",
     "number": "255",
     "rarity": "Rare Ultra",
-    "price": 8.75
+    "price": 5.1
   },
   {
     "id": "swsh8-256",
@@ -3106,7 +3106,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh8",
     "number": "256",
     "rarity": "Rare Ultra",
-    "price": 26.28
+    "price": 12.78
   },
   {
     "id": "swsh8-257",
@@ -3115,7 +3115,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh8",
     "number": "257",
     "rarity": "Rare Ultra",
-    "price": 14.62
+    "price": 8.34
   },
   {
     "id": "swsh8-265",
@@ -3124,7 +3124,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh8",
     "number": "265",
     "rarity": "Rare Rainbow",
-    "price": 93.53
+    "price": 43.83
   },
   {
     "id": "swsh8-266",
@@ -3133,7 +3133,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh8",
     "number": "266",
     "rarity": "Rare Rainbow",
-    "price": 37.76
+    "price": 22.66
   },
   {
     "id": "swsh8-267",
@@ -3142,7 +3142,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh8",
     "number": "267",
     "rarity": "Rare Rainbow",
-    "price": 101.6
+    "price": 32.89
   },
   {
     "id": "swsh8-268",
@@ -3151,7 +3151,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh8",
     "number": "268",
     "rarity": "Rare Rainbow",
-    "price": 153.44
+    "price": 92.26
   },
   {
     "id": "swsh8-269",
@@ -3160,7 +3160,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh8",
     "number": "269",
     "rarity": "Rare Rainbow",
-    "price": 128.37
+    "price": 81.04
   },
   {
     "id": "swsh8-270",
@@ -3169,7 +3169,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh8",
     "number": "270",
     "rarity": "Rare Rainbow",
-    "price": 187.67
+    "price": 64.08
   },
   {
     "id": "swsh8-271",
@@ -3178,7 +3178,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh8",
     "number": "271",
     "rarity": "Rare Rainbow",
-    "price": 453.02
+    "price": 157.16
   },
   {
     "id": "swsh8-272",
@@ -3187,7 +3187,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh8",
     "number": "272",
     "rarity": "Rare Rainbow",
-    "price": 85.87
+    "price": 36.29
   },
   {
     "id": "swsh8-280",
@@ -3196,7 +3196,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh8",
     "number": "280",
     "rarity": "Rare Secret",
-    "price": 78.2
+    "price": 24.12
   },
   {
     "id": "swsh9-14",
@@ -3205,7 +3205,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh9",
     "number": "14",
     "rarity": "Rare Holo VSTAR",
-    "price": 7.61
+    "price": 4.16
   },
   {
     "id": "swsh9-18",
@@ -3214,7 +3214,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh9",
     "number": "18",
     "rarity": "Rare Holo VSTAR",
-    "price": 22.97
+    "price": 40.75
   },
   {
     "id": "swsh9-29",
@@ -3223,7 +3223,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh9",
     "number": "29",
     "rarity": "Rare Holo VMAX",
-    "price": 17.88
+    "price": 6.87
   },
   {
     "id": "swsh9-65",
@@ -3232,7 +3232,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh9",
     "number": "65",
     "rarity": "Rare Holo VSTAR",
-    "price": 25.32
+    "price": 12.44
   },
   {
     "id": "swsh9-69",
@@ -3241,7 +3241,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh9",
     "number": "69",
     "rarity": "Rare Holo VMAX",
-    "price": 14.82
+    "price": 6.76
   },
   {
     "id": "swsh9-97",
@@ -3250,7 +3250,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh9",
     "number": "97",
     "rarity": "Rare Holo VMAX",
-    "price": 9.15
+    "price": 4.22
   },
   {
     "id": "swsh9-123",
@@ -3259,7 +3259,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh9",
     "number": "123",
     "rarity": "Rare Holo VSTAR",
-    "price": 11.04
+    "price": 6.04
   },
   {
     "id": "swsh9-152",
@@ -3268,7 +3268,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh9",
     "number": "152",
     "rarity": "Rare Ultra",
-    "price": 24.74
+    "price": 9.81
   },
   {
     "id": "swsh9-153",
@@ -3277,7 +3277,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh9",
     "number": "153",
     "rarity": "Rare Ultra",
-    "price": 23.23
+    "price": 41.07
   },
   {
     "id": "swsh9-154",
@@ -3286,7 +3286,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh9",
     "number": "154",
     "rarity": "Rare Ultra",
-    "price": 61.66
+    "price": 83.55
   },
   {
     "id": "swsh9-155",
@@ -3295,7 +3295,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh9",
     "number": "155",
     "rarity": "Rare Ultra",
-    "price": 11.86
+    "price": 5.1
   },
   {
     "id": "swsh9-156",
@@ -3304,7 +3304,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh9",
     "number": "156",
     "rarity": "Rare Ultra",
-    "price": 26.54
+    "price": 9.16
   },
   {
     "id": "swsh9-157",
@@ -3313,7 +3313,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh9",
     "number": "157",
     "rarity": "Rare Ultra",
-    "price": 17.28
+    "price": 33.13
   },
   {
     "id": "swsh9-158",
@@ -3322,7 +3322,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh9",
     "number": "158",
     "rarity": "Rare Ultra",
-    "price": 38.35
+    "price": 12.49
   },
   {
     "id": "swsh9-159",
@@ -3331,7 +3331,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh9",
     "number": "159",
     "rarity": "Rare Ultra",
-    "price": 12.57
+    "price": 5.32
   },
   {
     "id": "swsh9-160",
@@ -3340,7 +3340,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh9",
     "number": "160",
     "rarity": "Rare Ultra",
-    "price": 14.37
+    "price": 8.24
   },
   {
     "id": "swsh9-161",
@@ -3349,7 +3349,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh9",
     "number": "161",
     "rarity": "Rare Ultra",
-    "price": 7.14
+    "price": 3.52
   },
   {
     "id": "swsh9-162",
@@ -3358,7 +3358,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh9",
     "number": "162",
     "rarity": "Rare Ultra",
-    "price": 24.74
+    "price": 8.7
   },
   {
     "id": "swsh9-163",
@@ -3367,7 +3367,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh9",
     "number": "163",
     "rarity": "Rare Ultra",
-    "price": 17.14
+    "price": 9.37
   },
   {
     "id": "swsh9-164",
@@ -3376,7 +3376,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh9",
     "number": "164",
     "rarity": "Rare Ultra",
-    "price": 9.65
+    "price": 4.95
   },
   {
     "id": "swsh9-165",
@@ -3385,7 +3385,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh9",
     "number": "165",
     "rarity": "Rare Ultra",
-    "price": 8.5
+    "price": 4.99
   },
   {
     "id": "swsh9-166",
@@ -3394,7 +3394,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh9",
     "number": "166",
     "rarity": "Rare Ultra",
-    "price": 12.87
+    "price": 6.75
   },
   {
     "id": "swsh9-173",
@@ -3403,7 +3403,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh9",
     "number": "173",
     "rarity": "Rare Rainbow",
-    "price": 261.94
+    "price": 65.48
   },
   {
     "id": "swsh9-174",
@@ -3412,7 +3412,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh9",
     "number": "174",
     "rarity": "Rare Rainbow",
-    "price": 402.53
+    "price": 392.54
   },
   {
     "id": "swsh9-175",
@@ -3421,7 +3421,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh9",
     "number": "175",
     "rarity": "Rare Rainbow",
-    "price": 131.47
+    "price": 49.47
   },
   {
     "id": "swsh9-176",
@@ -3430,7 +3430,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh9",
     "number": "176",
     "rarity": "Rare Rainbow",
-    "price": 134.97
+    "price": 44.79
   },
   {
     "id": "swsh9-181",
@@ -3439,7 +3439,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh9",
     "number": "181",
     "rarity": "Rare Secret",
-    "price": 103.85
+    "price": 30.93
   },
   {
     "id": "swsh9-182",
@@ -3448,7 +3448,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh9",
     "number": "182",
     "rarity": "Rare Secret",
-    "price": 166.2
+    "price": 43.54
   },
   {
     "id": "swsh9-183",
@@ -3457,7 +3457,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh9",
     "number": "183",
     "rarity": "Rare Secret",
-    "price": 36.31
+    "price": 14.4
   },
   {
     "id": "swsh9-184",
@@ -3466,7 +3466,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh9",
     "number": "184",
     "rarity": "Rare Secret",
-    "price": 107.64
+    "price": 38
   },
   {
     "id": "swsh10-18",
@@ -3475,7 +3475,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "18",
     "rarity": "Rare Holo VSTAR",
-    "price": 23.19
+    "price": 9.35
   },
   {
     "id": "swsh10-26",
@@ -3484,7 +3484,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "26",
     "rarity": "Rare Holo VMAX",
-    "price": 13.31
+    "price": 5.78
   },
   {
     "id": "swsh10-27",
@@ -3493,7 +3493,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "27",
     "rarity": "Radiant Rare",
-    "price": 6.54
+    "price": 3.31
   },
   {
     "id": "swsh10-40",
@@ -3502,7 +3502,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "40",
     "rarity": "Rare Holo VSTAR",
-    "price": 10.69
+    "price": 5.33
   },
   {
     "id": "swsh10-46",
@@ -3511,7 +3511,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "46",
     "rarity": "Radiant Rare",
-    "price": 15.58
+    "price": 6.21
   },
   {
     "id": "swsh10-54",
@@ -3520,7 +3520,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "54",
     "rarity": "Rare Holo VSTAR",
-    "price": 10.25
+    "price": 4.78
   },
   {
     "id": "swsh10-73",
@@ -3529,7 +3529,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "73",
     "rarity": "Rare Holo VMAX",
-    "price": 24.42
+    "price": 9.71
   },
   {
     "id": "swsh10-81",
@@ -3538,7 +3538,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "81",
     "rarity": "Radiant Rare",
-    "price": 40.09
+    "price": 12.36
   },
   {
     "id": "swsh10-84",
@@ -3547,7 +3547,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "84",
     "rarity": "Rare Holo VSTAR",
-    "price": 17.61
+    "price": 7.09
   },
   {
     "id": "swsh10-99",
@@ -3556,7 +3556,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "99",
     "rarity": "Rare Holo VSTAR",
-    "price": 11.23
+    "price": 6.12
   },
   {
     "id": "swsh10-102",
@@ -3565,7 +3565,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "102",
     "rarity": "Rare Holo VSTAR",
-    "price": 11.6
+    "price": 5.65
   },
   {
     "id": "swsh10-114",
@@ -3574,7 +3574,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "114",
     "rarity": "Rare Holo VSTAR",
-    "price": 9.82
+    "price": 5.01
   },
   {
     "id": "swsh10-160",
@@ -3583,7 +3583,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "160",
     "rarity": "Rare Ultra",
-    "price": 51.5
+    "price": 16.71
   },
   {
     "id": "swsh10-161",
@@ -3592,7 +3592,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "161",
     "rarity": "Rare Ultra",
-    "price": 8.82
+    "price": 4.63
   },
   {
     "id": "swsh10-162",
@@ -3601,7 +3601,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "162",
     "rarity": "Rare Ultra",
-    "price": 7.64
+    "price": 4.17
   },
   {
     "id": "swsh10-163",
@@ -3610,7 +3610,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "163",
     "rarity": "Rare Ultra",
-    "price": 7.4
+    "price": 4.08
   },
   {
     "id": "swsh10-164",
@@ -3619,7 +3619,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "164",
     "rarity": "Rare Ultra",
-    "price": 23.79
+    "price": 8.46
   },
   {
     "id": "swsh10-165",
@@ -3628,7 +3628,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "165",
     "rarity": "Rare Ultra",
-    "price": 14.91
+    "price": 6.28
   },
   {
     "id": "swsh10-166",
@@ -3637,7 +3637,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "166",
     "rarity": "Rare Ultra",
-    "price": 7.43
+    "price": 4.53
   },
   {
     "id": "swsh10-167",
@@ -3646,7 +3646,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "167",
     "rarity": "Rare Ultra",
-    "price": 11.88
+    "price": 5.75
   },
   {
     "id": "swsh10-168",
@@ -3655,7 +3655,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "168",
     "rarity": "Rare Ultra",
-    "price": 48.75
+    "price": 16.06
   },
   {
     "id": "swsh10-169",
@@ -3664,7 +3664,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "169",
     "rarity": "Rare Ultra",
-    "price": 24.11
+    "price": 8.91
   },
   {
     "id": "swsh10-170",
@@ -3673,7 +3673,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "170",
     "rarity": "Rare Ultra",
-    "price": 19.29
+    "price": 7.26
   },
   {
     "id": "swsh10-171",
@@ -3682,7 +3682,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "171",
     "rarity": "Rare Ultra",
-    "price": 42.67
+    "price": 14.58
   },
   {
     "id": "swsh10-172",
@@ -3691,7 +3691,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "172",
     "rarity": "Rare Ultra",
-    "price": 60.62
+    "price": 18.82
   },
   {
     "id": "swsh10-173",
@@ -3700,7 +3700,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "173",
     "rarity": "Rare Ultra",
-    "price": 21.1
+    "price": 8.08
   },
   {
     "id": "swsh10-174",
@@ -3709,7 +3709,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "174",
     "rarity": "Rare Ultra",
-    "price": 25.29
+    "price": 8.84
   },
   {
     "id": "swsh10-175",
@@ -3718,7 +3718,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "175",
     "rarity": "Rare Ultra",
-    "price": 28.44
+    "price": 9.63
   },
   {
     "id": "swsh10-176",
@@ -3727,7 +3727,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "176",
     "rarity": "Rare Ultra",
-    "price": 30.01
+    "price": 11.28
   },
   {
     "id": "swsh10-177",
@@ -3736,7 +3736,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "177",
     "rarity": "Rare Ultra",
-    "price": 25.22
+    "price": 9.94
   },
   {
     "id": "swsh10-178",
@@ -3745,7 +3745,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "178",
     "rarity": "Rare Ultra",
-    "price": 18.55
+    "price": 8.81
   },
   {
     "id": "swsh10-179",
@@ -3754,7 +3754,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "179",
     "rarity": "Rare Ultra",
-    "price": 22.45
+    "price": 8.11
   },
   {
     "id": "swsh10-180",
@@ -3763,7 +3763,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "180",
     "rarity": "Rare Ultra",
-    "price": 11.56
+    "price": 5
   },
   {
     "id": "swsh10-190",
@@ -3772,7 +3772,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "190",
     "rarity": "Rare Rainbow",
-    "price": 81.12
+    "price": 27.92
   },
   {
     "id": "swsh10-191",
@@ -3781,7 +3781,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "191",
     "rarity": "Rare Rainbow",
-    "price": 85.9
+    "price": 26.94
   },
   {
     "id": "swsh10-192",
@@ -3790,7 +3790,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "192",
     "rarity": "Rare Rainbow",
-    "price": 146.44
+    "price": 42.9
   },
   {
     "id": "swsh10-193",
@@ -3799,7 +3799,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "193",
     "rarity": "Rare Rainbow",
-    "price": 205.28
+    "price": 50.77
   },
   {
     "id": "swsh10-194",
@@ -3808,7 +3808,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "194",
     "rarity": "Rare Rainbow",
-    "price": 171.21
+    "price": 48.07
   },
   {
     "id": "swsh10-195",
@@ -3817,7 +3817,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "195",
     "rarity": "Rare Rainbow",
-    "price": 75
+    "price": 24.41
   },
   {
     "id": "swsh10-196",
@@ -3826,7 +3826,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "196",
     "rarity": "Rare Rainbow",
-    "price": 50.6
+    "price": 17.57
   },
   {
     "id": "swsh10-197",
@@ -3835,7 +3835,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "197",
     "rarity": "Rare Rainbow",
-    "price": 76.3
+    "price": 26.7
   },
   {
     "id": "swsh10-198",
@@ -3844,7 +3844,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "198",
     "rarity": "Rare Rainbow",
-    "price": 97.33
+    "price": 31.88
   },
   {
     "id": "swsh10-208",
@@ -3853,7 +3853,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "208",
     "rarity": "Rare Secret",
-    "price": 97.89
+    "price": 32.01
   },
   {
     "id": "swsh10-209",
@@ -3862,7 +3862,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "209",
     "rarity": "Rare Secret",
-    "price": 132.45
+    "price": 39.88
   },
   {
     "id": "swsh10-210",
@@ -3871,7 +3871,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh10",
     "number": "210",
     "rarity": "Rare Secret",
-    "price": 40.37
+    "price": 16.81
   },
   {
     "id": "pgo-4",
@@ -3880,7 +3880,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "pgo",
     "number": "4",
     "rarity": "Radiant Rare",
-    "price": 16.84
+    "price": 6.57
   },
   {
     "id": "pgo-11",
@@ -3889,7 +3889,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "pgo",
     "number": "11",
     "rarity": "Radiant Rare",
-    "price": 19.06
+    "price": 7.2
   },
   {
     "id": "pgo-18",
@@ -3898,7 +3898,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "pgo",
     "number": "18",
     "rarity": "Radiant Rare",
-    "price": 25.17
+    "price": 8.81
   },
   {
     "id": "pgo-31",
@@ -3907,7 +3907,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "pgo",
     "number": "31",
     "rarity": "Rare Holo VSTAR",
-    "price": 14.94
+    "price": 7.53
   },
   {
     "id": "pgo-48",
@@ -3916,7 +3916,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "pgo",
     "number": "48",
     "rarity": "Rare Holo VMAX",
-    "price": 45.69
+    "price": 16.97
   },
   {
     "id": "pgo-50",
@@ -3925,7 +3925,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "pgo",
     "number": "50",
     "rarity": "Rare Holo VSTAR",
-    "price": 16.6
+    "price": 15.25
   },
   {
     "id": "pgo-71",
@@ -3934,7 +3934,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "pgo",
     "number": "71",
     "rarity": "Rare Ultra",
-    "price": 23.94
+    "price": 10.61
   },
   {
     "id": "pgo-72",
@@ -3943,7 +3943,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "pgo",
     "number": "72",
     "rarity": "Rare Ultra",
-    "price": 20.97
+    "price": 9.63
   },
   {
     "id": "pgo-73",
@@ -3952,7 +3952,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "pgo",
     "number": "73",
     "rarity": "Rare Ultra",
-    "price": 27.58
+    "price": 9.82
   },
   {
     "id": "pgo-74",
@@ -3961,7 +3961,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "pgo",
     "number": "74",
     "rarity": "Rare Ultra",
-    "price": 27.08
+    "price": 9.69
   },
   {
     "id": "pgo-75",
@@ -3970,7 +3970,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "pgo",
     "number": "75",
     "rarity": "Rare Ultra",
-    "price": 25.39
+    "price": 11.07
   },
   {
     "id": "pgo-76",
@@ -3979,7 +3979,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "pgo",
     "number": "76",
     "rarity": "Rare Ultra",
-    "price": 27.31
+    "price": 21.9
   },
   {
     "id": "pgo-77",
@@ -3988,7 +3988,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "pgo",
     "number": "77",
     "rarity": "Rare Ultra",
-    "price": 8.81
+    "price": 4.29
   },
   {
     "id": "pgo-79",
@@ -3997,7 +3997,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "pgo",
     "number": "79",
     "rarity": "Rare Rainbow",
-    "price": 88.19
+    "price": 32.87
   },
   {
     "id": "pgo-80",
@@ -4006,7 +4006,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "pgo",
     "number": "80",
     "rarity": "Rare Rainbow",
-    "price": 113.53
+    "price": 39.5
   },
   {
     "id": "pgo-81",
@@ -4015,7 +4015,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "pgo",
     "number": "81",
     "rarity": "Rare Rainbow",
-    "price": 96.22
+    "price": 65.71
   },
   {
     "id": "pgo-86",
@@ -4024,7 +4024,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "pgo",
     "number": "86",
     "rarity": "Rare Secret",
-    "price": 61.64
+    "price": 25.33
   },
   {
     "id": "swsh11-49",
@@ -4033,7 +4033,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "49",
     "rarity": "Rare Holo VMAX",
-    "price": 86.26
+    "price": 30.33
   },
   {
     "id": "swsh11-57",
@@ -4042,7 +4042,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "57",
     "rarity": "Rare Holo VSTAR",
-    "price": 10.97
+    "price": 6.01
   },
   {
     "id": "swsh11-69",
@@ -4051,7 +4051,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "69",
     "rarity": "Radiant Rare",
-    "price": 11
+    "price": 4.83
   },
   {
     "id": "swsh11-93",
@@ -4060,7 +4060,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "93",
     "rarity": "Rare Holo VSTAR",
-    "price": 9.63
+    "price": 4.94
   },
   {
     "id": "swsh11-119",
@@ -4069,7 +4069,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "119",
     "rarity": "Rare Holo VSTAR",
-    "price": 8.41
+    "price": 4.96
   },
   {
     "id": "swsh11-123",
@@ -4078,7 +4078,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "123",
     "rarity": "Radiant Rare",
-    "price": 59.4
+    "price": 16.45
   },
   {
     "id": "swsh11-124",
@@ -4087,7 +4087,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "124",
     "rarity": "Radiant Rare",
-    "price": 9.79
+    "price": 4.43
   },
   {
     "id": "swsh11-131",
@@ -4096,7 +4096,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "131",
     "rarity": "Rare Holo VSTAR",
-    "price": 9.78
+    "price": 5.53
   },
   {
     "id": "swsh11-136",
@@ -4105,7 +4105,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "136",
     "rarity": "Rare Holo VSTAR",
-    "price": 4.36
+    "price": 2.57
   },
   {
     "id": "swsh11-147",
@@ -4114,7 +4114,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "147",
     "rarity": "Rare Holo VSTAR",
-    "price": 8.49
+    "price": 4.17
   },
   {
     "id": "swsh11-172",
@@ -4123,7 +4123,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "172",
     "rarity": "Rare Ultra",
-    "price": 20.02
+    "price": 7.46
   },
   {
     "id": "swsh11-173",
@@ -4132,7 +4132,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "173",
     "rarity": "Rare Ultra",
-    "price": 9.73
+    "price": 4.41
   },
   {
     "id": "swsh11-174",
@@ -4141,7 +4141,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "174",
     "rarity": "Rare Ultra",
-    "price": 31.52
+    "price": 14.58
   },
   {
     "id": "swsh11-175",
@@ -4150,7 +4150,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "175",
     "rarity": "Rare Ultra",
-    "price": 16.32
+    "price": 8.03
   },
   {
     "id": "swsh11-176",
@@ -4159,7 +4159,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "176",
     "rarity": "Rare Ultra",
-    "price": 17.3
+    "price": 10.7
   },
   {
     "id": "swsh11-177",
@@ -4168,7 +4168,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "177",
     "rarity": "Rare Ultra",
-    "price": 72.31
+    "price": 30.28
   },
   {
     "id": "swsh11-178",
@@ -4177,7 +4177,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "178",
     "rarity": "Rare Ultra",
-    "price": 25.78
+    "price": 8.97
   },
   {
     "id": "swsh11-179",
@@ -4186,7 +4186,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "179",
     "rarity": "Rare Ultra",
-    "price": 23.47
+    "price": 9.44
   },
   {
     "id": "swsh11-180",
@@ -4195,7 +4195,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "180",
     "rarity": "Rare Ultra",
-    "price": 22.23
+    "price": 9.07
   },
   {
     "id": "swsh11-181",
@@ -4204,7 +4204,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "181",
     "rarity": "Rare Ultra",
-    "price": 24.98
+    "price": 8.76
   },
   {
     "id": "swsh11-182",
@@ -4213,7 +4213,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "182",
     "rarity": "Rare Ultra",
-    "price": 28.12
+    "price": 11.92
   },
   {
     "id": "swsh11-183",
@@ -4222,7 +4222,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "183",
     "rarity": "Rare Ultra",
-    "price": 15.27
+    "price": 6.39
   },
   {
     "id": "swsh11-184",
@@ -4231,7 +4231,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "184",
     "rarity": "Rare Ultra",
-    "price": 16.35
+    "price": 6.72
   },
   {
     "id": "swsh11-185",
@@ -4240,7 +4240,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "185",
     "rarity": "Rare Ultra",
-    "price": 20.41
+    "price": 9.45
   },
   {
     "id": "swsh11-186",
@@ -4249,7 +4249,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "186",
     "rarity": "Rare Ultra",
-    "price": 33.74
+    "price": 13.62
   },
   {
     "id": "swsh11-187",
@@ -4258,7 +4258,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "187",
     "rarity": "Rare Ultra",
-    "price": 14.8
+    "price": 6.25
   },
   {
     "id": "swsh11-188",
@@ -4267,7 +4267,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "188",
     "rarity": "Rare Ultra",
-    "price": 16.4
+    "price": 8.05
   },
   {
     "id": "swsh11-197",
@@ -4276,7 +4276,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "197",
     "rarity": "Rare Rainbow",
-    "price": 64.15
+    "price": 29.36
   },
   {
     "id": "swsh11-198",
@@ -4285,7 +4285,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "198",
     "rarity": "Rare Rainbow",
-    "price": 139.78
+    "price": 45.95
   },
   {
     "id": "swsh11-199",
@@ -4294,7 +4294,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "199",
     "rarity": "Rare Rainbow",
-    "price": 84.44
+    "price": 28.75
   },
   {
     "id": "swsh11-200",
@@ -4303,7 +4303,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "200",
     "rarity": "Rare Rainbow",
-    "price": 109.6
+    "price": 38.5
   },
   {
     "id": "swsh11-201",
@@ -4312,7 +4312,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "201",
     "rarity": "Rare Rainbow",
-    "price": 32.72
+    "price": 15.98
   },
   {
     "id": "swsh11-202",
@@ -4321,7 +4321,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "202",
     "rarity": "Rare Rainbow",
-    "price": 57.42
+    "price": 20.1
   },
   {
     "id": "swsh11-203",
@@ -4330,7 +4330,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "203",
     "rarity": "Rare Rainbow",
-    "price": 55.36
+    "price": 19.57
   },
   {
     "id": "swsh11-212",
@@ -4339,7 +4339,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "212",
     "rarity": "Rare Secret",
-    "price": 82.17
+    "price": 31.22
   },
   {
     "id": "swsh11-213",
@@ -4348,7 +4348,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh11",
     "number": "213",
     "rarity": "Rare Secret",
-    "price": 139.18
+    "price": 38.27
   },
   {
     "id": "swsh12-8",
@@ -4357,7 +4357,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "8",
     "rarity": "Rare Holo VSTAR",
-    "price": 74.56
+    "price": 30.96
   },
   {
     "id": "swsh12-16",
@@ -4366,7 +4366,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "16",
     "rarity": "Radiant Rare",
-    "price": 28.61
+    "price": 9.67
   },
   {
     "id": "swsh12-34",
@@ -4375,7 +4375,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "34",
     "rarity": "Rare Holo VSTAR",
-    "price": 29.34
+    "price": 10.27
   },
   {
     "id": "swsh12-58",
@@ -4384,7 +4384,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "58",
     "rarity": "Rare Holo VMAX",
-    "price": 19.27
+    "price": 7.57
   },
   {
     "id": "swsh12-59",
@@ -4393,7 +4393,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "59",
     "rarity": "Radiant Rare",
-    "price": 9.55
+    "price": 4.35
   },
   {
     "id": "swsh12-66",
@@ -4402,7 +4402,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "66",
     "rarity": "Rare Holo VSTAR",
-    "price": 16.15
+    "price": 7.19
   },
   {
     "id": "swsh12-71",
@@ -4411,7 +4411,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "71",
     "rarity": "Rare Holo VSTAR",
-    "price": 23.01
+    "price": 11.6
   },
   {
     "id": "swsh12-120",
@@ -4420,7 +4420,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "120",
     "rarity": "Radiant Rare",
-    "price": 7.14
+    "price": 3.52
   },
   {
     "id": "swsh12-136",
@@ -4429,7 +4429,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "136",
     "rarity": "Rare Holo VSTAR",
-    "price": 19.21
+    "price": 8.16
   },
   {
     "id": "swsh12-139",
@@ -4438,7 +4438,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "139",
     "rarity": "Rare Holo VSTAR",
-    "price": 9.51
+    "price": 6.1
   },
   {
     "id": "swsh12-170",
@@ -4447,7 +4447,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "170",
     "rarity": "Rare Ultra",
-    "price": 20.64
+    "price": 12.17
   },
   {
     "id": "swsh12-171",
@@ -4456,7 +4456,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "171",
     "rarity": "Rare Ultra",
-    "price": 40.11
+    "price": 12.36
   },
   {
     "id": "swsh12-172",
@@ -4465,7 +4465,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "172",
     "rarity": "Rare Ultra",
-    "price": 16.31
+    "price": 10.25
   },
   {
     "id": "swsh12-173",
@@ -4474,7 +4474,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "173",
     "rarity": "Rare Ultra",
-    "price": 31.58
+    "price": 10.84
   },
   {
     "id": "swsh12-174",
@@ -4483,7 +4483,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "174",
     "rarity": "Rare Ultra",
-    "price": 14.18
+    "price": 5.8
   },
   {
     "id": "swsh12-175",
@@ -4492,7 +4492,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "175",
     "rarity": "Rare Ultra",
-    "price": 8.15
+    "price": 4.05
   },
   {
     "id": "swsh12-176",
@@ -4501,7 +4501,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "176",
     "rarity": "Rare Ultra",
-    "price": 7.91
+    "price": 4.28
   },
   {
     "id": "swsh12-177",
@@ -4510,7 +4510,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "177",
     "rarity": "Rare Ultra",
-    "price": 18.11
+    "price": 7.81
   },
   {
     "id": "swsh12-178",
@@ -4519,7 +4519,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "178",
     "rarity": "Rare Ultra",
-    "price": 42
+    "price": 17.97
   },
   {
     "id": "swsh12-179",
@@ -4528,7 +4528,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "179",
     "rarity": "Rare Ultra",
-    "price": 9.86
+    "price": 4.45
   },
   {
     "id": "swsh12-180",
@@ -4537,7 +4537,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "180",
     "rarity": "Rare Ultra",
-    "price": 4.3
+    "price": 2.44
   },
   {
     "id": "swsh12-181",
@@ -4546,7 +4546,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "181",
     "rarity": "Rare Ultra",
-    "price": 20.83
+    "price": 7.68
   },
   {
     "id": "swsh12-182",
@@ -4555,7 +4555,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "182",
     "rarity": "Rare Ultra",
-    "price": 9.9
+    "price": 4.47
   },
   {
     "id": "swsh12-183",
@@ -4564,7 +4564,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "183",
     "rarity": "Rare Ultra",
-    "price": 23.04
+    "price": 9.31
   },
   {
     "id": "swsh12-184",
@@ -4573,7 +4573,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "184",
     "rarity": "Rare Ultra",
-    "price": 42.88
+    "price": 14.63
   },
   {
     "id": "swsh12-185",
@@ -4582,7 +4582,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "185",
     "rarity": "Rare Ultra",
-    "price": 17.89
+    "price": 9.66
   },
   {
     "id": "swsh12-186",
@@ -4591,7 +4591,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "186",
     "rarity": "Rare Ultra",
-    "price": 6.91
+    "price": 4.84
   },
   {
     "id": "swsh12-187",
@@ -4600,7 +4600,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "187",
     "rarity": "Rare Ultra",
-    "price": 33.17
+    "price": 10.77
   },
   {
     "id": "swsh12-196",
@@ -4609,7 +4609,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "196",
     "rarity": "Rare Rainbow",
-    "price": 220.46
+    "price": 81.77
   },
   {
     "id": "swsh12-197",
@@ -4618,7 +4618,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "197",
     "rarity": "Rare Rainbow",
-    "price": 101.1
+    "price": 30.33
   },
   {
     "id": "swsh12-198",
@@ -4627,7 +4627,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "198",
     "rarity": "Rare Rainbow",
-    "price": 50.35
+    "price": 18.27
   },
   {
     "id": "swsh12-199",
@@ -4636,7 +4636,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "199",
     "rarity": "Rare Rainbow",
-    "price": 67.84
+    "price": 24.51
   },
   {
     "id": "swsh12-200",
@@ -4645,7 +4645,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "200",
     "rarity": "Rare Rainbow",
-    "price": 131.14
+    "price": 49.38
   },
   {
     "id": "swsh12-201",
@@ -4654,7 +4654,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "201",
     "rarity": "Rare Rainbow",
-    "price": 46.12
+    "price": 18.52
   },
   {
     "id": "swsh12-202",
@@ -4663,7 +4663,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "202",
     "rarity": "Rare Rainbow",
-    "price": 77.2
+    "price": 33.59
   },
   {
     "id": "swsh12-210",
@@ -4672,7 +4672,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "210",
     "rarity": "Rare Secret",
-    "price": 35.45
+    "price": 21.65
   },
   {
     "id": "swsh12-211",
@@ -4681,7 +4681,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12",
     "number": "211",
     "rarity": "Rare Secret",
-    "price": 85.07
+    "price": 36.04
   },
   {
     "id": "swsh12pt5-14",
@@ -4690,7 +4690,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12pt5",
     "number": "14",
     "rarity": "Rare Holo VSTAR",
-    "price": 21.9
+    "price": 14.46
   },
   {
     "id": "swsh12pt5-19",
@@ -4699,7 +4699,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12pt5",
     "number": "19",
     "rarity": "Rare Holo VSTAR",
-    "price": 24.29
+    "price": 42.44
   },
   {
     "id": "swsh12pt5-20",
@@ -4708,7 +4708,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12pt5",
     "number": "20",
     "rarity": "Radiant Rare",
-    "price": 11.15
+    "price": 4.87
   },
   {
     "id": "swsh12pt5-23",
@@ -4717,7 +4717,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12pt5",
     "number": "23",
     "rarity": "Rare Holo VSTAR",
-    "price": 12.17
+    "price": 5.2
   },
   {
     "id": "swsh12pt5-46",
@@ -4726,7 +4726,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12pt5",
     "number": "46",
     "rarity": "Rare Holo VSTAR",
-    "price": 39.01
+    "price": 19.33
   },
   {
     "id": "swsh12pt5-51",
@@ -4735,7 +4735,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12pt5",
     "number": "51",
     "rarity": "Radiant Rare",
-    "price": 31.06
+    "price": 10.26
   },
   {
     "id": "swsh12pt5-54",
@@ -4744,7 +4744,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12pt5",
     "number": "54",
     "rarity": "Rare Holo VMAX",
-    "price": 28.68
+    "price": 17.59
   },
   {
     "id": "swsh12pt5-55",
@@ -4753,7 +4753,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12pt5",
     "number": "55",
     "rarity": "Rare Holo VSTAR",
-    "price": 24.28
+    "price": 15.59
   },
   {
     "id": "swsh12pt5-66",
@@ -4762,7 +4762,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12pt5",
     "number": "66",
     "rarity": "Rare Holo VMAX",
-    "price": 13.65
+    "price": 5.65
   },
   {
     "id": "swsh12pt5-96",
@@ -4771,7 +4771,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12pt5",
     "number": "96",
     "rarity": "Rare Holo VSTAR",
-    "price": 49.42
+    "price": 17.97
   },
   {
     "id": "swsh12pt5-99",
@@ -4780,7 +4780,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12pt5",
     "number": "99",
     "rarity": "Rare Holo VSTAR",
-    "price": 53.7
+    "price": 21.49
   },
   {
     "id": "swsh12pt5-101",
@@ -4789,7 +4789,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12pt5",
     "number": "101",
     "rarity": "Rare Holo VMAX",
-    "price": 20.81
+    "price": 13.93
   },
   {
     "id": "swsh12pt5-102",
@@ -4798,7 +4798,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12pt5",
     "number": "102",
     "rarity": "Rare Holo VMAX",
-    "price": 29.85
+    "price": 18.11
   },
   {
     "id": "swsh12pt5-104",
@@ -4807,7 +4807,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12pt5",
     "number": "104",
     "rarity": "Rare Holo VMAX",
-    "price": 55.72
+    "price": 22.07
   },
   {
     "id": "swsh12pt5-105",
@@ -4816,7 +4816,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12pt5",
     "number": "105",
     "rarity": "Radiant Rare",
-    "price": 9.67
+    "price": 4.39
   },
   {
     "id": "swsh12pt5-114",
@@ -4825,7 +4825,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12pt5",
     "number": "114",
     "rarity": "Rare Holo VSTAR",
-    "price": 15.7
+    "price": 6.25
   },
   {
     "id": "swsh12pt5-160",
@@ -4834,7 +4834,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "swsh12pt5",
     "number": "160",
     "rarity": "Rare Secret",
-    "price": 146.57
+    "price": 188.27
   },
   {
     "id": "sv1-19",
@@ -4843,7 +4843,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "19",
     "rarity": "Double Rare",
-    "price": 15.93
+    "price": 6.59
   },
   {
     "id": "sv1-32",
@@ -4852,7 +4852,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "32",
     "rarity": "Double Rare",
-    "price": 23.83
+    "price": 8.47
   },
   {
     "id": "sv1-45",
@@ -4861,7 +4861,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "45",
     "rarity": "Double Rare",
-    "price": 15.66
+    "price": 7.79
   },
   {
     "id": "sv1-65",
@@ -4870,7 +4870,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "65",
     "rarity": "Double Rare",
-    "price": 26.81
+    "price": 11.52
   },
   {
     "id": "sv1-81",
@@ -4879,7 +4879,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "81",
     "rarity": "Double Rare",
-    "price": 44.38
+    "price": 24.17
   },
   {
     "id": "sv1-86",
@@ -4888,7 +4888,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "86",
     "rarity": "Double Rare",
-    "price": 23.73
+    "price": 31.21
   },
   {
     "id": "sv1-88",
@@ -4897,7 +4897,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "88",
     "rarity": "Double Rare",
-    "price": 12.91
+    "price": 5.66
   },
   {
     "id": "sv1-123",
@@ -4906,7 +4906,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "123",
     "rarity": "Double Rare",
-    "price": 27.15
+    "price": 10.49
   },
   {
     "id": "sv1-125",
@@ -4915,7 +4915,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "125",
     "rarity": "Double Rare",
-    "price": 24.91
+    "price": 15.88
   },
   {
     "id": "sv1-131",
@@ -4924,7 +4924,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "131",
     "rarity": "Double Rare",
-    "price": 28.84
+    "price": 9.73
   },
   {
     "id": "sv1-143",
@@ -4933,7 +4933,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "143",
     "rarity": "Double Rare",
-    "price": 17.21
+    "price": 7.53
   },
   {
     "id": "sv1-158",
@@ -4942,7 +4942,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "158",
     "rarity": "Double Rare",
-    "price": 7.13
+    "price": 3.67
   },
   {
     "id": "sv1-199",
@@ -4951,7 +4951,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "199",
     "rarity": "Illustration Rare",
-    "price": 8.61
+    "price": 4.04
   },
   {
     "id": "sv1-200",
@@ -4960,7 +4960,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "200",
     "rarity": "Illustration Rare",
-    "price": 28.54
+    "price": 9.65
   },
   {
     "id": "sv1-201",
@@ -4969,7 +4969,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "201",
     "rarity": "Illustration Rare",
-    "price": 62.01
+    "price": 16.97
   },
   {
     "id": "sv1-202",
@@ -4978,7 +4978,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "202",
     "rarity": "Illustration Rare",
-    "price": 16.1
+    "price": 7.95
   },
   {
     "id": "sv1-203",
@@ -4987,7 +4987,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "203",
     "rarity": "Illustration Rare",
-    "price": 10.03
+    "price": 5.63
   },
   {
     "id": "sv1-204",
@@ -4996,7 +4996,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "204",
     "rarity": "Illustration Rare",
-    "price": 18
+    "price": 6.9
   },
   {
     "id": "sv1-205",
@@ -5005,7 +5005,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "205",
     "rarity": "Illustration Rare",
-    "price": 16.27
+    "price": 6.41
   },
   {
     "id": "sv1-206",
@@ -5014,7 +5014,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "206",
     "rarity": "Illustration Rare",
-    "price": 25.91
+    "price": 9
   },
   {
     "id": "sv1-207",
@@ -5023,7 +5023,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "207",
     "rarity": "Illustration Rare",
-    "price": 19.9
+    "price": 8.37
   },
   {
     "id": "sv1-208",
@@ -5032,7 +5032,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "208",
     "rarity": "Illustration Rare",
-    "price": 81.89
+    "price": 20.78
   },
   {
     "id": "sv1-209",
@@ -5041,7 +5041,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "209",
     "rarity": "Illustration Rare",
-    "price": 14.03
+    "price": 6.01
   },
   {
     "id": "sv1-210",
@@ -5050,7 +5050,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "210",
     "rarity": "Illustration Rare",
-    "price": 8.65
+    "price": 4.05
   },
   {
     "id": "sv1-211",
@@ -5059,7 +5059,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "211",
     "rarity": "Illustration Rare",
-    "price": 12.26
+    "price": 5.22
   },
   {
     "id": "sv1-212",
@@ -5068,7 +5068,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "212",
     "rarity": "Illustration Rare",
-    "price": 22.7
+    "price": 8.17
   },
   {
     "id": "sv1-213",
@@ -5077,7 +5077,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "213",
     "rarity": "Illustration Rare",
-    "price": 9.19
+    "price": 4.23
   },
   {
     "id": "sv1-214",
@@ -5086,7 +5086,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "214",
     "rarity": "Illustration Rare",
-    "price": 16.39
+    "price": 6.45
   },
   {
     "id": "sv1-215",
@@ -5095,7 +5095,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "215",
     "rarity": "Illustration Rare",
-    "price": 14.98
+    "price": 6.04
   },
   {
     "id": "sv1-216",
@@ -5104,7 +5104,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "216",
     "rarity": "Illustration Rare",
-    "price": 9.27
+    "price": 4.26
   },
   {
     "id": "sv1-217",
@@ -5113,7 +5113,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "217",
     "rarity": "Illustration Rare",
-    "price": 17.31
+    "price": 6.71
   },
   {
     "id": "sv1-218",
@@ -5122,7 +5122,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "218",
     "rarity": "Illustration Rare",
-    "price": 48.65
+    "price": 14.23
   },
   {
     "id": "sv1-219",
@@ -5131,7 +5131,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "219",
     "rarity": "Illustration Rare",
-    "price": 19.31
+    "price": 7.58
   },
   {
     "id": "sv1-220",
@@ -5140,7 +5140,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "220",
     "rarity": "Illustration Rare",
-    "price": 16.56
+    "price": 6.5
   },
   {
     "id": "sv1-221",
@@ -5149,7 +5149,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "221",
     "rarity": "Illustration Rare",
-    "price": 10.86
+    "price": 4.78
   },
   {
     "id": "sv1-222",
@@ -5158,7 +5158,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "222",
     "rarity": "Illustration Rare",
-    "price": 9.48
+    "price": 4.33
   },
   {
     "id": "sv1-223",
@@ -5167,7 +5167,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "223",
     "rarity": "Ultra Rare",
-    "price": 5.32
+    "price": 2.97
   },
   {
     "id": "sv1-224",
@@ -5176,7 +5176,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "224",
     "rarity": "Ultra Rare",
-    "price": 14.15
+    "price": 5.79
   },
   {
     "id": "sv1-225",
@@ -5185,7 +5185,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "225",
     "rarity": "Ultra Rare",
-    "price": 10.33
+    "price": 5.75
   },
   {
     "id": "sv1-226",
@@ -5194,7 +5194,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "226",
     "rarity": "Ultra Rare",
-    "price": 8.6
+    "price": 5.04
   },
   {
     "id": "sv1-227",
@@ -5203,7 +5203,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "227",
     "rarity": "Ultra Rare",
-    "price": 20.63
+    "price": 13.85
   },
   {
     "id": "sv1-228",
@@ -5212,7 +5212,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "228",
     "rarity": "Ultra Rare",
-    "price": 25.91
+    "price": 33.28
   },
   {
     "id": "sv1-229",
@@ -5221,7 +5221,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "229",
     "rarity": "Ultra Rare",
-    "price": 8.38
+    "price": 4.13
   },
   {
     "id": "sv1-230",
@@ -5230,7 +5230,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "230",
     "rarity": "Ultra Rare",
-    "price": 38.54
+    "price": 13.54
   },
   {
     "id": "sv1-231",
@@ -5239,7 +5239,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "231",
     "rarity": "Ultra Rare",
-    "price": 14.05
+    "price": 10.47
   },
   {
     "id": "sv1-232",
@@ -5248,7 +5248,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "232",
     "rarity": "Ultra Rare",
-    "price": 21.56
+    "price": 7.87
   },
   {
     "id": "sv1-233",
@@ -5257,7 +5257,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "233",
     "rarity": "Ultra Rare",
-    "price": 20.19
+    "price": 8.46
   },
   {
     "id": "sv1-234",
@@ -5266,7 +5266,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "234",
     "rarity": "Ultra Rare",
-    "price": 5.1
+    "price": 2.88
   },
   {
     "id": "sv1-243",
@@ -5275,7 +5275,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "243",
     "rarity": "Special Illustration Rare",
-    "price": 98.02
+    "price": 29.66
   },
   {
     "id": "sv1-244",
@@ -5284,7 +5284,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "244",
     "rarity": "Special Illustration Rare",
-    "price": 97.12
+    "price": 51.28
   },
   {
     "id": "sv1-245",
@@ -5293,7 +5293,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "245",
     "rarity": "Special Illustration Rare",
-    "price": 165.43
+    "price": 153.81
   },
   {
     "id": "sv1-246",
@@ -5302,7 +5302,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "246",
     "rarity": "Special Illustration Rare",
-    "price": 74.48
+    "price": 26.24
   },
   {
     "id": "sv1-247",
@@ -5311,7 +5311,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "247",
     "rarity": "Special Illustration Rare",
-    "price": 78.34
+    "price": 43.86
   },
   {
     "id": "sv1-248",
@@ -5320,7 +5320,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "248",
     "rarity": "Special Illustration Rare",
-    "price": 75.58
+    "price": 26.52
   },
   {
     "id": "sv1-253",
@@ -5329,7 +5329,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "253",
     "rarity": "Hyper Rare",
-    "price": 158.85
+    "price": 73.34
   },
   {
     "id": "sv1-254",
@@ -5338,7 +5338,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv1",
     "number": "254",
     "rarity": "Hyper Rare",
-    "price": 100.98
+    "price": 52.75
   },
   {
     "id": "sv2-5",
@@ -5347,7 +5347,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "5",
     "rarity": "Double Rare",
-    "price": 15.19
+    "price": 6.88
   },
   {
     "id": "sv2-15",
@@ -5356,7 +5356,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "15",
     "rarity": "Double Rare",
-    "price": 10.53
+    "price": 5.27
   },
   {
     "id": "sv2-27",
@@ -5365,7 +5365,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "27",
     "rarity": "Double Rare",
-    "price": 14.18
+    "price": 6.54
   },
   {
     "id": "sv2-37",
@@ -5374,7 +5374,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "37",
     "rarity": "Double Rare",
-    "price": 15.87
+    "price": 7.87
   },
   {
     "id": "sv2-40",
@@ -5383,7 +5383,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "40",
     "rarity": "Double Rare",
-    "price": 11.36
+    "price": 5.57
   },
   {
     "id": "sv2-52",
@@ -5392,7 +5392,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "52",
     "rarity": "Double Rare",
-    "price": 28.46
+    "price": 10.86
   },
   {
     "id": "sv2-61",
@@ -5401,7 +5401,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "61",
     "rarity": "Double Rare",
-    "price": 15.58
+    "price": 7.76
   },
   {
     "id": "sv2-63",
@@ -5410,7 +5410,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "63",
     "rarity": "Double Rare",
-    "price": 38.39
+    "price": 59.2
   },
   {
     "id": "sv2-79",
@@ -5419,7 +5419,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "79",
     "rarity": "Double Rare",
-    "price": 36.67
+    "price": 12.09
   },
   {
     "id": "sv2-86",
@@ -5428,7 +5428,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "86",
     "rarity": "Double Rare",
-    "price": 15.84
+    "price": 6.29
   },
   {
     "id": "sv2-93",
@@ -5437,7 +5437,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "93",
     "rarity": "Double Rare",
-    "price": 7.16
+    "price": 3.68
   },
   {
     "id": "sv2-117",
@@ -5446,7 +5446,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "117",
     "rarity": "Double Rare",
-    "price": 12.1
+    "price": 7.27
   },
   {
     "id": "sv2-127",
@@ -5455,7 +5455,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "127",
     "rarity": "Double Rare",
-    "price": 26.04
+    "price": 11.28
   },
   {
     "id": "sv2-130",
@@ -5464,7 +5464,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "130",
     "rarity": "Double Rare",
-    "price": 23.7
+    "price": 10.53
   },
   {
     "id": "sv2-150",
@@ -5473,7 +5473,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "150",
     "rarity": "Double Rare",
-    "price": 7.99
+    "price": 4.78
   },
   {
     "id": "sv2-153",
@@ -5482,7 +5482,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "153",
     "rarity": "Double Rare",
-    "price": 20.96
+    "price": 12.3
   },
   {
     "id": "sv2-169",
@@ -5491,7 +5491,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "169",
     "rarity": "Double Rare",
-    "price": 21.58
+    "price": 9.84
   },
   {
     "id": "sv2-194",
@@ -5500,7 +5500,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "194",
     "rarity": "Illustration Rare",
-    "price": 8.01
+    "price": 4
   },
   {
     "id": "sv2-195",
@@ -5509,7 +5509,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "195",
     "rarity": "Illustration Rare",
-    "price": 12.34
+    "price": 5.24
   },
   {
     "id": "sv2-196",
@@ -5518,7 +5518,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "196",
     "rarity": "Illustration Rare",
-    "price": 46.7
+    "price": 13.81
   },
   {
     "id": "sv2-197",
@@ -5527,7 +5527,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "197",
     "rarity": "Illustration Rare",
-    "price": 24.34
+    "price": 8.6
   },
   {
     "id": "sv2-198",
@@ -5536,7 +5536,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "198",
     "rarity": "Illustration Rare",
-    "price": 6.64
+    "price": 3.34
   },
   {
     "id": "sv2-199",
@@ -5545,7 +5545,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "199",
     "rarity": "Illustration Rare",
-    "price": 14.56
+    "price": 5.92
   },
   {
     "id": "sv2-200",
@@ -5554,7 +5554,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "200",
     "rarity": "Illustration Rare",
-    "price": 18.61
+    "price": 7.38
   },
   {
     "id": "sv2-201",
@@ -5563,7 +5563,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "201",
     "rarity": "Illustration Rare",
-    "price": 15.55
+    "price": 6.21
   },
   {
     "id": "sv2-202",
@@ -5572,7 +5572,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "202",
     "rarity": "Illustration Rare",
-    "price": 56.39
+    "price": 15.84
   },
   {
     "id": "sv2-203",
@@ -5581,7 +5581,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "203",
     "rarity": "Illustration Rare",
-    "price": 12.51
+    "price": 5.3
   },
   {
     "id": "sv2-204",
@@ -5590,7 +5590,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "204",
     "rarity": "Illustration Rare",
-    "price": 25.16
+    "price": 8.81
   },
   {
     "id": "sv2-205",
@@ -5599,7 +5599,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "205",
     "rarity": "Illustration Rare",
-    "price": 23.51
+    "price": 9.45
   },
   {
     "id": "sv2-206",
@@ -5608,7 +5608,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "206",
     "rarity": "Illustration Rare",
-    "price": 20.81
+    "price": 7.67
   },
   {
     "id": "sv2-207",
@@ -5617,7 +5617,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "207",
     "rarity": "Illustration Rare",
-    "price": 6.96
+    "price": 3.46
   },
   {
     "id": "sv2-208",
@@ -5626,7 +5626,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "208",
     "rarity": "Illustration Rare",
-    "price": 18.61
+    "price": 7.07
   },
   {
     "id": "sv2-209",
@@ -5635,7 +5635,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "209",
     "rarity": "Illustration Rare",
-    "price": 12.39
+    "price": 5.26
   },
   {
     "id": "sv2-210",
@@ -5644,7 +5644,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "210",
     "rarity": "Illustration Rare",
-    "price": 10.29
+    "price": 4.6
   },
   {
     "id": "sv2-211",
@@ -5653,7 +5653,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "211",
     "rarity": "Illustration Rare",
-    "price": 17.5
+    "price": 7.06
   },
   {
     "id": "sv2-212",
@@ -5662,7 +5662,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "212",
     "rarity": "Illustration Rare",
-    "price": 33.57
+    "price": 11.33
   },
   {
     "id": "sv2-213",
@@ -5671,7 +5671,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "213",
     "rarity": "Illustration Rare",
-    "price": 10.01
+    "price": 4.51
   },
   {
     "id": "sv2-214",
@@ -5680,7 +5680,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "214",
     "rarity": "Illustration Rare",
-    "price": 25.98
+    "price": 9.01
   },
   {
     "id": "sv2-215",
@@ -5689,7 +5689,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "215",
     "rarity": "Illustration Rare",
-    "price": 21.33
+    "price": 8.15
   },
   {
     "id": "sv2-216",
@@ -5698,7 +5698,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "216",
     "rarity": "Illustration Rare",
-    "price": 19.5
+    "price": 7.32
   },
   {
     "id": "sv2-217",
@@ -5707,7 +5707,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "217",
     "rarity": "Illustration Rare",
-    "price": 19.75
+    "price": 7.38
   },
   {
     "id": "sv2-218",
@@ -5716,7 +5716,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "218",
     "rarity": "Illustration Rare",
-    "price": 19.78
+    "price": 8.33
   },
   {
     "id": "sv2-219",
@@ -5725,7 +5725,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "219",
     "rarity": "Illustration Rare",
-    "price": 17.68
+    "price": 6.81
   },
   {
     "id": "sv2-220",
@@ -5734,7 +5734,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "220",
     "rarity": "Illustration Rare",
-    "price": 9.41
+    "price": 4.31
   },
   {
     "id": "sv2-221",
@@ -5743,7 +5743,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "221",
     "rarity": "Illustration Rare",
-    "price": 21.14
+    "price": 8.1
   },
   {
     "id": "sv2-222",
@@ -5752,7 +5752,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "222",
     "rarity": "Illustration Rare",
-    "price": 22.05
+    "price": 11.25
   },
   {
     "id": "sv2-223",
@@ -5761,7 +5761,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "223",
     "rarity": "Illustration Rare",
-    "price": 19.91
+    "price": 7.43
   },
   {
     "id": "sv2-224",
@@ -5770,7 +5770,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "224",
     "rarity": "Illustration Rare",
-    "price": 17.08
+    "price": 6.93
   },
   {
     "id": "sv2-225",
@@ -5779,7 +5779,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "225",
     "rarity": "Illustration Rare",
-    "price": 12.97
+    "price": 5.44
   },
   {
     "id": "sv2-226",
@@ -5788,7 +5788,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "226",
     "rarity": "Illustration Rare",
-    "price": 23.08
+    "price": 9.32
   },
   {
     "id": "sv2-227",
@@ -5797,7 +5797,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "227",
     "rarity": "Illustration Rare",
-    "price": 9.93
+    "price": 4.67
   },
   {
     "id": "sv2-228",
@@ -5806,7 +5806,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "228",
     "rarity": "Illustration Rare",
-    "price": 7.14
+    "price": 3.68
   },
   {
     "id": "sv2-229",
@@ -5815,7 +5815,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "229",
     "rarity": "Illustration Rare",
-    "price": 31.58
+    "price": 10.84
   },
   {
     "id": "sv2-230",
@@ -5824,7 +5824,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "230",
     "rarity": "Ultra Rare",
-    "price": 13.76
+    "price": 6.4
   },
   {
     "id": "sv2-231",
@@ -5833,7 +5833,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "231",
     "rarity": "Ultra Rare",
-    "price": 14.97
+    "price": 6.8
   },
   {
     "id": "sv2-232",
@@ -5842,7 +5842,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "232",
     "rarity": "Ultra Rare",
-    "price": 19.2
+    "price": 8.16
   },
   {
     "id": "sv2-233",
@@ -5851,7 +5851,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "233",
     "rarity": "Ultra Rare",
-    "price": 32.54
+    "price": 13.26
   },
   {
     "id": "sv2-234",
@@ -5860,7 +5860,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "234",
     "rarity": "Ultra Rare",
-    "price": 19.07
+    "price": 8.11
   },
   {
     "id": "sv2-235",
@@ -5869,7 +5869,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "235",
     "rarity": "Ultra Rare",
-    "price": 35.18
+    "price": 12.67
   },
   {
     "id": "sv2-236",
@@ -5878,7 +5878,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "236",
     "rarity": "Ultra Rare",
-    "price": 8.53
+    "price": 5.01
   },
   {
     "id": "sv2-237",
@@ -5887,7 +5887,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "237",
     "rarity": "Ultra Rare",
-    "price": 24.67
+    "price": 9.06
   },
   {
     "id": "sv2-238",
@@ -5896,7 +5896,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "238",
     "rarity": "Ultra Rare",
-    "price": 42.23
+    "price": 12.84
   },
   {
     "id": "sv2-239",
@@ -5905,7 +5905,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "239",
     "rarity": "Ultra Rare",
-    "price": 32.76
+    "price": 11.13
   },
   {
     "id": "sv2-240",
@@ -5914,7 +5914,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "240",
     "rarity": "Ultra Rare",
-    "price": 31.49
+    "price": 10.82
   },
   {
     "id": "sv2-241",
@@ -5923,7 +5923,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "241",
     "rarity": "Ultra Rare",
-    "price": 27.5
+    "price": 13.21
   },
   {
     "id": "sv2-242",
@@ -5932,7 +5932,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "242",
     "rarity": "Ultra Rare",
-    "price": 25.34
+    "price": 8.85
   },
   {
     "id": "sv2-243",
@@ -5941,7 +5941,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "243",
     "rarity": "Ultra Rare",
-    "price": 16.41
+    "price": 8.06
   },
   {
     "id": "sv2-244",
@@ -5950,7 +5950,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "244",
     "rarity": "Ultra Rare",
-    "price": 11.88
+    "price": 6.37
   },
   {
     "id": "sv2-245",
@@ -5959,7 +5959,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "245",
     "rarity": "Ultra Rare",
-    "price": 67.74
+    "price": 22.6
   },
   {
     "id": "sv2-246",
@@ -5968,7 +5968,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "246",
     "rarity": "Ultra Rare",
-    "price": 16.35
+    "price": 10.27
   },
   {
     "id": "sv2-247",
@@ -5977,7 +5977,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "247",
     "rarity": "Ultra Rare",
-    "price": 24.12
+    "price": 10.67
   },
   {
     "id": "sv2-256",
@@ -5986,7 +5986,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "256",
     "rarity": "Special Illustration Rare",
-    "price": 28.97
+    "price": 13.2
   },
   {
     "id": "sv2-257",
@@ -5995,7 +5995,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "257",
     "rarity": "Special Illustration Rare",
-    "price": 60.35
+    "price": 22.52
   },
   {
     "id": "sv2-258",
@@ -6004,7 +6004,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "258",
     "rarity": "Special Illustration Rare",
-    "price": 159.19
+    "price": 50.51
   },
   {
     "id": "sv2-259",
@@ -6013,7 +6013,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "259",
     "rarity": "Special Illustration Rare",
-    "price": 74.25
+    "price": 26.18
   },
   {
     "id": "sv2-260",
@@ -6022,7 +6022,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "260",
     "rarity": "Special Illustration Rare",
-    "price": 82.17
+    "price": 28.18
   },
   {
     "id": "sv2-261",
@@ -6031,7 +6031,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "261",
     "rarity": "Special Illustration Rare",
-    "price": 112.71
+    "price": 39.29
   },
   {
     "id": "sv2-262",
@@ -6040,7 +6040,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "262",
     "rarity": "Special Illustration Rare",
-    "price": 45.63
+    "price": 17.01
   },
   {
     "id": "sv2-263",
@@ -6049,7 +6049,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "263",
     "rarity": "Special Illustration Rare",
-    "price": 77.61
+    "price": 29.95
   },
   {
     "id": "sv2-264",
@@ -6058,7 +6058,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "264",
     "rarity": "Special Illustration Rare",
-    "price": 77.7
+    "price": 29.98
   },
   {
     "id": "sv2-271",
@@ -6067,7 +6067,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "271",
     "rarity": "Hyper Rare",
-    "price": 100.31
+    "price": 32.58
   },
   {
     "id": "sv2-272",
@@ -6076,7 +6076,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "272",
     "rarity": "Hyper Rare",
-    "price": 99.98
+    "price": 36.01
   },
   {
     "id": "sv2-273",
@@ -6085,7 +6085,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "273",
     "rarity": "Hyper Rare",
-    "price": 84.61
+    "price": 28.79
   },
   {
     "id": "sv2-274",
@@ -6094,7 +6094,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "274",
     "rarity": "Hyper Rare",
-    "price": 85.92
+    "price": 32.25
   },
   {
     "id": "sv2-275",
@@ -6103,7 +6103,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv2",
     "number": "275",
     "rarity": "Hyper Rare",
-    "price": 138.96
+    "price": 45.75
   },
   {
     "id": "sv3-15",
@@ -6112,7 +6112,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "15",
     "rarity": "Double Rare",
-    "price": 20.39
+    "price": 7.89
   },
   {
     "id": "sv3-22",
@@ -6121,7 +6121,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "22",
     "rarity": "Double Rare",
-    "price": 9.95
+    "price": 5.06
   },
   {
     "id": "sv3-33",
@@ -6130,7 +6130,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "33",
     "rarity": "Double Rare",
-    "price": 19.98
+    "price": 8.4
   },
   {
     "id": "sv3-42",
@@ -6139,7 +6139,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "42",
     "rarity": "Double Rare",
-    "price": 37.47
+    "price": 13.26
   },
   {
     "id": "sv3-66",
@@ -6148,7 +6148,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "66",
     "rarity": "Double Rare",
-    "price": 10.66
+    "price": 6.63
   },
   {
     "id": "sv3-73",
@@ -6157,7 +6157,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "73",
     "rarity": "Double Rare",
-    "price": 23.72
+    "price": 8.8
   },
   {
     "id": "sv3-79",
@@ -6166,7 +6166,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "79",
     "rarity": "Double Rare",
-    "price": 5.61
+    "price": 5.37
   },
   {
     "id": "sv3-82",
@@ -6175,7 +6175,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "82",
     "rarity": "Double Rare",
-    "price": 19.54
+    "price": 8.26
   },
   {
     "id": "sv3-96",
@@ -6184,7 +6184,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "96",
     "rarity": "Double Rare",
-    "price": 6.66
+    "price": 3.35
   },
   {
     "id": "sv3-102",
@@ -6193,7 +6193,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "102",
     "rarity": "Double Rare",
-    "price": 22.21
+    "price": 8.39
   },
   {
     "id": "sv3-120",
@@ -6202,7 +6202,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "120",
     "rarity": "Double Rare",
-    "price": 14.06
+    "price": 5.77
   },
   {
     "id": "sv3-123",
@@ -6211,7 +6211,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "123",
     "rarity": "Double Rare",
-    "price": 5.38
+    "price": 2.99
   },
   {
     "id": "sv3-124",
@@ -6220,7 +6220,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "124",
     "rarity": "Double Rare",
-    "price": 21.96
+    "price": 14.49
   },
   {
     "id": "sv3-125",
@@ -6229,7 +6229,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "125",
     "rarity": "Double Rare",
-    "price": 36.91
+    "price": 57.53
   },
   {
     "id": "sv3-134",
@@ -6238,7 +6238,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "134",
     "rarity": "Double Rare",
-    "price": 16.52
+    "price": 7.31
   },
   {
     "id": "sv3-135",
@@ -6247,7 +6247,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "135",
     "rarity": "Double Rare",
-    "price": 33.71
+    "price": 13.61
   },
   {
     "id": "sv3-153",
@@ -6256,7 +6256,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "153",
     "rarity": "Double Rare",
-    "price": 15.78
+    "price": 7.83
   },
   {
     "id": "sv3-156",
@@ -6265,7 +6265,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "156",
     "rarity": "Double Rare",
-    "price": 44.95
+    "price": 18.88
   },
   {
     "id": "sv3-159",
@@ -6274,7 +6274,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "159",
     "rarity": "Double Rare",
-    "price": 35.49
+    "price": 26.5
   },
   {
     "id": "sv3-164",
@@ -6283,7 +6283,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "164",
     "rarity": "Double Rare",
-    "price": 19.65
+    "price": 9.19
   },
   {
     "id": "sv3-179",
@@ -6292,7 +6292,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "179",
     "rarity": "Double Rare",
-    "price": 19.04
+    "price": 10.11
   },
   {
     "id": "sv3-198",
@@ -6301,7 +6301,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "198",
     "rarity": "Illustration Rare",
-    "price": 7.63
+    "price": 3.7
   },
   {
     "id": "sv3-199",
@@ -6310,7 +6310,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "199",
     "rarity": "Illustration Rare",
-    "price": 30.58
+    "price": 11.44
   },
   {
     "id": "sv3-200",
@@ -6319,7 +6319,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "200",
     "rarity": "Illustration Rare",
-    "price": 74.24
+    "price": 27.19
   },
   {
     "id": "sv3-201",
@@ -6328,7 +6328,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "201",
     "rarity": "Illustration Rare",
-    "price": 11.44
+    "price": 5.18
   },
   {
     "id": "sv3-202",
@@ -6337,7 +6337,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "202",
     "rarity": "Illustration Rare",
-    "price": 11.51
+    "price": 4.99
   },
   {
     "id": "sv3-203",
@@ -6346,7 +6346,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "203",
     "rarity": "Illustration Rare",
-    "price": 13.51
+    "price": 5.6
   },
   {
     "id": "sv3-204",
@@ -6355,7 +6355,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "204",
     "rarity": "Illustration Rare",
-    "price": 14.37
+    "price": 5.86
   },
   {
     "id": "sv3-205",
@@ -6364,7 +6364,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "205",
     "rarity": "Illustration Rare",
-    "price": 11.03
+    "price": 7.71
   },
   {
     "id": "sv3-206",
@@ -6373,7 +6373,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "206",
     "rarity": "Illustration Rare",
-    "price": 11.36
+    "price": 4.94
   },
   {
     "id": "sv3-207",
@@ -6382,7 +6382,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "207",
     "rarity": "Illustration Rare",
-    "price": 37.48
+    "price": 11.77
   },
   {
     "id": "sv3-208",
@@ -6391,7 +6391,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "208",
     "rarity": "Illustration Rare",
-    "price": 21.23
+    "price": 7.78
   },
   {
     "id": "sv3-209",
@@ -6400,7 +6400,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "209",
     "rarity": "Illustration Rare",
-    "price": 29.88
+    "price": 9.98
   },
   {
     "id": "sv3-210",
@@ -6409,7 +6409,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "210",
     "rarity": "Ultra Rare",
-    "price": 24.09
+    "price": 9.62
   },
   {
     "id": "sv3-211",
@@ -6418,7 +6418,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "211",
     "rarity": "Ultra Rare",
-    "price": 18.76
+    "price": 10
   },
   {
     "id": "sv3-212",
@@ -6427,7 +6427,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "212",
     "rarity": "Ultra Rare",
-    "price": 6.6
+    "price": 3.33
   },
   {
     "id": "sv3-213",
@@ -6436,7 +6436,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "213",
     "rarity": "Ultra Rare",
-    "price": 8.58
+    "price": 4.2
   },
   {
     "id": "sv3-214",
@@ -6445,7 +6445,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "214",
     "rarity": "Ultra Rare",
-    "price": 10.46
+    "price": 5.81
   },
   {
     "id": "sv3-215",
@@ -6454,7 +6454,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "215",
     "rarity": "Ultra Rare",
-    "price": 70.98
+    "price": 92.56
   },
   {
     "id": "sv3-216",
@@ -6463,7 +6463,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "216",
     "rarity": "Ultra Rare",
-    "price": 19.01
+    "price": 10.09
   },
   {
     "id": "sv3-217",
@@ -6472,7 +6472,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "217",
     "rarity": "Ultra Rare",
-    "price": 42.83
+    "price": 16.19
   },
   {
     "id": "sv3-222",
@@ -6481,7 +6481,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "222",
     "rarity": "Special Illustration Rare",
-    "price": 45.27
+    "price": 18.27
   },
   {
     "id": "sv3-223",
@@ -6490,7 +6490,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "223",
     "rarity": "Special Illustration Rare",
-    "price": 142.69
+    "price": 184.64
   },
   {
     "id": "sv3-224",
@@ -6499,7 +6499,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "224",
     "rarity": "Special Illustration Rare",
-    "price": 157.27
+    "price": 56.35
   },
   {
     "id": "sv3-225",
@@ -6508,7 +6508,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "225",
     "rarity": "Special Illustration Rare",
-    "price": 151.45
+    "price": 48.71
   },
   {
     "id": "sv3-228",
@@ -6517,7 +6517,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3",
     "number": "228",
     "rarity": "Hyper Rare",
-    "price": 97.8
+    "price": 140.28
   },
   {
     "id": "sv3pt5-3",
@@ -6526,7 +6526,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "3",
     "rarity": "Double Rare",
-    "price": 26.47
+    "price": 14.58
   },
   {
     "id": "sv3pt5-6",
@@ -6535,7 +6535,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "6",
     "rarity": "Double Rare",
-    "price": 108.57
+    "price": 126.09
   },
   {
     "id": "sv3pt5-9",
@@ -6544,7 +6544,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "9",
     "rarity": "Double Rare",
-    "price": 19.02
+    "price": 8.1
   },
   {
     "id": "sv3pt5-24",
@@ -6553,7 +6553,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "24",
     "rarity": "Double Rare",
-    "price": 37.63
+    "price": 12.31
   },
   {
     "id": "sv3pt5-38",
@@ -6562,7 +6562,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "38",
     "rarity": "Double Rare",
-    "price": 35.65
+    "price": 12.79
   },
   {
     "id": "sv3pt5-40",
@@ -6571,7 +6571,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "40",
     "rarity": "Double Rare",
-    "price": 24.25
+    "price": 10.71
   },
   {
     "id": "sv3pt5-65",
@@ -6580,7 +6580,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "65",
     "rarity": "Double Rare",
-    "price": 17.24
+    "price": 8.36
   },
   {
     "id": "sv3pt5-76",
@@ -6589,7 +6589,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "76",
     "rarity": "Double Rare",
-    "price": 36.24
+    "price": 11.48
   },
   {
     "id": "sv3pt5-115",
@@ -6598,7 +6598,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "115",
     "rarity": "Double Rare",
-    "price": 44.09
+    "price": 18.62
   },
   {
     "id": "sv3pt5-124",
@@ -6607,7 +6607,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "124",
     "rarity": "Double Rare",
-    "price": 10.98
+    "price": 4.82
   },
   {
     "id": "sv3pt5-145",
@@ -6616,7 +6616,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "145",
     "rarity": "Double Rare",
-    "price": 8.18
+    "price": 4.06
   },
   {
     "id": "sv3pt5-151",
@@ -6625,7 +6625,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "151",
     "rarity": "Double Rare",
-    "price": 23.27
+    "price": 19.5
   },
   {
     "id": "sv3pt5-166",
@@ -6634,7 +6634,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "166",
     "rarity": "Illustration Rare",
-    "price": 25.8
+    "price": 9.36
   },
   {
     "id": "sv3pt5-167",
@@ -6643,7 +6643,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "167",
     "rarity": "Illustration Rare",
-    "price": 59.89
+    "price": 16.55
   },
   {
     "id": "sv3pt5-168",
@@ -6652,7 +6652,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "168",
     "rarity": "Illustration Rare",
-    "price": 6.74
+    "price": 3.38
   },
   {
     "id": "sv3pt5-169",
@@ -6661,7 +6661,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "169",
     "rarity": "Illustration Rare",
-    "price": 11.96
+    "price": 5.13
   },
   {
     "id": "sv3pt5-170",
@@ -6670,7 +6670,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "170",
     "rarity": "Illustration Rare",
-    "price": 11.67
+    "price": 5.04
   },
   {
     "id": "sv3pt5-171",
@@ -6679,7 +6679,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "171",
     "rarity": "Illustration Rare",
-    "price": 4.27
+    "price": 2.42
   },
   {
     "id": "sv3pt5-172",
@@ -6688,7 +6688,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "172",
     "rarity": "Illustration Rare",
-    "price": 13.23
+    "price": 5.52
   },
   {
     "id": "sv3pt5-173",
@@ -6697,7 +6697,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "173",
     "rarity": "Illustration Rare",
-    "price": 60.76
+    "price": 82.67
   },
   {
     "id": "sv3pt5-174",
@@ -6706,7 +6706,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "174",
     "rarity": "Illustration Rare",
-    "price": 8.4
+    "price": 3.96
   },
   {
     "id": "sv3pt5-175",
@@ -6715,7 +6715,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "175",
     "rarity": "Illustration Rare",
-    "price": 21.61
+    "price": 7.88
   },
   {
     "id": "sv3pt5-176",
@@ -6724,7 +6724,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "176",
     "rarity": "Illustration Rare",
-    "price": 5.75
+    "price": 3.01
   },
   {
     "id": "sv3pt5-177",
@@ -6733,7 +6733,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "177",
     "rarity": "Illustration Rare",
-    "price": 16.12
+    "price": 6.37
   },
   {
     "id": "sv3pt5-178",
@@ -6742,7 +6742,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "178",
     "rarity": "Illustration Rare",
-    "price": 7.65
+    "price": 3.7
   },
   {
     "id": "sv3pt5-179",
@@ -6751,7 +6751,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "179",
     "rarity": "Illustration Rare",
-    "price": 4.08
+    "price": 2.35
   },
   {
     "id": "sv3pt5-180",
@@ -6760,7 +6760,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "180",
     "rarity": "Illustration Rare",
-    "price": 61.2
+    "price": 16.81
   },
   {
     "id": "sv3pt5-181",
@@ -6769,7 +6769,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "181",
     "rarity": "Illustration Rare",
-    "price": 20.37
+    "price": 7.55
   },
   {
     "id": "sv3pt5-182",
@@ -6778,7 +6778,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "182",
     "rarity": "Ultra Rare",
-    "price": 20.91
+    "price": 12.28
   },
   {
     "id": "sv3pt5-183",
@@ -6787,7 +6787,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "183",
     "rarity": "Ultra Rare",
-    "price": 13.94
+    "price": 28.33
   },
   {
     "id": "sv3pt5-184",
@@ -6796,7 +6796,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "184",
     "rarity": "Ultra Rare",
-    "price": 12.91
+    "price": 6.11
   },
   {
     "id": "sv3pt5-185",
@@ -6805,7 +6805,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "185",
     "rarity": "Ultra Rare",
-    "price": 13.81
+    "price": 5.94
   },
   {
     "id": "sv3pt5-186",
@@ -6814,7 +6814,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "186",
     "rarity": "Ultra Rare",
-    "price": 17.91
+    "price": 7.75
   },
   {
     "id": "sv3pt5-187",
@@ -6823,7 +6823,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "187",
     "rarity": "Ultra Rare",
-    "price": 16.09
+    "price": 7.95
   },
   {
     "id": "sv3pt5-188",
@@ -6832,7 +6832,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "188",
     "rarity": "Ultra Rare",
-    "price": 15.99
+    "price": 7.91
   },
   {
     "id": "sv3pt5-189",
@@ -6841,7 +6841,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "189",
     "rarity": "Ultra Rare",
-    "price": 10.49
+    "price": 4.66
   },
   {
     "id": "sv3pt5-190",
@@ -6850,7 +6850,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "190",
     "rarity": "Ultra Rare",
-    "price": 23.51
+    "price": 11.79
   },
   {
     "id": "sv3pt5-191",
@@ -6859,7 +6859,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "191",
     "rarity": "Ultra Rare",
-    "price": 11.57
+    "price": 5.01
   },
   {
     "id": "sv3pt5-192",
@@ -6868,7 +6868,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "192",
     "rarity": "Ultra Rare",
-    "price": 32.33
+    "price": 11.03
   },
   {
     "id": "sv3pt5-193",
@@ -6877,7 +6877,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "193",
     "rarity": "Ultra Rare",
-    "price": 20.72
+    "price": 17.92
   },
   {
     "id": "sv3pt5-198",
@@ -6886,7 +6886,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "198",
     "rarity": "Special Illustration Rare",
-    "price": 76.86
+    "price": 38
   },
   {
     "id": "sv3pt5-199",
@@ -6895,7 +6895,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "199",
     "rarity": "Special Illustration Rare",
-    "price": 271.42
+    "price": 294.71
   },
   {
     "id": "sv3pt5-200",
@@ -6904,7 +6904,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "200",
     "rarity": "Special Illustration Rare",
-    "price": 93.13
+    "price": 30.87
   },
   {
     "id": "sv3pt5-201",
@@ -6913,7 +6913,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "201",
     "rarity": "Special Illustration Rare",
-    "price": 144.86
+    "price": 47.16
   },
   {
     "id": "sv3pt5-202",
@@ -6922,7 +6922,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "202",
     "rarity": "Special Illustration Rare",
-    "price": 38.87
+    "price": 15.13
   },
   {
     "id": "sv3pt5-205",
@@ -6931,7 +6931,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv3pt5",
     "number": "205",
     "rarity": "Hyper Rare",
-    "price": 182.33
+    "price": 104.6
   },
   {
     "id": "sv4-3",
@@ -6940,7 +6940,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "3",
     "rarity": "Double Rare",
-    "price": 24
+    "price": 13.58
   },
   {
     "id": "sv4-27",
@@ -6949,7 +6949,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "27",
     "rarity": "Double Rare",
-    "price": 21.75
+    "price": 9.89
   },
   {
     "id": "sv4-38",
@@ -6958,7 +6958,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "38",
     "rarity": "Double Rare",
-    "price": 13.35
+    "price": 6.94
   },
   {
     "id": "sv4-46",
@@ -6967,7 +6967,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "46",
     "rarity": "Double Rare",
-    "price": 15.57
+    "price": 6.48
   },
   {
     "id": "sv4-50",
@@ -6976,7 +6976,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "50",
     "rarity": "Double Rare",
-    "price": 7.87
+    "price": 3.95
   },
   {
     "id": "sv4-58",
@@ -6985,7 +6985,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "58",
     "rarity": "Double Rare",
-    "price": 32.12
+    "price": 13.14
   },
   {
     "id": "sv4-68",
@@ -6994,7 +6994,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "68",
     "rarity": "Double Rare",
-    "price": 11.07
+    "price": 7.74
   },
   {
     "id": "sv4-70",
@@ -7003,7 +7003,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "70",
     "rarity": "Double Rare",
-    "price": 16.42
+    "price": 6.74
   },
   {
     "id": "sv4-76",
@@ -7012,7 +7012,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "76",
     "rarity": "Double Rare",
-    "price": 17.56
+    "price": 7.07
   },
   {
     "id": "sv4-89",
@@ -7021,7 +7021,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "89",
     "rarity": "Double Rare",
-    "price": 31.63
+    "price": 11.72
   },
   {
     "id": "sv4-98",
@@ -7030,7 +7030,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "98",
     "rarity": "Double Rare",
-    "price": 9.64
+    "price": 4.58
   },
   {
     "id": "sv4-100",
@@ -7039,7 +7039,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "100",
     "rarity": "Double Rare",
-    "price": 16.13
+    "price": 10.17
   },
   {
     "id": "sv4-108",
@@ -7048,7 +7048,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "108",
     "rarity": "Double Rare",
-    "price": 37.9
+    "price": 12.38
   },
   {
     "id": "sv4-124",
@@ -7057,7 +7057,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "124",
     "rarity": "Double Rare",
-    "price": 12.16
+    "price": 5.85
   },
   {
     "id": "sv4-135",
@@ -7066,7 +7066,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "135",
     "rarity": "Double Rare",
-    "price": 8.2
+    "price": 5.48
   },
   {
     "id": "sv4-137",
@@ -7075,7 +7075,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "137",
     "rarity": "Double Rare",
-    "price": 16.08
+    "price": 7.94
   },
   {
     "id": "sv4-139",
@@ -7084,7 +7084,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "139",
     "rarity": "Double Rare",
-    "price": 13.08
+    "price": 6.17
   },
   {
     "id": "sv4-140",
@@ -7093,7 +7093,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "140",
     "rarity": "Double Rare",
-    "price": 38.58
+    "price": 12.54
   },
   {
     "id": "sv4-155",
@@ -7102,7 +7102,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "155",
     "rarity": "Double Rare",
-    "price": 15.12
+    "price": 6.86
   },
   {
     "id": "sv4-156",
@@ -7111,7 +7111,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "156",
     "rarity": "Double Rare",
-    "price": 15.34
+    "price": 6.41
   },
   {
     "id": "sv4-183",
@@ -7120,7 +7120,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "183",
     "rarity": "Illustration Rare",
-    "price": 36.66
+    "price": 12.08
   },
   {
     "id": "sv4-184",
@@ -7129,7 +7129,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "184",
     "rarity": "Illustration Rare",
-    "price": 14.39
+    "price": 5.87
   },
   {
     "id": "sv4-185",
@@ -7138,7 +7138,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "185",
     "rarity": "Illustration Rare",
-    "price": 14.16
+    "price": 6.54
   },
   {
     "id": "sv4-186",
@@ -7147,7 +7147,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "186",
     "rarity": "Illustration Rare",
-    "price": 18.24
+    "price": 6.97
   },
   {
     "id": "sv4-187",
@@ -7156,7 +7156,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "187",
     "rarity": "Illustration Rare",
-    "price": 16.53
+    "price": 6.49
   },
   {
     "id": "sv4-188",
@@ -7165,7 +7165,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "188",
     "rarity": "Illustration Rare",
-    "price": 23.9
+    "price": 8.49
   },
   {
     "id": "sv4-189",
@@ -7174,7 +7174,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "189",
     "rarity": "Illustration Rare",
-    "price": 8.3
+    "price": 3.93
   },
   {
     "id": "sv4-190",
@@ -7183,7 +7183,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "190",
     "rarity": "Illustration Rare",
-    "price": 15.16
+    "price": 6.09
   },
   {
     "id": "sv4-191",
@@ -7192,7 +7192,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "191",
     "rarity": "Illustration Rare",
-    "price": 18.22
+    "price": 6.96
   },
   {
     "id": "sv4-192",
@@ -7201,7 +7201,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "192",
     "rarity": "Illustration Rare",
-    "price": 20.07
+    "price": 7.8
   },
   {
     "id": "sv4-193",
@@ -7210,7 +7210,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "193",
     "rarity": "Illustration Rare",
-    "price": 25.49
+    "price": 8.89
   },
   {
     "id": "sv4-194",
@@ -7219,7 +7219,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "194",
     "rarity": "Illustration Rare",
-    "price": 15.38
+    "price": 6.16
   },
   {
     "id": "sv4-195",
@@ -7228,7 +7228,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "195",
     "rarity": "Illustration Rare",
-    "price": 13.74
+    "price": 5.67
   },
   {
     "id": "sv4-196",
@@ -7237,7 +7237,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "196",
     "rarity": "Illustration Rare",
-    "price": 29.75
+    "price": 10.38
   },
   {
     "id": "sv4-197",
@@ -7246,7 +7246,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "197",
     "rarity": "Illustration Rare",
-    "price": 8.67
+    "price": 4.24
   },
   {
     "id": "sv4-198",
@@ -7255,7 +7255,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "198",
     "rarity": "Illustration Rare",
-    "price": 16.21
+    "price": 6.4
   },
   {
     "id": "sv4-199",
@@ -7264,7 +7264,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "199",
     "rarity": "Illustration Rare",
-    "price": 8.82
+    "price": 4.11
   },
   {
     "id": "sv4-200",
@@ -7273,7 +7273,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "200",
     "rarity": "Illustration Rare",
-    "price": 15.64
+    "price": 6.23
   },
   {
     "id": "sv4-201",
@@ -7282,7 +7282,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "201",
     "rarity": "Illustration Rare",
-    "price": 23.22
+    "price": 8.31
   },
   {
     "id": "sv4-202",
@@ -7291,7 +7291,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "202",
     "rarity": "Illustration Rare",
-    "price": 13.3
+    "price": 6.24
   },
   {
     "id": "sv4-203",
@@ -7300,7 +7300,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "203",
     "rarity": "Illustration Rare",
-    "price": 12.79
+    "price": 5.38
   },
   {
     "id": "sv4-204",
@@ -7309,7 +7309,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "204",
     "rarity": "Illustration Rare",
-    "price": 7.73
+    "price": 4.66
   },
   {
     "id": "sv4-205",
@@ -7318,7 +7318,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "205",
     "rarity": "Illustration Rare",
-    "price": 26.86
+    "price": 10.41
   },
   {
     "id": "sv4-206",
@@ -7327,7 +7327,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "206",
     "rarity": "Illustration Rare",
-    "price": 34.75
+    "price": 20.23
   },
   {
     "id": "sv4-207",
@@ -7336,7 +7336,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "207",
     "rarity": "Illustration Rare",
-    "price": 33.55
+    "price": 10.86
   },
   {
     "id": "sv4-208",
@@ -7345,7 +7345,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "208",
     "rarity": "Illustration Rare",
-    "price": 23.14
+    "price": 8.65
   },
   {
     "id": "sv4-209",
@@ -7354,7 +7354,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "209",
     "rarity": "Illustration Rare",
-    "price": 16.84
+    "price": 6.58
   },
   {
     "id": "sv4-210",
@@ -7363,7 +7363,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "210",
     "rarity": "Illustration Rare",
-    "price": 29.77
+    "price": 13.99
   },
   {
     "id": "sv4-211",
@@ -7372,7 +7372,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "211",
     "rarity": "Illustration Rare",
-    "price": 8.8
+    "price": 4.1
   },
   {
     "id": "sv4-212",
@@ -7381,7 +7381,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "212",
     "rarity": "Illustration Rare",
-    "price": 4.79
+    "price": 2.63
   },
   {
     "id": "sv4-213",
@@ -7390,7 +7390,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "213",
     "rarity": "Illustration Rare",
-    "price": 16.94
+    "price": 6.6
   },
   {
     "id": "sv4-214",
@@ -7399,7 +7399,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "214",
     "rarity": "Illustration Rare",
-    "price": 7.77
+    "price": 3.75
   },
   {
     "id": "sv4-215",
@@ -7408,7 +7408,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "215",
     "rarity": "Illustration Rare",
-    "price": 11.45
+    "price": 5.6
   },
   {
     "id": "sv4-216",
@@ -7417,7 +7417,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "216",
     "rarity": "Illustration Rare",
-    "price": 15.83
+    "price": 6.29
   },
   {
     "id": "sv4-217",
@@ -7426,7 +7426,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "217",
     "rarity": "Ultra Rare",
-    "price": 13.7
+    "price": 9.03
   },
   {
     "id": "sv4-218",
@@ -7435,7 +7435,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "218",
     "rarity": "Ultra Rare",
-    "price": 41.54
+    "price": 15.84
   },
   {
     "id": "sv4-219",
@@ -7444,7 +7444,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "219",
     "rarity": "Ultra Rare",
-    "price": 14.83
+    "price": 7.49
   },
   {
     "id": "sv4-220",
@@ -7453,7 +7453,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "220",
     "rarity": "Ultra Rare",
-    "price": 22.57
+    "price": 8.49
   },
   {
     "id": "sv4-221",
@@ -7462,7 +7462,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "221",
     "rarity": "Ultra Rare",
-    "price": 8.26
+    "price": 4.09
   },
   {
     "id": "sv4-222",
@@ -7471,7 +7471,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "222",
     "rarity": "Ultra Rare",
-    "price": 25.25
+    "price": 14.09
   },
   {
     "id": "sv4-223",
@@ -7480,7 +7480,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "223",
     "rarity": "Ultra Rare",
-    "price": 19.56
+    "price": 7.65
   },
   {
     "id": "sv4-224",
@@ -7489,7 +7489,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "224",
     "rarity": "Ultra Rare",
-    "price": 36.67
+    "price": 12.08
   },
   {
     "id": "sv4-225",
@@ -7498,7 +7498,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "225",
     "rarity": "Ultra Rare",
-    "price": 35.75
+    "price": 12.82
   },
   {
     "id": "sv4-226",
@@ -7507,7 +7507,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "226",
     "rarity": "Ultra Rare",
-    "price": 13.77
+    "price": 5.93
   },
   {
     "id": "sv4-227",
@@ -7516,7 +7516,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "227",
     "rarity": "Ultra Rare",
-    "price": 39.23
+    "price": 19.41
   },
   {
     "id": "sv4-228",
@@ -7525,7 +7525,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "228",
     "rarity": "Ultra Rare",
-    "price": 7.73
+    "price": 3.89
   },
   {
     "id": "sv4-229",
@@ -7534,7 +7534,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "229",
     "rarity": "Ultra Rare",
-    "price": 11.96
+    "price": 5.78
   },
   {
     "id": "sv4-230",
@@ -7543,7 +7543,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "230",
     "rarity": "Ultra Rare",
-    "price": 11.99
+    "price": 7.22
   },
   {
     "id": "sv4-231",
@@ -7552,7 +7552,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "231",
     "rarity": "Ultra Rare",
-    "price": 24
+    "price": 9.59
   },
   {
     "id": "sv4-232",
@@ -7561,7 +7561,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "232",
     "rarity": "Ultra Rare",
-    "price": 32.67
+    "price": 11.11
   },
   {
     "id": "sv4-233",
@@ -7570,7 +7570,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "233",
     "rarity": "Ultra Rare",
-    "price": 6.63
+    "price": 3.76
   },
   {
     "id": "sv4-234",
@@ -7579,7 +7579,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "234",
     "rarity": "Ultra Rare",
-    "price": 14.59
+    "price": 6.18
   },
   {
     "id": "sv4-245",
@@ -7588,7 +7588,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "245",
     "rarity": "Special Illustration Rare",
-    "price": 111.69
+    "price": 39.03
   },
   {
     "id": "sv4-246",
@@ -7597,7 +7597,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "246",
     "rarity": "Special Illustration Rare",
-    "price": 78.77
+    "price": 25.3
   },
   {
     "id": "sv4-247",
@@ -7606,7 +7606,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "247",
     "rarity": "Special Illustration Rare",
-    "price": 144.1
+    "price": 60.02
   },
   {
     "id": "sv4-248",
@@ -7615,7 +7615,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "248",
     "rarity": "Special Illustration Rare",
-    "price": 64.13
+    "price": 21.78
   },
   {
     "id": "sv4-249",
@@ -7624,7 +7624,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "249",
     "rarity": "Special Illustration Rare",
-    "price": 107.37
+    "price": 34.23
   },
   {
     "id": "sv4-250",
@@ -7633,7 +7633,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "250",
     "rarity": "Special Illustration Rare",
-    "price": 53.8
+    "price": 19.17
   },
   {
     "id": "sv4-251",
@@ -7642,7 +7642,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "251",
     "rarity": "Special Illustration Rare",
-    "price": 65.47
+    "price": 23.89
   },
   {
     "id": "sv4-252",
@@ -7651,7 +7651,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "252",
     "rarity": "Special Illustration Rare",
-    "price": 62.23
+    "price": 23.02
   },
   {
     "id": "sv4-253",
@@ -7660,7 +7660,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "253",
     "rarity": "Special Illustration Rare",
-    "price": 42.66
+    "price": 16.2
   },
   {
     "id": "sv4-260",
@@ -7669,7 +7669,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "260",
     "rarity": "Hyper Rare",
-    "price": 248.81
+    "price": 69.89
   },
   {
     "id": "sv4-261",
@@ -7678,7 +7678,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "261",
     "rarity": "Hyper Rare",
-    "price": 162
+    "price": 46.17
   },
   {
     "id": "sv4-262",
@@ -7687,7 +7687,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4",
     "number": "262",
     "rarity": "Hyper Rare",
-    "price": 73
+    "price": 25.86
   },
   {
     "id": "sv4pt5-2",
@@ -7696,7 +7696,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "2",
     "rarity": "Double Rare",
-    "price": 14.99
+    "price": 6.81
   },
   {
     "id": "sv4pt5-5",
@@ -7705,7 +7705,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "5",
     "rarity": "Double Rare",
-    "price": 44.75
+    "price": 15.09
   },
   {
     "id": "sv4pt5-6",
@@ -7714,7 +7714,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "6",
     "rarity": "Double Rare",
-    "price": 27.18
+    "price": 9.72
   },
   {
     "id": "sv4pt5-29",
@@ -7723,7 +7723,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "29",
     "rarity": "Double Rare",
-    "price": 60.57
+    "price": 61.7
   },
   {
     "id": "sv4pt5-53",
@@ -7732,7 +7732,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "53",
     "rarity": "Double Rare",
-    "price": 22.87
+    "price": 9.26
   },
   {
     "id": "sv4pt5-54",
@@ -7741,7 +7741,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "54",
     "rarity": "Double Rare",
-    "price": 18.34
+    "price": 34.59
   },
   {
     "id": "sv4pt5-59",
@@ -7750,7 +7750,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "59",
     "rarity": "Double Rare",
-    "price": 46
+    "price": 17.06
   },
   {
     "id": "sv4pt5-66",
@@ -7759,7 +7759,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "66",
     "rarity": "Double Rare",
-    "price": 43.93
+    "price": 14.89
   },
   {
     "id": "sv4pt5-69",
@@ -7768,7 +7768,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "69",
     "rarity": "Double Rare",
-    "price": 36.54
+    "price": 18.43
   },
   {
     "id": "sv4pt5-75",
@@ -7777,7 +7777,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "75",
     "rarity": "Double Rare",
-    "price": 23.56
+    "price": 10.48
   },
   {
     "id": "sv4pt5-92",
@@ -7786,7 +7786,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "92",
     "rarity": "Shiny Rare",
-    "price": 54.6
+    "price": 15.47
   },
   {
     "id": "sv4pt5-93",
@@ -7795,7 +7795,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "93",
     "rarity": "Shiny Rare",
-    "price": 18.87
+    "price": 7.15
   },
   {
     "id": "sv4pt5-94",
@@ -7804,7 +7804,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "94",
     "rarity": "Shiny Rare",
-    "price": 13.99
+    "price": 5.75
   },
   {
     "id": "sv4pt5-95",
@@ -7813,7 +7813,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "95",
     "rarity": "Shiny Rare",
-    "price": 34.26
+    "price": 11.02
   },
   {
     "id": "sv4pt5-96",
@@ -7822,7 +7822,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "96",
     "rarity": "Shiny Rare",
-    "price": 25.05
+    "price": 8.78
   },
   {
     "id": "sv4pt5-97",
@@ -7831,7 +7831,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "97",
     "rarity": "Shiny Rare",
-    "price": 46.97
+    "price": 13.87
   },
   {
     "id": "sv4pt5-98",
@@ -7840,7 +7840,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "98",
     "rarity": "Shiny Rare",
-    "price": 15.72
+    "price": 6.25
   },
   {
     "id": "sv4pt5-99",
@@ -7849,7 +7849,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "99",
     "rarity": "Shiny Rare",
-    "price": 26.05
+    "price": 9.03
   },
   {
     "id": "sv4pt5-100",
@@ -7858,7 +7858,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "100",
     "rarity": "Shiny Rare",
-    "price": 17.57
+    "price": 6.78
   },
   {
     "id": "sv4pt5-101",
@@ -7867,7 +7867,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "101",
     "rarity": "Shiny Rare",
-    "price": 18.16
+    "price": 7.25
   },
   {
     "id": "sv4pt5-102",
@@ -7876,7 +7876,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "102",
     "rarity": "Shiny Rare",
-    "price": 17.19
+    "price": 6.68
   },
   {
     "id": "sv4pt5-103",
@@ -7885,7 +7885,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "103",
     "rarity": "Shiny Rare",
-    "price": 16.6
+    "price": 6.51
   },
   {
     "id": "sv4pt5-104",
@@ -7894,7 +7894,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "104",
     "rarity": "Shiny Rare",
-    "price": 20.07
+    "price": 7.8
   },
   {
     "id": "sv4pt5-105",
@@ -7903,7 +7903,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "105",
     "rarity": "Shiny Rare",
-    "price": 32.05
+    "price": 10.5
   },
   {
     "id": "sv4pt5-106",
@@ -7912,7 +7912,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "106",
     "rarity": "Shiny Rare",
-    "price": 12.56
+    "price": 5.31
   },
   {
     "id": "sv4pt5-107",
@@ -7921,7 +7921,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "107",
     "rarity": "Shiny Rare",
-    "price": 12.78
+    "price": 6.72
   },
   {
     "id": "sv4pt5-108",
@@ -7930,7 +7930,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "108",
     "rarity": "Shiny Rare",
-    "price": 8.47
+    "price": 3.99
   },
   {
     "id": "sv4pt5-109",
@@ -7939,7 +7939,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "109",
     "rarity": "Shiny Rare",
-    "price": 19.92
+    "price": 7.43
   },
   {
     "id": "sv4pt5-110",
@@ -7948,7 +7948,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "110",
     "rarity": "Shiny Rare",
-    "price": 16.54
+    "price": 6.49
   },
   {
     "id": "sv4pt5-111",
@@ -7957,7 +7957,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "111",
     "rarity": "Shiny Rare",
-    "price": 11.92
+    "price": 5.77
   },
   {
     "id": "sv4pt5-112",
@@ -7966,7 +7966,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "112",
     "rarity": "Shiny Rare",
-    "price": 11.8
+    "price": 5.08
   },
   {
     "id": "sv4pt5-113",
@@ -7975,7 +7975,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "113",
     "rarity": "Shiny Rare",
-    "price": 10.41
+    "price": 4.84
   },
   {
     "id": "sv4pt5-114",
@@ -7984,7 +7984,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "114",
     "rarity": "Shiny Rare",
-    "price": 12.94
+    "price": 5.43
   },
   {
     "id": "sv4pt5-115",
@@ -7993,7 +7993,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "115",
     "rarity": "Shiny Rare",
-    "price": 15.28
+    "price": 7.65
   },
   {
     "id": "sv4pt5-116",
@@ -8002,7 +8002,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "116",
     "rarity": "Shiny Rare",
-    "price": 36
+    "price": 11.43
   },
   {
     "id": "sv4pt5-117",
@@ -8011,7 +8011,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "117",
     "rarity": "Shiny Rare",
-    "price": 22.39
+    "price": 8.44
   },
   {
     "id": "sv4pt5-118",
@@ -8020,7 +8020,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "118",
     "rarity": "Shiny Rare",
-    "price": 12.2
+    "price": 5.2
   },
   {
     "id": "sv4pt5-119",
@@ -8029,7 +8029,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "119",
     "rarity": "Shiny Rare",
-    "price": 20.11
+    "price": 9.35
   },
   {
     "id": "sv4pt5-120",
@@ -8038,7 +8038,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "120",
     "rarity": "Shiny Rare",
-    "price": 16.45
+    "price": 7.29
   },
   {
     "id": "sv4pt5-121",
@@ -8047,7 +8047,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "121",
     "rarity": "Shiny Rare",
-    "price": 12.26
+    "price": 5.22
   },
   {
     "id": "sv4pt5-122",
@@ -8056,7 +8056,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "122",
     "rarity": "Shiny Rare",
-    "price": 20.31
+    "price": 8.49
   },
   {
     "id": "sv4pt5-123",
@@ -8065,7 +8065,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "123",
     "rarity": "Shiny Rare",
-    "price": 9.18
+    "price": 4.23
   },
   {
     "id": "sv4pt5-124",
@@ -8074,7 +8074,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "124",
     "rarity": "Shiny Rare",
-    "price": 45.29
+    "price": 18.98
   },
   {
     "id": "sv4pt5-125",
@@ -8083,7 +8083,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "125",
     "rarity": "Shiny Rare",
-    "price": 20.44
+    "price": 7.9
   },
   {
     "id": "sv4pt5-126",
@@ -8092,7 +8092,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "126",
     "rarity": "Shiny Rare",
-    "price": 50.57
+    "price": 16.49
   },
   {
     "id": "sv4pt5-127",
@@ -8101,7 +8101,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "127",
     "rarity": "Shiny Rare",
-    "price": 27.44
+    "price": 10.57
   },
   {
     "id": "sv4pt5-128",
@@ -8110,7 +8110,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "128",
     "rarity": "Shiny Rare",
-    "price": 28.22
+    "price": 9.58
   },
   {
     "id": "sv4pt5-129",
@@ -8119,7 +8119,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "129",
     "rarity": "Shiny Rare",
-    "price": 25.59
+    "price": 8.92
   },
   {
     "id": "sv4pt5-130",
@@ -8128,7 +8128,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "130",
     "rarity": "Shiny Rare",
-    "price": 24.88
+    "price": 8.74
   },
   {
     "id": "sv4pt5-131",
@@ -8137,7 +8137,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "131",
     "rarity": "Shiny Rare",
-    "price": 27.47
+    "price": 46.41
   },
   {
     "id": "sv4pt5-132",
@@ -8146,7 +8146,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "132",
     "rarity": "Shiny Rare",
-    "price": 67.05
+    "price": 18.74
   },
   {
     "id": "sv4pt5-133",
@@ -8155,7 +8155,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "133",
     "rarity": "Shiny Rare",
-    "price": 26.68
+    "price": 9.19
   },
   {
     "id": "sv4pt5-134",
@@ -8164,7 +8164,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "134",
     "rarity": "Shiny Rare",
-    "price": 30.89
+    "price": 10.22
   },
   {
     "id": "sv4pt5-135",
@@ -8173,7 +8173,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "135",
     "rarity": "Shiny Rare",
-    "price": 15.17
+    "price": 6.1
   },
   {
     "id": "sv4pt5-136",
@@ -8182,7 +8182,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "136",
     "rarity": "Shiny Rare",
-    "price": 20.77
+    "price": 7.66
   },
   {
     "id": "sv4pt5-137",
@@ -8191,7 +8191,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "137",
     "rarity": "Shiny Rare",
-    "price": 12.37
+    "price": 5.92
   },
   {
     "id": "sv4pt5-138",
@@ -8200,7 +8200,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "138",
     "rarity": "Shiny Rare",
-    "price": 10.16
+    "price": 4.55
   },
   {
     "id": "sv4pt5-139",
@@ -8209,7 +8209,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "139",
     "rarity": "Shiny Rare",
-    "price": 8.45
+    "price": 3.98
   },
   {
     "id": "sv4pt5-140",
@@ -8218,7 +8218,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "140",
     "rarity": "Shiny Rare",
-    "price": 9.39
+    "price": 4.3
   },
   {
     "id": "sv4pt5-141",
@@ -8227,7 +8227,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "141",
     "rarity": "Shiny Rare",
-    "price": 18.52
+    "price": 11.24
   },
   {
     "id": "sv4pt5-142",
@@ -8236,7 +8236,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "142",
     "rarity": "Shiny Rare",
-    "price": 17.57
+    "price": 6.78
   },
   {
     "id": "sv4pt5-143",
@@ -8245,7 +8245,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "143",
     "rarity": "Shiny Rare",
-    "price": 9.04
+    "price": 4.18
   },
   {
     "id": "sv4pt5-144",
@@ -8254,7 +8254,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "144",
     "rarity": "Shiny Rare",
-    "price": 12.16
+    "price": 5.42
   },
   {
     "id": "sv4pt5-145",
@@ -8263,7 +8263,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "145",
     "rarity": "Shiny Rare",
-    "price": 22.34
+    "price": 8.08
   },
   {
     "id": "sv4pt5-146",
@@ -8272,7 +8272,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "146",
     "rarity": "Shiny Rare",
-    "price": 10.33
+    "price": 4.61
   },
   {
     "id": "sv4pt5-147",
@@ -8281,7 +8281,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "147",
     "rarity": "Shiny Rare",
-    "price": 25.57
+    "price": 11.13
   },
   {
     "id": "sv4pt5-148",
@@ -8290,7 +8290,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "148",
     "rarity": "Shiny Rare",
-    "price": 15.34
+    "price": 6.14
   },
   {
     "id": "sv4pt5-149",
@@ -8299,7 +8299,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "149",
     "rarity": "Shiny Rare",
-    "price": 6.5
+    "price": 3.29
   },
   {
     "id": "sv4pt5-150",
@@ -8308,7 +8308,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "150",
     "rarity": "Shiny Rare",
-    "price": 18.02
+    "price": 6.91
   },
   {
     "id": "sv4pt5-151",
@@ -8317,7 +8317,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "151",
     "rarity": "Shiny Rare",
-    "price": 44.82
+    "price": 13.4
   },
   {
     "id": "sv4pt5-152",
@@ -8326,7 +8326,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "152",
     "rarity": "Shiny Rare",
-    "price": 13.42
+    "price": 5.58
   },
   {
     "id": "sv4pt5-153",
@@ -8335,7 +8335,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "153",
     "rarity": "Shiny Rare",
-    "price": 13.31
+    "price": 5.54
   },
   {
     "id": "sv4pt5-154",
@@ -8344,7 +8344,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "154",
     "rarity": "Shiny Rare",
-    "price": 21.56
+    "price": 7.87
   },
   {
     "id": "sv4pt5-155",
@@ -8353,7 +8353,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "155",
     "rarity": "Shiny Rare",
-    "price": 7.61
+    "price": 3.69
   },
   {
     "id": "sv4pt5-156",
@@ -8362,7 +8362,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "156",
     "rarity": "Shiny Rare",
-    "price": 10.62
+    "price": 4.7
   },
   {
     "id": "sv4pt5-157",
@@ -8371,7 +8371,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "157",
     "rarity": "Shiny Rare",
-    "price": 10.49
+    "price": 4.66
   },
   {
     "id": "sv4pt5-158",
@@ -8380,7 +8380,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "158",
     "rarity": "Shiny Rare",
-    "price": 6.62
+    "price": 3.33
   },
   {
     "id": "sv4pt5-159",
@@ -8389,7 +8389,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "159",
     "rarity": "Shiny Rare",
-    "price": 16.85
+    "price": 6.58
   },
   {
     "id": "sv4pt5-160",
@@ -8398,7 +8398,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "160",
     "rarity": "Shiny Rare",
-    "price": 18
+    "price": 7.78
   },
   {
     "id": "sv4pt5-161",
@@ -8407,7 +8407,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "161",
     "rarity": "Shiny Rare",
-    "price": 22.82
+    "price": 9.25
   },
   {
     "id": "sv4pt5-162",
@@ -8416,7 +8416,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "162",
     "rarity": "Shiny Rare",
-    "price": 15.31
+    "price": 6.92
   },
   {
     "id": "sv4pt5-163",
@@ -8425,7 +8425,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "163",
     "rarity": "Shiny Rare",
-    "price": 10.73
+    "price": 4.94
   },
   {
     "id": "sv4pt5-164",
@@ -8434,7 +8434,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "164",
     "rarity": "Shiny Rare",
-    "price": 12.49
+    "price": 5.29
   },
   {
     "id": "sv4pt5-165",
@@ -8443,7 +8443,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "165",
     "rarity": "Shiny Rare",
-    "price": 39.46
+    "price": 12.22
   },
   {
     "id": "sv4pt5-166",
@@ -8452,7 +8452,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "166",
     "rarity": "Shiny Rare",
-    "price": 23.49
+    "price": 8.38
   },
   {
     "id": "sv4pt5-167",
@@ -8461,7 +8461,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "167",
     "rarity": "Shiny Rare",
-    "price": 16.49
+    "price": 6.76
   },
   {
     "id": "sv4pt5-168",
@@ -8470,7 +8470,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "168",
     "rarity": "Shiny Rare",
-    "price": 47.34
+    "price": 14.55
   },
   {
     "id": "sv4pt5-169",
@@ -8479,7 +8479,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "169",
     "rarity": "Shiny Rare",
-    "price": 11.09
+    "price": 4.85
   },
   {
     "id": "sv4pt5-170",
@@ -8488,7 +8488,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "170",
     "rarity": "Shiny Rare",
-    "price": 7.52
+    "price": 3.66
   },
   {
     "id": "sv4pt5-171",
@@ -8497,7 +8497,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "171",
     "rarity": "Shiny Rare",
-    "price": 25.58
+    "price": 8.91
   },
   {
     "id": "sv4pt5-172",
@@ -8506,7 +8506,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "172",
     "rarity": "Shiny Rare",
-    "price": 13.1
+    "price": 6.18
   },
   {
     "id": "sv4pt5-173",
@@ -8515,7 +8515,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "173",
     "rarity": "Shiny Rare",
-    "price": 12.39
+    "price": 5.26
   },
   {
     "id": "sv4pt5-174",
@@ -8524,7 +8524,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "174",
     "rarity": "Shiny Rare",
-    "price": 16.86
+    "price": 11.96
   },
   {
     "id": "sv4pt5-175",
@@ -8533,7 +8533,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "175",
     "rarity": "Shiny Rare",
-    "price": 10.35
+    "price": 5.2
   },
   {
     "id": "sv4pt5-176",
@@ -8542,7 +8542,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "176",
     "rarity": "Shiny Rare",
-    "price": 41.29
+    "price": 12.63
   },
   {
     "id": "sv4pt5-177",
@@ -8551,7 +8551,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "177",
     "rarity": "Shiny Rare",
-    "price": 8.23
+    "price": 3.91
   },
   {
     "id": "sv4pt5-178",
@@ -8560,7 +8560,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "178",
     "rarity": "Shiny Rare",
-    "price": 5.64
+    "price": 3.35
   },
   {
     "id": "sv4pt5-179",
@@ -8569,7 +8569,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "179",
     "rarity": "Shiny Rare",
-    "price": 10.11
+    "price": 4.54
   },
   {
     "id": "sv4pt5-180",
@@ -8578,7 +8578,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "180",
     "rarity": "Shiny Rare",
-    "price": 5.92
+    "price": 3.21
   },
   {
     "id": "sv4pt5-181",
@@ -8587,7 +8587,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "181",
     "rarity": "Shiny Rare",
-    "price": 16.97
+    "price": 6.61
   },
   {
     "id": "sv4pt5-182",
@@ -8596,7 +8596,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "182",
     "rarity": "Shiny Rare",
-    "price": 5.38
+    "price": 2.87
   },
   {
     "id": "sv4pt5-183",
@@ -8605,7 +8605,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "183",
     "rarity": "Shiny Rare",
-    "price": 7.57
+    "price": 3.68
   },
   {
     "id": "sv4pt5-184",
@@ -8614,7 +8614,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "184",
     "rarity": "Shiny Rare",
-    "price": 17.43
+    "price": 6.75
   },
   {
     "id": "sv4pt5-185",
@@ -8623,7 +8623,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "185",
     "rarity": "Shiny Rare",
-    "price": 35.64
+    "price": 11.35
   },
   {
     "id": "sv4pt5-186",
@@ -8632,7 +8632,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "186",
     "rarity": "Shiny Rare",
-    "price": 11.81
+    "price": 5.08
   },
   {
     "id": "sv4pt5-187",
@@ -8641,7 +8641,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "187",
     "rarity": "Shiny Rare",
-    "price": 16.19
+    "price": 6.39
   },
   {
     "id": "sv4pt5-188",
@@ -8650,7 +8650,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "188",
     "rarity": "Shiny Rare",
-    "price": 16.5
+    "price": 6.48
   },
   {
     "id": "sv4pt5-189",
@@ -8659,7 +8659,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "189",
     "rarity": "Shiny Rare",
-    "price": 27.91
+    "price": 9.5
   },
   {
     "id": "sv4pt5-190",
@@ -8668,7 +8668,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "190",
     "rarity": "Shiny Rare",
-    "price": 14.86
+    "price": 6
   },
   {
     "id": "sv4pt5-191",
@@ -8677,7 +8677,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "191",
     "rarity": "Shiny Rare",
-    "price": 23.24
+    "price": 13.26
   },
   {
     "id": "sv4pt5-192",
@@ -8686,7 +8686,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "192",
     "rarity": "Shiny Rare",
-    "price": 18.07
+    "price": 6.92
   },
   {
     "id": "sv4pt5-193",
@@ -8695,7 +8695,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "193",
     "rarity": "Shiny Rare",
-    "price": 51.49
+    "price": 20.84
   },
   {
     "id": "sv4pt5-194",
@@ -8704,7 +8704,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "194",
     "rarity": "Shiny Rare",
-    "price": 11.08
+    "price": 4.85
   },
   {
     "id": "sv4pt5-195",
@@ -8713,7 +8713,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "195",
     "rarity": "Shiny Rare",
-    "price": 6.51
+    "price": 3.71
   },
   {
     "id": "sv4pt5-196",
@@ -8722,7 +8722,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "196",
     "rarity": "Shiny Rare",
-    "price": 38.05
+    "price": 11.9
   },
   {
     "id": "sv4pt5-197",
@@ -8731,7 +8731,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "197",
     "rarity": "Shiny Rare",
-    "price": 23.29
+    "price": 8.33
   },
   {
     "id": "sv4pt5-198",
@@ -8740,7 +8740,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "198",
     "rarity": "Shiny Rare",
-    "price": 8.34
+    "price": 3.95
   },
   {
     "id": "sv4pt5-199",
@@ -8749,7 +8749,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "199",
     "rarity": "Shiny Rare",
-    "price": 17.24
+    "price": 6.69
   },
   {
     "id": "sv4pt5-200",
@@ -8758,7 +8758,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "200",
     "rarity": "Shiny Rare",
-    "price": 15.79
+    "price": 6.28
   },
   {
     "id": "sv4pt5-201",
@@ -8767,7 +8767,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "201",
     "rarity": "Shiny Rare",
-    "price": 45.72
+    "price": 13.6
   },
   {
     "id": "sv4pt5-202",
@@ -8776,7 +8776,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "202",
     "rarity": "Shiny Rare",
-    "price": 18.27
+    "price": 9.81
   },
   {
     "id": "sv4pt5-203",
@@ -8785,7 +8785,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "203",
     "rarity": "Shiny Rare",
-    "price": 22.23
+    "price": 8.05
   },
   {
     "id": "sv4pt5-204",
@@ -8794,7 +8794,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "204",
     "rarity": "Shiny Rare",
-    "price": 24.98
+    "price": 8.76
   },
   {
     "id": "sv4pt5-205",
@@ -8803,7 +8803,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "205",
     "rarity": "Shiny Rare",
-    "price": 6.2
+    "price": 3.18
   },
   {
     "id": "sv4pt5-206",
@@ -8812,7 +8812,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "206",
     "rarity": "Shiny Rare",
-    "price": 18.94
+    "price": 10.07
   },
   {
     "id": "sv4pt5-207",
@@ -8821,7 +8821,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "207",
     "rarity": "Shiny Rare",
-    "price": 12.91
+    "price": 5.42
   },
   {
     "id": "sv4pt5-208",
@@ -8830,7 +8830,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "208",
     "rarity": "Shiny Rare",
-    "price": 22.15
+    "price": 8.38
   },
   {
     "id": "sv4pt5-209",
@@ -8839,7 +8839,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "209",
     "rarity": "Shiny Rare",
-    "price": 12.24
+    "price": 5.21
   },
   {
     "id": "sv4pt5-210",
@@ -8848,7 +8848,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "210",
     "rarity": "Shiny Rare",
-    "price": 14.8
+    "price": 6.75
   },
   {
     "id": "sv4pt5-211",
@@ -8857,7 +8857,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "211",
     "rarity": "Shiny Rare",
-    "price": 17.67
+    "price": 7.11
   },
   {
     "id": "sv4pt5-212",
@@ -8866,7 +8866,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "212",
     "rarity": "Shiny Ultra Rare",
-    "price": 114.5
+    "price": 35.87
   },
   {
     "id": "sv4pt5-213",
@@ -8875,7 +8875,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "213",
     "rarity": "Shiny Ultra Rare",
-    "price": 190.91
+    "price": 52.03
   },
   {
     "id": "sv4pt5-214",
@@ -8884,7 +8884,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "214",
     "rarity": "Shiny Ultra Rare",
-    "price": 27.86
+    "price": 11.88
   },
   {
     "id": "sv4pt5-215",
@@ -8893,7 +8893,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "215",
     "rarity": "Shiny Ultra Rare",
-    "price": 46.53
+    "price": 20.65
   },
   {
     "id": "sv4pt5-216",
@@ -8902,7 +8902,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "216",
     "rarity": "Shiny Ultra Rare",
-    "price": 155.38
+    "price": 93.11
   },
   {
     "id": "sv4pt5-217",
@@ -8911,7 +8911,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "217",
     "rarity": "Shiny Ultra Rare",
-    "price": 81.67
+    "price": 92.05
   },
   {
     "id": "sv4pt5-218",
@@ -8920,7 +8920,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "218",
     "rarity": "Shiny Ultra Rare",
-    "price": 124.82
+    "price": 35.36
   },
   {
     "id": "sv4pt5-219",
@@ -8929,7 +8929,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "219",
     "rarity": "Shiny Ultra Rare",
-    "price": 109.56
+    "price": 38.49
   },
   {
     "id": "sv4pt5-220",
@@ -8938,7 +8938,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "220",
     "rarity": "Shiny Ultra Rare",
-    "price": 59.74
+    "price": 31.64
   },
   {
     "id": "sv4pt5-221",
@@ -8947,7 +8947,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "221",
     "rarity": "Shiny Ultra Rare",
-    "price": 23.57
+    "price": 12.59
   },
   {
     "id": "sv4pt5-222",
@@ -8956,7 +8956,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "222",
     "rarity": "Shiny Ultra Rare",
-    "price": 130.94
+    "price": 43.82
   },
   {
     "id": "sv4pt5-223",
@@ -8965,7 +8965,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "223",
     "rarity": "Shiny Ultra Rare",
-    "price": 171.79
+    "price": 53.38
   },
   {
     "id": "sv4pt5-224",
@@ -8974,7 +8974,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "224",
     "rarity": "Illustration Rare",
-    "price": 29.28
+    "price": 11.08
   },
   {
     "id": "sv4pt5-225",
@@ -8983,7 +8983,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "225",
     "rarity": "Illustration Rare",
-    "price": 16.14
+    "price": 8.97
   },
   {
     "id": "sv4pt5-226",
@@ -8992,7 +8992,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "226",
     "rarity": "Illustration Rare",
-    "price": 12.57
+    "price": 5.32
   },
   {
     "id": "sv4pt5-232",
@@ -9001,7 +9001,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "232",
     "rarity": "Special Illustration Rare",
-    "price": 225.06
+    "price": 121.9
   },
   {
     "id": "sv4pt5-233",
@@ -9010,7 +9010,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "233",
     "rarity": "Special Illustration Rare",
-    "price": 78.38
+    "price": 89.34
   },
   {
     "id": "sv4pt5-234",
@@ -9019,7 +9019,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "234",
     "rarity": "Special Illustration Rare",
-    "price": 55.61
+    "price": 93.05
   },
   {
     "id": "sv4pt5-240",
@@ -9028,7 +9028,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "240",
     "rarity": "Hyper Rare",
-    "price": 76.17
+    "price": 26.67
   },
   {
     "id": "sv4pt5-241",
@@ -9037,7 +9037,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "241",
     "rarity": "Hyper Rare",
-    "price": 154.52
+    "price": 44.61
   },
   {
     "id": "sv4pt5-242",
@@ -9046,7 +9046,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "242",
     "rarity": "Hyper Rare",
-    "price": 84.4
+    "price": 31.84
   },
   {
     "id": "sv4pt5-243",
@@ -9055,7 +9055,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "243",
     "rarity": "Hyper Rare",
-    "price": 318.97
+    "price": 121.77
   },
   {
     "id": "sv4pt5-244",
@@ -9064,7 +9064,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "244",
     "rarity": "Hyper Rare",
-    "price": 83.38
+    "price": 31.56
   },
   {
     "id": "sv4pt5-245",
@@ -9073,7 +9073,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv4pt5",
     "number": "245",
     "rarity": "Hyper Rare",
-    "price": 139.72
+    "price": 66.81
   },
   {
     "id": "sv5-12",
@@ -9082,7 +9082,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "12",
     "rarity": "Double Rare",
-    "price": 6.18
+    "price": 3.17
   },
   {
     "id": "sv5-22",
@@ -9091,7 +9091,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "22",
     "rarity": "Double Rare",
-    "price": 18.38
+    "price": 8.75
   },
   {
     "id": "sv5-25",
@@ -9100,7 +9100,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "25",
     "rarity": "Double Rare",
-    "price": 7.28
+    "price": 4.03
   },
   {
     "id": "sv5-34",
@@ -9109,7 +9109,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "34",
     "rarity": "Double Rare",
-    "price": 26.3
+    "price": 9.1
   },
   {
     "id": "sv5-38",
@@ -9118,7 +9118,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "38",
     "rarity": "Double Rare",
-    "price": 8.2
+    "price": 4.39
   },
   {
     "id": "sv5-50",
@@ -9127,7 +9127,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "50",
     "rarity": "Double Rare",
-    "price": 40.72
+    "price": 14.09
   },
   {
     "id": "sv5-60",
@@ -9136,7 +9136,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "60",
     "rarity": "Double Rare",
-    "price": 15.43
+    "price": 6.96
   },
   {
     "id": "sv5-81",
@@ -9145,7 +9145,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "81",
     "rarity": "Double Rare",
-    "price": 11.56
+    "price": 5.64
   },
   {
     "id": "sv5-99",
@@ -9154,7 +9154,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "99",
     "rarity": "Double Rare",
-    "price": 14.75
+    "price": 6.73
   },
   {
     "id": "sv5-104",
@@ -9163,7 +9163,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "104",
     "rarity": "Double Rare",
-    "price": 40.95
+    "price": 22.8
   },
   {
     "id": "sv5-108",
@@ -9172,7 +9172,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "108",
     "rarity": "Double Rare",
-    "price": 18.14
+    "price": 7.24
   },
   {
     "id": "sv5-111",
@@ -9181,7 +9181,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "111",
     "rarity": "Double Rare",
-    "price": 24.07
+    "price": 13.61
   },
   {
     "id": "sv5-120",
@@ -9190,7 +9190,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "120",
     "rarity": "Double Rare",
-    "price": 29.73
+    "price": 18.06
   },
   {
     "id": "sv5-122",
@@ -9199,7 +9199,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "122",
     "rarity": "Double Rare",
-    "price": 38.77
+    "price": 21.91
   },
   {
     "id": "sv5-123",
@@ -9208,7 +9208,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "123",
     "rarity": "Double Rare",
-    "price": 24.98
+    "price": 9.88
   },
   {
     "id": "sv5-163",
@@ -9217,7 +9217,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "163",
     "rarity": "Illustration Rare",
-    "price": 5.51
+    "price": 2.92
   },
   {
     "id": "sv5-164",
@@ -9226,7 +9226,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "164",
     "rarity": "Illustration Rare",
-    "price": 17.16
+    "price": 6.67
   },
   {
     "id": "sv5-165",
@@ -9235,7 +9235,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "165",
     "rarity": "Illustration Rare",
-    "price": 12.79
+    "price": 5.39
   },
   {
     "id": "sv5-166",
@@ -9244,7 +9244,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "166",
     "rarity": "Illustration Rare",
-    "price": 13.11
+    "price": 5.48
   },
   {
     "id": "sv5-167",
@@ -9253,7 +9253,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "167",
     "rarity": "Illustration Rare",
-    "price": 7.69
+    "price": 3.72
   },
   {
     "id": "sv5-168",
@@ -9262,7 +9262,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "168",
     "rarity": "Illustration Rare",
-    "price": 18.41
+    "price": 7.02
   },
   {
     "id": "sv5-169",
@@ -9271,7 +9271,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "169",
     "rarity": "Illustration Rare",
-    "price": 4.77
+    "price": 2.63
   },
   {
     "id": "sv5-170",
@@ -9280,7 +9280,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "170",
     "rarity": "Illustration Rare",
-    "price": 13.09
+    "price": 5.48
   },
   {
     "id": "sv5-171",
@@ -9289,7 +9289,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "171",
     "rarity": "Illustration Rare",
-    "price": 28.69
+    "price": 9.69
   },
   {
     "id": "sv5-172",
@@ -9298,7 +9298,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "172",
     "rarity": "Illustration Rare",
-    "price": 13.85
+    "price": 5.7
   },
   {
     "id": "sv5-173",
@@ -9307,7 +9307,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "173",
     "rarity": "Illustration Rare",
-    "price": 11.76
+    "price": 5.07
   },
   {
     "id": "sv5-174",
@@ -9316,7 +9316,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "174",
     "rarity": "Illustration Rare",
-    "price": 53.52
+    "price": 21.44
   },
   {
     "id": "sv5-175",
@@ -9325,7 +9325,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "175",
     "rarity": "Illustration Rare",
-    "price": 27.2
+    "price": 9.32
   },
   {
     "id": "sv5-176",
@@ -9334,7 +9334,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "176",
     "rarity": "Illustration Rare",
-    "price": 25.07
+    "price": 9.16
   },
   {
     "id": "sv5-177",
@@ -9343,7 +9343,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "177",
     "rarity": "Illustration Rare",
-    "price": 28.95
+    "price": 9.75
   },
   {
     "id": "sv5-178",
@@ -9352,7 +9352,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "178",
     "rarity": "Illustration Rare",
-    "price": 13.23
+    "price": 6.22
   },
   {
     "id": "sv5-179",
@@ -9361,7 +9361,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "179",
     "rarity": "Illustration Rare",
-    "price": 20.08
+    "price": 7.48
   },
   {
     "id": "sv5-180",
@@ -9370,7 +9370,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "180",
     "rarity": "Illustration Rare",
-    "price": 18.99
+    "price": 7.18
   },
   {
     "id": "sv5-181",
@@ -9379,7 +9379,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "181",
     "rarity": "Illustration Rare",
-    "price": 10.07
+    "price": 4.53
   },
   {
     "id": "sv5-182",
@@ -9388,7 +9388,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "182",
     "rarity": "Illustration Rare",
-    "price": 28.79
+    "price": 9.71
   },
   {
     "id": "sv5-183",
@@ -9397,7 +9397,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "183",
     "rarity": "Illustration Rare",
-    "price": 24.8
+    "price": 10.88
   },
   {
     "id": "sv5-184",
@@ -9406,7 +9406,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "184",
     "rarity": "Illustration Rare",
-    "price": 9.73
+    "price": 4.41
   },
   {
     "id": "sv5-185",
@@ -9415,7 +9415,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "185",
     "rarity": "Ultra Rare",
-    "price": 11.3
+    "price": 4.92
   },
   {
     "id": "sv5-186",
@@ -9424,7 +9424,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "186",
     "rarity": "Ultra Rare",
-    "price": 7.37
+    "price": 4.06
   },
   {
     "id": "sv5-187",
@@ -9433,7 +9433,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "187",
     "rarity": "Ultra Rare",
-    "price": 17.07
+    "price": 6.64
   },
   {
     "id": "sv5-188",
@@ -9442,7 +9442,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "188",
     "rarity": "Ultra Rare",
-    "price": 20.88
+    "price": 8.67
   },
   {
     "id": "sv5-189",
@@ -9451,7 +9451,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "189",
     "rarity": "Ultra Rare",
-    "price": 13.15
+    "price": 6.19
   },
   {
     "id": "sv5-190",
@@ -9460,7 +9460,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "190",
     "rarity": "Ultra Rare",
-    "price": 39.03
+    "price": 13.66
   },
   {
     "id": "sv5-191",
@@ -9469,7 +9469,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "191",
     "rarity": "Ultra Rare",
-    "price": 46.83
+    "price": 15.6
   },
   {
     "id": "sv5-192",
@@ -9478,7 +9478,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "192",
     "rarity": "Ultra Rare",
-    "price": 29.28
+    "price": 11.08
   },
   {
     "id": "sv5-193",
@@ -9487,7 +9487,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "193",
     "rarity": "Ultra Rare",
-    "price": 21.59
+    "price": 14.31
   },
   {
     "id": "sv5-194",
@@ -9496,7 +9496,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "194",
     "rarity": "Ultra Rare",
-    "price": 12
+    "price": 5.36
   },
   {
     "id": "sv5-195",
@@ -9505,7 +9505,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "195",
     "rarity": "Ultra Rare",
-    "price": 105.76
+    "price": 39.93
   },
   {
     "id": "sv5-196",
@@ -9514,7 +9514,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "196",
     "rarity": "Ultra Rare",
-    "price": 21.11
+    "price": 8.74
   },
   {
     "id": "sv5-203",
@@ -9523,7 +9523,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "203",
     "rarity": "Special Illustration Rare",
-    "price": 118.61
+    "price": 36.81
   },
   {
     "id": "sv5-204",
@@ -9532,7 +9532,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "204",
     "rarity": "Special Illustration Rare",
-    "price": 23.32
+    "price": 11.28
   },
   {
     "id": "sv5-205",
@@ -9541,7 +9541,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "205",
     "rarity": "Special Illustration Rare",
-    "price": 113.71
+    "price": 35.69
   },
   {
     "id": "sv5-206",
@@ -9550,7 +9550,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "206",
     "rarity": "Special Illustration Rare",
-    "price": 152.25
+    "price": 44.13
   },
   {
     "id": "sv5-207",
@@ -9559,7 +9559,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "207",
     "rarity": "Special Illustration Rare",
-    "price": 81.31
+    "price": 27.97
   },
   {
     "id": "sv5-208",
@@ -9568,7 +9568,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "208",
     "rarity": "Special Illustration Rare",
-    "price": 148.68
+    "price": 43.38
   },
   {
     "id": "sv5-213",
@@ -9577,7 +9577,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "213",
     "rarity": "Hyper Rare",
-    "price": 63.87
+    "price": 23.46
   },
   {
     "id": "sv5-214",
@@ -9586,7 +9586,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "214",
     "rarity": "Hyper Rare",
-    "price": 234.85
+    "price": 60.49
   },
   {
     "id": "sv5-215",
@@ -9595,7 +9595,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "215",
     "rarity": "Hyper Rare",
-    "price": 120.9
+    "price": 37.32
   },
   {
     "id": "sv5-216",
@@ -9604,7 +9604,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "216",
     "rarity": "Hyper Rare",
-    "price": 48.86
+    "price": 19.31
   },
   {
     "id": "sv5-217",
@@ -9613,7 +9613,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "217",
     "rarity": "Hyper Rare",
-    "price": 36.09
+    "price": 15.49
   },
   {
     "id": "sv5-218",
@@ -9622,7 +9622,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv5",
     "number": "218",
     "rarity": "Hyper Rare",
-    "price": 202.77
+    "price": 54.36
   },
   {
     "id": "sv6-23",
@@ -9631,7 +9631,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "23",
     "rarity": "Double Rare",
-    "price": 26.33
+    "price": 9.5
   },
   {
     "id": "sv6-25",
@@ -9640,7 +9640,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "25",
     "rarity": "Double Rare",
-    "price": 22.93
+    "price": 13.13
   },
   {
     "id": "sv6-29",
@@ -9649,7 +9649,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "29",
     "rarity": "Double Rare",
-    "price": 8.16
+    "price": 3.88
   },
   {
     "id": "sv6-40",
@@ -9658,7 +9658,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "40",
     "rarity": "Double Rare",
-    "price": 15.46
+    "price": 7.72
   },
   {
     "id": "sv6-61",
@@ -9667,7 +9667,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "61",
     "rarity": "Double Rare",
-    "price": 15.86
+    "price": 8.85
   },
   {
     "id": "sv6-64",
@@ -9676,7 +9676,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "64",
     "rarity": "Double Rare",
-    "price": 18.04
+    "price": 8.64
   },
   {
     "id": "sv6-68",
@@ -9685,7 +9685,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "68",
     "rarity": "Double Rare",
-    "price": 10.45
+    "price": 5.24
   },
   {
     "id": "sv6-77",
@@ -9694,7 +9694,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "77",
     "rarity": "Double Rare",
-    "price": 12.62
+    "price": 5.33
   },
   {
     "id": "sv6-94",
@@ -9703,7 +9703,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "94",
     "rarity": "Double Rare",
-    "price": 24.06
+    "price": 8.53
   },
   {
     "id": "sv6-106",
@@ -9712,7 +9712,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "106",
     "rarity": "Double Rare",
-    "price": 29.55
+    "price": 17.98
   },
   {
     "id": "sv6-112",
@@ -9721,7 +9721,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "112",
     "rarity": "Double Rare",
-    "price": 31.07
+    "price": 12.82
   },
   {
     "id": "sv6-130",
@@ -9730,7 +9730,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "130",
     "rarity": "Double Rare",
-    "price": 30.14
+    "price": 18.24
   },
   {
     "id": "sv6-134",
@@ -9739,7 +9739,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "134",
     "rarity": "Double Rare",
-    "price": 29.54
+    "price": 11.15
   },
   {
     "id": "sv6-141",
@@ -9748,7 +9748,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "141",
     "rarity": "Double Rare",
-    "price": 53.25
+    "price": 18.97
   },
   {
     "id": "sv6-168",
@@ -9757,7 +9757,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "168",
     "rarity": "Illustration Rare",
-    "price": 8.43
+    "price": 3.98
   },
   {
     "id": "sv6-169",
@@ -9766,7 +9766,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "169",
     "rarity": "Illustration Rare",
-    "price": 11.26
+    "price": 4.91
   },
   {
     "id": "sv6-170",
@@ -9775,7 +9775,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "170",
     "rarity": "Illustration Rare",
-    "price": 16.87
+    "price": 6.58
   },
   {
     "id": "sv6-171",
@@ -9784,7 +9784,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "171",
     "rarity": "Illustration Rare",
-    "price": 9.51
+    "price": 4.34
   },
   {
     "id": "sv6-172",
@@ -9793,7 +9793,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "172",
     "rarity": "Illustration Rare",
-    "price": 16.12
+    "price": 6.37
   },
   {
     "id": "sv6-173",
@@ -9802,7 +9802,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "173",
     "rarity": "Illustration Rare",
-    "price": 14.05
+    "price": 5.76
   },
   {
     "id": "sv6-174",
@@ -9811,7 +9811,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "174",
     "rarity": "Illustration Rare",
-    "price": 6.45
+    "price": 5.22
   },
   {
     "id": "sv6-175",
@@ -9820,7 +9820,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "175",
     "rarity": "Illustration Rare",
-    "price": 21.82
+    "price": 7.94
   },
   {
     "id": "sv6-176",
@@ -9829,7 +9829,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "176",
     "rarity": "Illustration Rare",
-    "price": 15
+    "price": 6.31
   },
   {
     "id": "sv6-177",
@@ -9838,7 +9838,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "177",
     "rarity": "Illustration Rare",
-    "price": 8.45
+    "price": 3.98
   },
   {
     "id": "sv6-178",
@@ -9847,7 +9847,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "178",
     "rarity": "Illustration Rare",
-    "price": 7.75
+    "price": 3.74
   },
   {
     "id": "sv6-179",
@@ -9856,7 +9856,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "179",
     "rarity": "Illustration Rare",
-    "price": 20.93
+    "price": 7.7
   },
   {
     "id": "sv6-180",
@@ -9865,7 +9865,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "180",
     "rarity": "Illustration Rare",
-    "price": 15.38
+    "price": 6.16
   },
   {
     "id": "sv6-181",
@@ -9874,7 +9874,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "181",
     "rarity": "Illustration Rare",
-    "price": 10.88
+    "price": 4.79
   },
   {
     "id": "sv6-182",
@@ -9883,7 +9883,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "182",
     "rarity": "Illustration Rare",
-    "price": 14.02
+    "price": 5.76
   },
   {
     "id": "sv6-183",
@@ -9892,7 +9892,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "183",
     "rarity": "Illustration Rare",
-    "price": 10.67
+    "price": 4.72
   },
   {
     "id": "sv6-184",
@@ -9901,7 +9901,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "184",
     "rarity": "Illustration Rare",
-    "price": 3.8
+    "price": 2.23
   },
   {
     "id": "sv6-185",
@@ -9910,7 +9910,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "185",
     "rarity": "Illustration Rare",
-    "price": 6.65
+    "price": 3.35
   },
   {
     "id": "sv6-186",
@@ -9919,7 +9919,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "186",
     "rarity": "Illustration Rare",
-    "price": 15.65
+    "price": 7.03
   },
   {
     "id": "sv6-187",
@@ -9928,7 +9928,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "187",
     "rarity": "Illustration Rare",
-    "price": 4.29
+    "price": 2.43
   },
   {
     "id": "sv6-188",
@@ -9937,7 +9937,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "188",
     "rarity": "Illustration Rare",
-    "price": 15.07
+    "price": 6.33
   },
   {
     "id": "sv6-189",
@@ -9946,7 +9946,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "189",
     "rarity": "Ultra Rare",
-    "price": 4.88
+    "price": 2.79
   },
   {
     "id": "sv6-190",
@@ -9955,7 +9955,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "190",
     "rarity": "Ultra Rare",
-    "price": 6.22
+    "price": 5.09
   },
   {
     "id": "sv6-191",
@@ -9964,7 +9964,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "191",
     "rarity": "Ultra Rare",
-    "price": 13.14
+    "price": 5.49
   },
   {
     "id": "sv6-192",
@@ -9973,7 +9973,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "192",
     "rarity": "Ultra Rare",
-    "price": 92.53
+    "price": 28.36
   },
   {
     "id": "sv6-193",
@@ -9982,7 +9982,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "193",
     "rarity": "Ultra Rare",
-    "price": 31.63
+    "price": 14.62
   },
   {
     "id": "sv6-194",
@@ -9991,7 +9991,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "194",
     "rarity": "Ultra Rare",
-    "price": 18.19
+    "price": 8.69
   },
   {
     "id": "sv6-195",
@@ -10000,7 +10000,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "195",
     "rarity": "Ultra Rare",
-    "price": 27.72
+    "price": 10.65
   },
   {
     "id": "sv6-196",
@@ -10009,7 +10009,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "196",
     "rarity": "Ultra Rare",
-    "price": 16.4
+    "price": 6.45
   },
   {
     "id": "sv6-197",
@@ -10018,7 +10018,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "197",
     "rarity": "Ultra Rare",
-    "price": 10.94
+    "price": 4.81
   },
   {
     "id": "sv6-198",
@@ -10027,7 +10027,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "198",
     "rarity": "Ultra Rare",
-    "price": 22.2
+    "price": 14.6
   },
   {
     "id": "sv6-199",
@@ -10036,7 +10036,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "199",
     "rarity": "Ultra Rare",
-    "price": 19.57
+    "price": 9.16
   },
   {
     "id": "sv6-200",
@@ -10045,7 +10045,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "200",
     "rarity": "Ultra Rare",
-    "price": 11.55
+    "price": 9.08
   },
   {
     "id": "sv6-201",
@@ -10054,7 +10054,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "201",
     "rarity": "Ultra Rare",
-    "price": 37.13
+    "price": 13.17
   },
   {
     "id": "sv6-202",
@@ -10063,7 +10063,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "202",
     "rarity": "Ultra Rare",
-    "price": 30.14
+    "price": 12.54
   },
   {
     "id": "sv6-210",
@@ -10072,7 +10072,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "210",
     "rarity": "Special Illustration Rare",
-    "price": 106.29
+    "price": 31.46
   },
   {
     "id": "sv6-211",
@@ -10081,7 +10081,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "211",
     "rarity": "Special Illustration Rare",
-    "price": 122.1
+    "price": 53.21
   },
   {
     "id": "sv6-212",
@@ -10090,7 +10090,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "212",
     "rarity": "Special Illustration Rare",
-    "price": 78.63
+    "price": 30.24
   },
   {
     "id": "sv6-213",
@@ -10099,7 +10099,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "213",
     "rarity": "Special Illustration Rare",
-    "price": 98.21
+    "price": 35.55
   },
   {
     "id": "sv6-214",
@@ -10108,7 +10108,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "214",
     "rarity": "Special Illustration Rare",
-    "price": 70.64
+    "price": 40.68
   },
   {
     "id": "sv6-215",
@@ -10117,7 +10117,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "215",
     "rarity": "Special Illustration Rare",
-    "price": 96.13
+    "price": 35
   },
   {
     "id": "sv6-216",
@@ -10126,7 +10126,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "216",
     "rarity": "Special Illustration Rare",
-    "price": 45.05
+    "price": 20.17
   },
   {
     "id": "sv6-221",
@@ -10135,7 +10135,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "221",
     "rarity": "Hyper Rare",
-    "price": 77.3
+    "price": 38.16
   },
   {
     "id": "sv6-222",
@@ -10144,7 +10144,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6",
     "number": "222",
     "rarity": "Hyper Rare",
-    "price": 108
+    "price": 38.09
   },
   {
     "id": "sv6pt5-12",
@@ -10153,7 +10153,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6pt5",
     "number": "12",
     "rarity": "Double Rare",
-    "price": 29.51
+    "price": 9.89
   },
   {
     "id": "sv6pt5-15",
@@ -10162,7 +10162,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6pt5",
     "number": "15",
     "rarity": "Double Rare",
-    "price": 14.6
+    "price": 8.33
   },
   {
     "id": "sv6pt5-36",
@@ -10171,7 +10171,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6pt5",
     "number": "36",
     "rarity": "Double Rare",
-    "price": 79.41
+    "price": 22.9
   },
   {
     "id": "sv6pt5-37",
@@ -10180,7 +10180,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6pt5",
     "number": "37",
     "rarity": "Double Rare",
-    "price": 30.17
+    "price": 11.33
   },
   {
     "id": "sv6pt5-38",
@@ -10189,7 +10189,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6pt5",
     "number": "38",
     "rarity": "Double Rare",
-    "price": 25.9
+    "price": 12.64
   },
   {
     "id": "sv6pt5-39",
@@ -10198,7 +10198,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6pt5",
     "number": "39",
     "rarity": "Double Rare",
-    "price": 9.51
+    "price": 5.42
   },
   {
     "id": "sv6pt5-65",
@@ -10207,7 +10207,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6pt5",
     "number": "65",
     "rarity": "Illustration Rare",
-    "price": 10.7
+    "price": 4.73
   },
   {
     "id": "sv6pt5-66",
@@ -10216,7 +10216,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6pt5",
     "number": "66",
     "rarity": "Illustration Rare",
-    "price": 10.62
+    "price": 5.3
   },
   {
     "id": "sv6pt5-67",
@@ -10225,7 +10225,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6pt5",
     "number": "67",
     "rarity": "Illustration Rare",
-    "price": 11.18
+    "price": 4.88
   },
   {
     "id": "sv6pt5-68",
@@ -10234,7 +10234,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6pt5",
     "number": "68",
     "rarity": "Illustration Rare",
-    "price": 28.82
+    "price": 9.72
   },
   {
     "id": "sv6pt5-69",
@@ -10243,7 +10243,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6pt5",
     "number": "69",
     "rarity": "Illustration Rare",
-    "price": 9.03
+    "price": 4.18
   },
   {
     "id": "sv6pt5-70",
@@ -10252,7 +10252,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6pt5",
     "number": "70",
     "rarity": "Illustration Rare",
-    "price": 26.46
+    "price": 9.14
   },
   {
     "id": "sv6pt5-71",
@@ -10261,7 +10261,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6pt5",
     "number": "71",
     "rarity": "Illustration Rare",
-    "price": 18.92
+    "price": 7.16
   },
   {
     "id": "sv6pt5-72",
@@ -10270,7 +10270,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6pt5",
     "number": "72",
     "rarity": "Illustration Rare",
-    "price": 5.26
+    "price": 3.18
   },
   {
     "id": "sv6pt5-73",
@@ -10279,7 +10279,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6pt5",
     "number": "73",
     "rarity": "Illustration Rare",
-    "price": 58.95
+    "price": 23
   },
   {
     "id": "sv6pt5-74",
@@ -10288,7 +10288,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6pt5",
     "number": "74",
     "rarity": "Illustration Rare",
-    "price": 44.09
+    "price": 14.93
   },
   {
     "id": "sv6pt5-75",
@@ -10297,7 +10297,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6pt5",
     "number": "75",
     "rarity": "Illustration Rare",
-    "price": 3.94
+    "price": 2.29
   },
   {
     "id": "sv6pt5-76",
@@ -10306,7 +10306,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6pt5",
     "number": "76",
     "rarity": "Illustration Rare",
-    "price": 41.37
+    "price": 12.64
   },
   {
     "id": "sv6pt5-77",
@@ -10315,7 +10315,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6pt5",
     "number": "77",
     "rarity": "Illustration Rare",
-    "price": 26.62
+    "price": 9.18
   },
   {
     "id": "sv6pt5-78",
@@ -10324,7 +10324,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6pt5",
     "number": "78",
     "rarity": "Illustration Rare",
-    "price": 33.2
+    "price": 10.77
   },
   {
     "id": "sv6pt5-79",
@@ -10333,7 +10333,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6pt5",
     "number": "79",
     "rarity": "Illustration Rare",
-    "price": 16.95
+    "price": 6.61
   },
   {
     "id": "sv6pt5-80",
@@ -10342,7 +10342,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6pt5",
     "number": "80",
     "rarity": "Ultra Rare",
-    "price": 9.63
+    "price": 4.38
   },
   {
     "id": "sv6pt5-81",
@@ -10351,7 +10351,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6pt5",
     "number": "81",
     "rarity": "Ultra Rare",
-    "price": 17.1
+    "price": 9.35
   },
   {
     "id": "sv6pt5-82",
@@ -10360,7 +10360,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6pt5",
     "number": "82",
     "rarity": "Ultra Rare",
-    "price": 36.16
+    "price": 12.92
   },
   {
     "id": "sv6pt5-83",
@@ -10369,7 +10369,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6pt5",
     "number": "83",
     "rarity": "Ultra Rare",
-    "price": 21.1
+    "price": 8.73
   },
   {
     "id": "sv6pt5-84",
@@ -10378,7 +10378,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6pt5",
     "number": "84",
     "rarity": "Ultra Rare",
-    "price": 25.36
+    "price": 12.45
   },
   {
     "id": "sv6pt5-85",
@@ -10387,7 +10387,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6pt5",
     "number": "85",
     "rarity": "Ultra Rare",
-    "price": 9.51
+    "price": 5.42
   },
   {
     "id": "sv6pt5-90",
@@ -10396,7 +10396,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6pt5",
     "number": "90",
     "rarity": "Special Illustration Rare",
-    "price": 209.97
+    "price": 55.76
   },
   {
     "id": "sv6pt5-91",
@@ -10405,7 +10405,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6pt5",
     "number": "91",
     "rarity": "Special Illustration Rare",
-    "price": 136.42
+    "price": 40.75
   },
   {
     "id": "sv6pt5-92",
@@ -10414,7 +10414,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6pt5",
     "number": "92",
     "rarity": "Special Illustration Rare",
-    "price": 76.84
+    "price": 33.47
   },
   {
     "id": "sv6pt5-93",
@@ -10423,7 +10423,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6pt5",
     "number": "93",
     "rarity": "Special Illustration Rare",
-    "price": 50.73
+    "price": 21.99
   },
   {
     "id": "sv6pt5-95",
@@ -10432,7 +10432,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv6pt5",
     "number": "95",
     "rarity": "Hyper Rare",
-    "price": 109.31
+    "price": 38.43
   },
   {
     "id": "sv7-1",
@@ -10441,7 +10441,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "1",
     "rarity": "Double Rare",
-    "price": 30.71
+    "price": 16.24
   },
   {
     "id": "sv7-14",
@@ -10450,7 +10450,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "14",
     "rarity": "Double Rare",
-    "price": 16.59
+    "price": 8.12
   },
   {
     "id": "sv7-28",
@@ -10459,7 +10459,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "28",
     "rarity": "Double Rare",
-    "price": 14.08
+    "price": 10.49
   },
   {
     "id": "sv7-30",
@@ -10468,7 +10468,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "30",
     "rarity": "Double Rare",
-    "price": 4.38
+    "price": 2.78
   },
   {
     "id": "sv7-32",
@@ -10477,7 +10477,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "32",
     "rarity": "Double Rare",
-    "price": 21.42
+    "price": 11.01
   },
   {
     "id": "sv7-41",
@@ -10486,7 +10486,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "41",
     "rarity": "Double Rare",
-    "price": 16.4
+    "price": 11.72
   },
   {
     "id": "sv7-51",
@@ -10495,7 +10495,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "51",
     "rarity": "Double Rare",
-    "price": 24.67
+    "price": 9.79
   },
   {
     "id": "sv7-67",
@@ -10504,7 +10504,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "67",
     "rarity": "Double Rare",
-    "price": 29.68
+    "price": 11.19
   },
   {
     "id": "sv7-80",
@@ -10513,7 +10513,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "80",
     "rarity": "Double Rare",
-    "price": 18.3
+    "price": 8.72
   },
   {
     "id": "sv7-82",
@@ -10522,7 +10522,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "82",
     "rarity": "Double Rare",
-    "price": 17.87
+    "price": 12.47
   },
   {
     "id": "sv7-89",
@@ -10531,7 +10531,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "89",
     "rarity": "Double Rare",
-    "price": 24.75
+    "price": 9.81
   },
   {
     "id": "sv7-105",
@@ -10540,7 +10540,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "105",
     "rarity": "Double Rare",
-    "price": 16.01
+    "price": 7.92
   },
   {
     "id": "sv7-110",
@@ -10549,7 +10549,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "110",
     "rarity": "Double Rare",
-    "price": 12.75
+    "price": 5.61
   },
   {
     "id": "sv7-128",
@@ -10558,7 +10558,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "128",
     "rarity": "Double Rare",
-    "price": 24.06
+    "price": 13.6
   },
   {
     "id": "sv7-143",
@@ -10567,7 +10567,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "143",
     "rarity": "Illustration Rare",
-    "price": 33.62
+    "price": 11.35
   },
   {
     "id": "sv7-144",
@@ -10576,7 +10576,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "144",
     "rarity": "Illustration Rare",
-    "price": 13.9
+    "price": 5.72
   },
   {
     "id": "sv7-145",
@@ -10585,7 +10585,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "145",
     "rarity": "Illustration Rare",
-    "price": 28.61
+    "price": 9.67
   },
   {
     "id": "sv7-146",
@@ -10594,7 +10594,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "146",
     "rarity": "Illustration Rare",
-    "price": 24.09
+    "price": 8.53
   },
   {
     "id": "sv7-147",
@@ -10603,7 +10603,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "147",
     "rarity": "Illustration Rare",
-    "price": 20.13
+    "price": 7.49
   },
   {
     "id": "sv7-148",
@@ -10612,7 +10612,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "148",
     "rarity": "Illustration Rare",
-    "price": 17.42
+    "price": 6.74
   },
   {
     "id": "sv7-149",
@@ -10621,7 +10621,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "149",
     "rarity": "Illustration Rare",
-    "price": 12.5
+    "price": 5.3
   },
   {
     "id": "sv7-150",
@@ -10630,7 +10630,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "150",
     "rarity": "Illustration Rare",
-    "price": 20.86
+    "price": 8.02
   },
   {
     "id": "sv7-151",
@@ -10639,7 +10639,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "151",
     "rarity": "Illustration Rare",
-    "price": 27.33
+    "price": 16.99
   },
   {
     "id": "sv7-152",
@@ -10648,7 +10648,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "152",
     "rarity": "Illustration Rare",
-    "price": 7.21
+    "price": 3.55
   },
   {
     "id": "sv7-153",
@@ -10657,7 +10657,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "153",
     "rarity": "Illustration Rare",
-    "price": 20.07
+    "price": 7.47
   },
   {
     "id": "sv7-154",
@@ -10666,7 +10666,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "154",
     "rarity": "Illustration Rare",
-    "price": 14.84
+    "price": 6
   },
   {
     "id": "sv7-155",
@@ -10675,7 +10675,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "155",
     "rarity": "Illustration Rare",
-    "price": 42.3
+    "price": 14.48
   },
   {
     "id": "sv7-156",
@@ -10684,7 +10684,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "156",
     "rarity": "Ultra Rare",
-    "price": 67.17
+    "price": 22.46
   },
   {
     "id": "sv7-157",
@@ -10693,7 +10693,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "157",
     "rarity": "Ultra Rare",
-    "price": 50.06
+    "price": 26.38
   },
   {
     "id": "sv7-158",
@@ -10702,7 +10702,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "158",
     "rarity": "Ultra Rare",
-    "price": 27.62
+    "price": 13.25
   },
   {
     "id": "sv7-159",
@@ -10711,7 +10711,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "159",
     "rarity": "Ultra Rare",
-    "price": 20.16
+    "price": 8.45
   },
   {
     "id": "sv7-160",
@@ -10720,7 +10720,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "160",
     "rarity": "Ultra Rare",
-    "price": 12.8
+    "price": 6.07
   },
   {
     "id": "sv7-161",
@@ -10729,7 +10729,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "161",
     "rarity": "Ultra Rare",
-    "price": 20.44
+    "price": 9.46
   },
   {
     "id": "sv7-162",
@@ -10738,7 +10738,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "162",
     "rarity": "Ultra Rare",
-    "price": 37.01
+    "price": 12.17
   },
   {
     "id": "sv7-167",
@@ -10747,7 +10747,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "167",
     "rarity": "Special Illustration Rare",
-    "price": 38.05
+    "price": 17.84
   },
   {
     "id": "sv7-168",
@@ -10756,7 +10756,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "168",
     "rarity": "Special Illustration Rare",
-    "price": 47.15
+    "price": 18.82
   },
   {
     "id": "sv7-169",
@@ -10765,7 +10765,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "169",
     "rarity": "Special Illustration Rare",
-    "price": 127.98
+    "price": 38.9
   },
   {
     "id": "sv7-170",
@@ -10774,7 +10774,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "170",
     "rarity": "Special Illustration Rare",
-    "price": 95.14
+    "price": 44.38
   },
   {
     "id": "sv7-173",
@@ -10783,7 +10783,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv7",
     "number": "173",
     "rarity": "Hyper Rare",
-    "price": 123.07
+    "price": 53.52
   },
   {
     "id": "sv8-4",
@@ -10792,7 +10792,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "4",
     "rarity": "Double Rare",
-    "price": 23.36
+    "price": 9.4
   },
   {
     "id": "sv8-36",
@@ -10801,7 +10801,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "36",
     "rarity": "Double Rare",
-    "price": 18.37
+    "price": 7.9
   },
   {
     "id": "sv8-37",
@@ -10810,7 +10810,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "37",
     "rarity": "Double Rare",
-    "price": 37.3
+    "price": 14.65
   },
   {
     "id": "sv8-42",
@@ -10819,7 +10819,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "42",
     "rarity": "Double Rare",
-    "price": 40.3
+    "price": 13.98
   },
   {
     "id": "sv8-48",
@@ -10828,7 +10828,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "48",
     "rarity": "Double Rare",
-    "price": 8.37
+    "price": 3.96
   },
   {
     "id": "sv8-57",
@@ -10837,7 +10837,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "57",
     "rarity": "Double Rare",
-    "price": 12.79
+    "price": 26.62
   },
   {
     "id": "sv8-68",
@@ -10846,7 +10846,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "68",
     "rarity": "Double Rare",
-    "price": 11.2
+    "price": 4.89
   },
   {
     "id": "sv8-76",
@@ -10855,7 +10855,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "76",
     "rarity": "Double Rare",
-    "price": 54.16
+    "price": 21.62
   },
   {
     "id": "sv8-86",
@@ -10864,7 +10864,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "86",
     "rarity": "Double Rare",
-    "price": 33.03
+    "price": 19.49
   },
   {
     "id": "sv8-91",
@@ -10873,7 +10873,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "91",
     "rarity": "Double Rare",
-    "price": 23.38
+    "price": 8.35
   },
   {
     "id": "sv8-106",
@@ -10882,7 +10882,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "106",
     "rarity": "Double Rare",
-    "price": 6.85
+    "price": 3.85
   },
   {
     "id": "sv8-119",
@@ -10891,7 +10891,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "119",
     "rarity": "Double Rare",
-    "price": 38.04
+    "price": 16.72
   },
   {
     "id": "sv8-130",
@@ -10900,7 +10900,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "130",
     "rarity": "Double Rare",
-    "price": 18.14
+    "price": 7.83
   },
   {
     "id": "sv8-133",
@@ -10909,7 +10909,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "133",
     "rarity": "Double Rare",
-    "price": 24.23
+    "price": 10.7
   },
   {
     "id": "sv8-142",
@@ -10918,7 +10918,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "142",
     "rarity": "Double Rare",
-    "price": 11.01
+    "price": 5.44
   },
   {
     "id": "sv8-147",
@@ -10927,7 +10927,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "147",
     "rarity": "Double Rare",
-    "price": 12.64
+    "price": 5.57
   },
   {
     "id": "sv8-159",
@@ -10936,7 +10936,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "159",
     "rarity": "Double Rare",
-    "price": 19.64
+    "price": 8.29
   },
   {
     "id": "sv8-160",
@@ -10945,7 +10945,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "160",
     "rarity": "Double Rare",
-    "price": 8.98
+    "price": 4.34
   },
   {
     "id": "sv8-192",
@@ -10954,7 +10954,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "192",
     "rarity": "Illustration Rare",
-    "price": 12.92
+    "price": 5.42
   },
   {
     "id": "sv8-193",
@@ -10963,7 +10963,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "193",
     "rarity": "Illustration Rare",
-    "price": 7.24
+    "price": 3.56
   },
   {
     "id": "sv8-194",
@@ -10972,7 +10972,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "194",
     "rarity": "Illustration Rare",
-    "price": 16.76
+    "price": 6.55
   },
   {
     "id": "sv8-195",
@@ -10981,7 +10981,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "195",
     "rarity": "Illustration Rare",
-    "price": 6.61
+    "price": 3.33
   },
   {
     "id": "sv8-196",
@@ -10990,7 +10990,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "196",
     "rarity": "Illustration Rare",
-    "price": 15.1
+    "price": 6.07
   },
   {
     "id": "sv8-197",
@@ -10999,7 +10999,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "197",
     "rarity": "Illustration Rare",
-    "price": 29.57
+    "price": 11.16
   },
   {
     "id": "sv8-198",
@@ -11008,7 +11008,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "198",
     "rarity": "Illustration Rare",
-    "price": 8.11
+    "price": 3.87
   },
   {
     "id": "sv8-199",
@@ -11017,7 +11017,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "199",
     "rarity": "Illustration Rare",
-    "price": 20.85
+    "price": 7.68
   },
   {
     "id": "sv8-200",
@@ -11026,7 +11026,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "200",
     "rarity": "Illustration Rare",
-    "price": 11.31
+    "price": 4.92
   },
   {
     "id": "sv8-201",
@@ -11035,7 +11035,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "201",
     "rarity": "Illustration Rare",
-    "price": 16.54
+    "price": 6.77
   },
   {
     "id": "sv8-202",
@@ -11044,7 +11044,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "202",
     "rarity": "Illustration Rare",
-    "price": 20.12
+    "price": 8.44
   },
   {
     "id": "sv8-203",
@@ -11053,7 +11053,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "203",
     "rarity": "Illustration Rare",
-    "price": 23.97
+    "price": 8.5
   },
   {
     "id": "sv8-204",
@@ -11062,7 +11062,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "204",
     "rarity": "Illustration Rare",
-    "price": 8.6
+    "price": 4.03
   },
   {
     "id": "sv8-205",
@@ -11071,7 +11071,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "205",
     "rarity": "Illustration Rare",
-    "price": 16.31
+    "price": 6.43
   },
   {
     "id": "sv8-206",
@@ -11080,7 +11080,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "206",
     "rarity": "Illustration Rare",
-    "price": 9.43
+    "price": 4.31
   },
   {
     "id": "sv8-207",
@@ -11089,7 +11089,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "207",
     "rarity": "Illustration Rare",
-    "price": 6.1
+    "price": 3.14
   },
   {
     "id": "sv8-208",
@@ -11098,7 +11098,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "208",
     "rarity": "Illustration Rare",
-    "price": 19.72
+    "price": 7.38
   },
   {
     "id": "sv8-209",
@@ -11107,7 +11107,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "209",
     "rarity": "Illustration Rare",
-    "price": 21.76
+    "price": 8.27
   },
   {
     "id": "sv8-210",
@@ -11116,7 +11116,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "210",
     "rarity": "Illustration Rare",
-    "price": 12.38
+    "price": 5.93
   },
   {
     "id": "sv8-211",
@@ -11125,7 +11125,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "211",
     "rarity": "Illustration Rare",
-    "price": 40
+    "price": 12.34
   },
   {
     "id": "sv8-212",
@@ -11134,7 +11134,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "212",
     "rarity": "Illustration Rare",
-    "price": 12.35
+    "price": 5.25
   },
   {
     "id": "sv8-213",
@@ -11143,7 +11143,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "213",
     "rarity": "Illustration Rare",
-    "price": 9.91
+    "price": 4.47
   },
   {
     "id": "sv8-214",
@@ -11152,7 +11152,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "214",
     "rarity": "Illustration Rare",
-    "price": 4.84
+    "price": 2.66
   },
   {
     "id": "sv8-215",
@@ -11161,7 +11161,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "215",
     "rarity": "Ultra Rare",
-    "price": 26.58
+    "price": 10.33
   },
   {
     "id": "sv8-216",
@@ -11170,7 +11170,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "216",
     "rarity": "Ultra Rare",
-    "price": 19.25
+    "price": 9.05
   },
   {
     "id": "sv8-217",
@@ -11179,7 +11179,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "217",
     "rarity": "Ultra Rare",
-    "price": 15.13
+    "price": 6.86
   },
   {
     "id": "sv8-218",
@@ -11188,7 +11188,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "218",
     "rarity": "Ultra Rare",
-    "price": 13.2
+    "price": 5.51
   },
   {
     "id": "sv8-219",
@@ -11197,7 +11197,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "219",
     "rarity": "Ultra Rare",
-    "price": 37.85
+    "price": 58.59
   },
   {
     "id": "sv8-220",
@@ -11206,7 +11206,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "220",
     "rarity": "Ultra Rare",
-    "price": 54.25
+    "price": 21.65
   },
   {
     "id": "sv8-221",
@@ -11215,7 +11215,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "221",
     "rarity": "Ultra Rare",
-    "price": 13.63
+    "price": 5.64
   },
   {
     "id": "sv8-222",
@@ -11224,7 +11224,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "222",
     "rarity": "Ultra Rare",
-    "price": 24.99
+    "price": 9.88
   },
   {
     "id": "sv8-223",
@@ -11233,7 +11233,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "223",
     "rarity": "Ultra Rare",
-    "price": 18.59
+    "price": 9.93
   },
   {
     "id": "sv8-224",
@@ -11242,7 +11242,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "224",
     "rarity": "Ultra Rare",
-    "price": 23.79
+    "price": 9.53
   },
   {
     "id": "sv8-225",
@@ -11251,7 +11251,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "225",
     "rarity": "Ultra Rare",
-    "price": 28.17
+    "price": 11.94
   },
   {
     "id": "sv8-226",
@@ -11260,7 +11260,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "226",
     "rarity": "Ultra Rare",
-    "price": 27.17
+    "price": 10.5
   },
   {
     "id": "sv8-227",
@@ -11269,7 +11269,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "227",
     "rarity": "Ultra Rare",
-    "price": 13.27
+    "price": 5.77
   },
   {
     "id": "sv8-228",
@@ -11278,7 +11278,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "228",
     "rarity": "Ultra Rare",
-    "price": 53.51
+    "price": 17.19
   },
   {
     "id": "sv8-236",
@@ -11287,7 +11287,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "236",
     "rarity": "Special Illustration Rare",
-    "price": 99.74
+    "price": 32.45
   },
   {
     "id": "sv8-237",
@@ -11296,7 +11296,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "237",
     "rarity": "Special Illustration Rare",
-    "price": 46.16
+    "price": 18.53
   },
   {
     "id": "sv8-238",
@@ -11305,7 +11305,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "238",
     "rarity": "Special Illustration Rare",
-    "price": 164.6
+    "price": 204.84
   },
   {
     "id": "sv8-239",
@@ -11314,7 +11314,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "239",
     "rarity": "Special Illustration Rare",
-    "price": 89.42
+    "price": 37.37
   },
   {
     "id": "sv8-240",
@@ -11323,7 +11323,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "240",
     "rarity": "Special Illustration Rare",
-    "price": 109.03
+    "price": 43.17
   },
   {
     "id": "sv8-241",
@@ -11332,7 +11332,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "241",
     "rarity": "Special Illustration Rare",
-    "price": 107.45
+    "price": 34.25
   },
   {
     "id": "sv8-242",
@@ -11341,7 +11341,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "242",
     "rarity": "Special Illustration Rare",
-    "price": 36.64
+    "price": 17.35
   },
   {
     "id": "sv8-247",
@@ -11350,7 +11350,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "247",
     "rarity": "Hyper Rare",
-    "price": 109.15
+    "price": 151.95
   },
   {
     "id": "sv8-248",
@@ -11359,7 +11359,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8",
     "number": "248",
     "rarity": "Hyper Rare",
-    "price": 35.41
+    "price": 16.93
   },
   {
     "id": "sv8pt5-6",
@@ -11368,7 +11368,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "6",
     "rarity": "Double Rare",
-    "price": 140.27
+    "price": 55.81
   },
   {
     "id": "sv8pt5-11",
@@ -11377,7 +11377,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "11",
     "rarity": "Double Rare",
-    "price": 7.77
+    "price": 4.68
   },
   {
     "id": "sv8pt5-12",
@@ -11386,7 +11386,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "12",
     "rarity": "Double Rare",
-    "price": 68.1
+    "price": 28.99
   },
   {
     "id": "sv8pt5-14",
@@ -11395,7 +11395,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "14",
     "rarity": "Double Rare",
-    "price": 10.69
+    "price": 5.33
   },
   {
     "id": "sv8pt5-17",
@@ -11404,7 +11404,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "17",
     "rarity": "Double Rare",
-    "price": 36.71
+    "price": 14.48
   },
   {
     "id": "sv8pt5-23",
@@ -11413,7 +11413,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "23",
     "rarity": "Double Rare",
-    "price": 18
+    "price": 7.78
   },
   {
     "id": "sv8pt5-26",
@@ -11422,7 +11422,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "26",
     "rarity": "Double Rare",
-    "price": 18.44
+    "price": 11.21
   },
   {
     "id": "sv8pt5-27",
@@ -11431,7 +11431,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "27",
     "rarity": "Double Rare",
-    "price": 43.35
+    "price": 16.34
   },
   {
     "id": "sv8pt5-28",
@@ -11440,7 +11440,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "28",
     "rarity": "Double Rare",
-    "price": 30.34
+    "price": 49.88
   },
   {
     "id": "sv8pt5-30",
@@ -11449,7 +11449,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "30",
     "rarity": "Double Rare",
-    "price": 9.56
+    "price": 4.91
   },
   {
     "id": "sv8pt5-34",
@@ -11458,7 +11458,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "34",
     "rarity": "Double Rare",
-    "price": 21.89
+    "price": 11.19
   },
   {
     "id": "sv8pt5-41",
@@ -11467,7 +11467,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "41",
     "rarity": "Double Rare",
-    "price": 22.29
+    "price": 14.65
   },
   {
     "id": "sv8pt5-51",
@@ -11476,7 +11476,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "51",
     "rarity": "Double Rare",
-    "price": 15.61
+    "price": 11.3
   },
   {
     "id": "sv8pt5-58",
@@ -11485,7 +11485,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "58",
     "rarity": "Double Rare",
-    "price": 19.74
+    "price": 9.22
   },
   {
     "id": "sv8pt5-60",
@@ -11494,7 +11494,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "60",
     "rarity": "Double Rare",
-    "price": 33.66
+    "price": 17.36
   },
   {
     "id": "sv8pt5-64",
@@ -11503,7 +11503,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "64",
     "rarity": "Double Rare",
-    "price": 14.02
+    "price": 8.09
   },
   {
     "id": "sv8pt5-73",
@@ -11512,7 +11512,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "73",
     "rarity": "Double Rare",
-    "price": 27.86
+    "price": 17.23
   },
   {
     "id": "sv8pt5-75",
@@ -11521,7 +11521,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "75",
     "rarity": "Double Rare",
-    "price": 13.95
+    "price": 5.98
   },
   {
     "id": "sv8pt5-76",
@@ -11530,7 +11530,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "76",
     "rarity": "Double Rare",
-    "price": 9.64
+    "price": 6.16
   },
   {
     "id": "sv8pt5-82",
@@ -11539,7 +11539,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "82",
     "rarity": "Double Rare",
-    "price": 46.88
+    "price": 19.47
   },
   {
     "id": "sv8pt5-91",
@@ -11548,7 +11548,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "91",
     "rarity": "Double Rare",
-    "price": 8.5
+    "price": 6.38
   },
   {
     "id": "sv8pt5-92",
@@ -11557,7 +11557,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "92",
     "rarity": "Double Rare",
-    "price": 27.62
+    "price": 15.04
   },
   {
     "id": "sv8pt5-144",
@@ -11566,7 +11566,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "144",
     "rarity": "Special Illustration Rare",
-    "price": 56.1
+    "price": 34.4
   },
   {
     "id": "sv8pt5-145",
@@ -11575,7 +11575,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "145",
     "rarity": "Special Illustration Rare",
-    "price": 62.23
+    "price": 32.59
   },
   {
     "id": "sv8pt5-146",
@@ -11584,7 +11584,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "146",
     "rarity": "Special Illustration Rare",
-    "price": 86.71
+    "price": 29.31
   },
   {
     "id": "sv8pt5-147",
@@ -11593,7 +11593,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "147",
     "rarity": "Special Illustration Rare",
-    "price": 72.22
+    "price": 25.66
   },
   {
     "id": "sv8pt5-148",
@@ -11602,7 +11602,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "148",
     "rarity": "Special Illustration Rare",
-    "price": 240.96
+    "price": 68.28
   },
   {
     "id": "sv8pt5-149",
@@ -11611,7 +11611,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "149",
     "rarity": "Special Illustration Rare",
-    "price": 63.45
+    "price": 23.35
   },
   {
     "id": "sv8pt5-150",
@@ -11620,7 +11620,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "150",
     "rarity": "Special Illustration Rare",
-    "price": 72.62
+    "price": 36.47
   },
   {
     "id": "sv8pt5-151",
@@ -11629,7 +11629,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "151",
     "rarity": "Special Illustration Rare",
-    "price": 356.17
+    "price": 102.12
   },
   {
     "id": "sv8pt5-152",
@@ -11638,7 +11638,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "152",
     "rarity": "Special Illustration Rare",
-    "price": 105.85
+    "price": 37.54
   },
   {
     "id": "sv8pt5-153",
@@ -11647,7 +11647,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "153",
     "rarity": "Special Illustration Rare",
-    "price": 66.51
+    "price": 24.17
   },
   {
     "id": "sv8pt5-155",
@@ -11656,7 +11656,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "155",
     "rarity": "Special Illustration Rare",
-    "price": 188.43
+    "price": 64.27
   },
   {
     "id": "sv8pt5-156",
@@ -11665,7 +11665,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "156",
     "rarity": "Special Illustration Rare",
-    "price": 43.5
+    "price": 28.59
   },
   {
     "id": "sv8pt5-160",
@@ -11674,7 +11674,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "160",
     "rarity": "Special Illustration Rare",
-    "price": 47.86
+    "price": 21.07
   },
   {
     "id": "sv8pt5-161",
@@ -11683,7 +11683,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "161",
     "rarity": "Special Illustration Rare",
-    "price": 332.67
+    "price": 110.3
   },
   {
     "id": "sv8pt5-163",
@@ -11692,7 +11692,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "163",
     "rarity": "Special Illustration Rare",
-    "price": 54.67
+    "price": 23.21
   },
   {
     "id": "sv8pt5-164",
@@ -11701,7 +11701,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "164",
     "rarity": "Special Illustration Rare",
-    "price": 73.45
+    "price": 25.98
   },
   {
     "id": "sv8pt5-165",
@@ -11710,7 +11710,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "165",
     "rarity": "Special Illustration Rare",
-    "price": 93.67
+    "price": 49.95
   },
   {
     "id": "sv8pt5-167",
@@ -11719,7 +11719,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "167",
     "rarity": "Special Illustration Rare",
-    "price": 74.09
+    "price": 24.2
   },
   {
     "id": "sv8pt5-168",
@@ -11728,7 +11728,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "168",
     "rarity": "Special Illustration Rare",
-    "price": 34.27
+    "price": 16.53
   },
   {
     "id": "sv8pt5-169",
@@ -11737,7 +11737,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "169",
     "rarity": "Special Illustration Rare",
-    "price": 244.67
+    "price": 88.21
   },
   {
     "id": "sv8pt5-177",
@@ -11746,7 +11746,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "177",
     "rarity": "Hyper Rare",
-    "price": 97.23
+    "price": 45.09
   },
   {
     "id": "sv8pt5-179",
@@ -11755,7 +11755,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "179",
     "rarity": "Hyper Rare",
-    "price": 92.21
+    "price": 134.4
   },
   {
     "id": "sv8pt5-180",
@@ -11764,7 +11764,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv8pt5",
     "number": "180",
     "rarity": "Hyper Rare",
-    "price": 112.05
+    "price": 49.99
   },
   {
     "id": "sv9-11",
@@ -11773,7 +11773,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "11",
     "rarity": "Double Rare",
-    "price": 7.72
+    "price": 3.73
   },
   {
     "id": "sv9-24",
@@ -11782,7 +11782,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "24",
     "rarity": "Double Rare",
-    "price": 50.75
+    "price": 20.62
   },
   {
     "id": "sv9-30",
@@ -11791,7 +11791,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "30",
     "rarity": "Double Rare",
-    "price": 11.47
+    "price": 7.94
   },
   {
     "id": "sv9-31",
@@ -11800,7 +11800,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "31",
     "rarity": "Double Rare",
-    "price": 12
+    "price": 5.79
   },
   {
     "id": "sv9-43",
@@ -11809,7 +11809,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "43",
     "rarity": "Double Rare",
-    "price": 10.43
+    "price": 4.84
   },
   {
     "id": "sv9-51",
@@ -11818,7 +11818,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "51",
     "rarity": "Double Rare",
-    "price": 50.23
+    "price": 23.23
   },
   {
     "id": "sv9-53",
@@ -11827,7 +11827,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "53",
     "rarity": "Double Rare",
-    "price": 21.57
+    "price": 11.07
   },
   {
     "id": "sv9-56",
@@ -11836,7 +11836,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "56",
     "rarity": "Double Rare",
-    "price": 6.23
+    "price": 3.99
   },
   {
     "id": "sv9-69",
@@ -11845,7 +11845,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "69",
     "rarity": "Double Rare",
-    "price": 19.03
+    "price": 8.1
   },
   {
     "id": "sv9-75",
@@ -11854,7 +11854,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "75",
     "rarity": "Double Rare",
-    "price": 21.44
+    "price": 8.84
   },
   {
     "id": "sv9-79",
@@ -11863,7 +11863,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "79",
     "rarity": "Double Rare",
-    "price": 18.22
+    "price": 6.96
   },
   {
     "id": "sv9-94",
@@ -11872,7 +11872,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "94",
     "rarity": "Double Rare",
-    "price": 21.68
+    "price": 9.87
   },
   {
     "id": "sv9-98",
@@ -11881,7 +11881,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "98",
     "rarity": "Double Rare",
-    "price": 37.05
+    "price": 16.4
   },
   {
     "id": "sv9-111",
@@ -11890,7 +11890,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "111",
     "rarity": "Double Rare",
-    "price": 41.53
+    "price": 13.23
   },
   {
     "id": "sv9-114",
@@ -11899,7 +11899,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "114",
     "rarity": "Double Rare",
-    "price": 19.25
+    "price": 10.19
   },
   {
     "id": "sv9-121",
@@ -11908,7 +11908,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "121",
     "rarity": "Double Rare",
-    "price": 19.35
+    "price": 7.59
   },
   {
     "id": "sv9-160",
@@ -11917,7 +11917,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "160",
     "rarity": "Illustration Rare",
-    "price": 14.98
+    "price": 6.04
   },
   {
     "id": "sv9-161",
@@ -11926,7 +11926,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "161",
     "rarity": "Illustration Rare",
-    "price": 18.01
+    "price": 6.9
   },
   {
     "id": "sv9-162",
@@ -11935,7 +11935,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "162",
     "rarity": "Illustration Rare",
-    "price": 20.71
+    "price": 7.98
   },
   {
     "id": "sv9-163",
@@ -11944,7 +11944,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "163",
     "rarity": "Illustration Rare",
-    "price": 10.58
+    "price": 4.69
   },
   {
     "id": "sv9-164",
@@ -11953,7 +11953,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "164",
     "rarity": "Illustration Rare",
-    "price": 21.66
+    "price": 7.9
   },
   {
     "id": "sv9-165",
@@ -11962,7 +11962,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "165",
     "rarity": "Illustration Rare",
-    "price": 21.04
+    "price": 7.73
   },
   {
     "id": "sv9-166",
@@ -11971,7 +11971,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "166",
     "rarity": "Illustration Rare",
-    "price": 35
+    "price": 15.74
   },
   {
     "id": "sv9-167",
@@ -11980,7 +11980,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "167",
     "rarity": "Illustration Rare",
-    "price": 12.24
+    "price": 5.21
   },
   {
     "id": "sv9-168",
@@ -11989,7 +11989,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "168",
     "rarity": "Illustration Rare",
-    "price": 16.28
+    "price": 6.42
   },
   {
     "id": "sv9-169",
@@ -11998,7 +11998,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "169",
     "rarity": "Illustration Rare",
-    "price": 19.05
+    "price": 7.19
   },
   {
     "id": "sv9-170",
@@ -12007,7 +12007,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "170",
     "rarity": "Illustration Rare",
-    "price": 21.2
+    "price": 7.77
   },
   {
     "id": "sv9-171",
@@ -12016,7 +12016,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "171",
     "rarity": "Ultra Rare",
-    "price": 12.85
+    "price": 6.09
   },
   {
     "id": "sv9-172",
@@ -12025,7 +12025,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "172",
     "rarity": "Ultra Rare",
-    "price": 13.49
+    "price": 7.87
   },
   {
     "id": "sv9-173",
@@ -12034,7 +12034,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "173",
     "rarity": "Ultra Rare",
-    "price": 7.52
+    "price": 4.57
   },
   {
     "id": "sv9-174",
@@ -12043,7 +12043,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "174",
     "rarity": "Ultra Rare",
-    "price": 21.55
+    "price": 7.87
   },
   {
     "id": "sv9-175",
@@ -12052,7 +12052,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "175",
     "rarity": "Ultra Rare",
-    "price": 23.65
+    "price": 11.84
   },
   {
     "id": "sv9-176",
@@ -12061,7 +12061,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "176",
     "rarity": "Ultra Rare",
-    "price": 13.29
+    "price": 5.78
   },
   {
     "id": "sv9-177",
@@ -12070,7 +12070,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "177",
     "rarity": "Ultra Rare",
-    "price": 22.21
+    "price": 11.31
   },
   {
     "id": "sv9-178",
@@ -12079,7 +12079,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "178",
     "rarity": "Ultra Rare",
-    "price": 14.85
+    "price": 6.26
   },
   {
     "id": "sv9-182",
@@ -12088,7 +12088,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "182",
     "rarity": "Special Illustration Rare",
-    "price": 52.38
+    "price": 20.31
   },
   {
     "id": "sv9-183",
@@ -12097,7 +12097,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "183",
     "rarity": "Special Illustration Rare",
-    "price": 123.87
+    "price": 47.37
   },
   {
     "id": "sv9-184",
@@ -12106,7 +12106,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "184",
     "rarity": "Special Illustration Rare",
-    "price": 61.79
+    "price": 25.38
   },
   {
     "id": "sv9-185",
@@ -12115,7 +12115,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "185",
     "rarity": "Special Illustration Rare",
-    "price": 166.23
+    "price": 58.67
   },
   {
     "id": "sv9-186",
@@ -12124,7 +12124,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "186",
     "rarity": "Special Illustration Rare",
-    "price": 47.96
+    "price": 17.63
   },
   {
     "id": "sv9-187",
@@ -12133,7 +12133,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "187",
     "rarity": "Special Illustration Rare",
-    "price": 69.33
+    "price": 31.06
   },
   {
     "id": "sv9-188",
@@ -12142,7 +12142,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "188",
     "rarity": "Hyper Rare",
-    "price": 112.42
+    "price": 44.14
   },
   {
     "id": "sv9-189",
@@ -12151,7 +12151,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv9",
     "number": "189",
     "rarity": "Hyper Rare",
-    "price": 154.19
+    "price": 55.55
   },
   {
     "id": "sv10-3",
@@ -12160,7 +12160,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "3",
     "rarity": "Double Rare",
-    "price": 70.57
+    "price": 19.45
   },
   {
     "id": "sv10-23",
@@ -12169,7 +12169,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "23",
     "rarity": "Double Rare",
-    "price": 30.47
+    "price": 10.56
   },
   {
     "id": "sv10-25",
@@ -12178,7 +12178,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "25",
     "rarity": "Double Rare",
-    "price": 3.92
+    "price": 2.38
   },
   {
     "id": "sv10-31",
@@ -12187,7 +12187,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "31",
     "rarity": "Double Rare",
-    "price": 10.87
+    "price": 4.99
   },
   {
     "id": "sv10-39",
@@ -12196,7 +12196,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "39",
     "rarity": "Double Rare",
-    "price": 18.65
+    "price": 8.84
   },
   {
     "id": "sv10-65",
@@ -12205,7 +12205,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "65",
     "rarity": "Double Rare",
-    "price": 18.47
+    "price": 7.34
   },
   {
     "id": "sv10-66",
@@ -12214,7 +12214,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "66",
     "rarity": "Double Rare",
-    "price": 7.62
+    "price": 4.17
   },
   {
     "id": "sv10-69",
@@ -12223,7 +12223,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "69",
     "rarity": "Double Rare",
-    "price": 10.58
+    "price": 4.69
   },
   {
     "id": "sv10-81",
@@ -12232,7 +12232,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "81",
     "rarity": "Double Rare",
-    "price": 35.99
+    "price": 16.06
   },
   {
     "id": "sv10-101",
@@ -12241,7 +12241,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "101",
     "rarity": "Double Rare",
-    "price": 14.31
+    "price": 6.1
   },
   {
     "id": "sv10-104",
@@ -12250,7 +12250,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "104",
     "rarity": "Double Rare",
-    "price": 23.77
+    "price": 10.55
   },
   {
     "id": "sv10-119",
@@ -12259,7 +12259,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "119",
     "rarity": "Double Rare",
-    "price": 67.6
+    "price": 18.85
   },
   {
     "id": "sv10-122",
@@ -12268,7 +12268,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "122",
     "rarity": "Double Rare",
-    "price": 19.6
+    "price": 8.28
   },
   {
     "id": "sv10-136",
@@ -12277,7 +12277,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "136",
     "rarity": "Double Rare",
-    "price": 54.18
+    "price": 15.39
   },
   {
     "id": "sv10-139",
@@ -12286,7 +12286,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "139",
     "rarity": "Double Rare",
-    "price": 33.67
+    "price": 11.36
   },
   {
     "id": "sv10-145",
@@ -12295,7 +12295,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "145",
     "rarity": "Double Rare",
-    "price": 12.84
+    "price": 5.4
   },
   {
     "id": "sv10-150",
@@ -12304,7 +12304,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "150",
     "rarity": "Double Rare",
-    "price": 13
+    "price": 5.45
   },
   {
     "id": "sv10-183",
@@ -12313,7 +12313,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "183",
     "rarity": "Illustration Rare",
-    "price": 17.3
+    "price": 6.71
   },
   {
     "id": "sv10-184",
@@ -12322,7 +12322,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "184",
     "rarity": "Illustration Rare",
-    "price": 8.17
+    "price": 3.89
   },
   {
     "id": "sv10-185",
@@ -12331,7 +12331,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "185",
     "rarity": "Illustration Rare",
-    "price": 11.1
+    "price": 5.47
   },
   {
     "id": "sv10-186",
@@ -12340,7 +12340,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "186",
     "rarity": "Illustration Rare",
-    "price": 32.11
+    "price": 10.97
   },
   {
     "id": "sv10-187",
@@ -12349,7 +12349,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "187",
     "rarity": "Illustration Rare",
-    "price": 14.37
+    "price": 5.86
   },
   {
     "id": "sv10-188",
@@ -12358,7 +12358,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "188",
     "rarity": "Illustration Rare",
-    "price": 32.96
+    "price": 13.38
   },
   {
     "id": "sv10-189",
@@ -12367,7 +12367,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "189",
     "rarity": "Illustration Rare",
-    "price": 14.37
+    "price": 5.86
   },
   {
     "id": "sv10-190",
@@ -12376,7 +12376,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "190",
     "rarity": "Illustration Rare",
-    "price": 6.57
+    "price": 3.32
   },
   {
     "id": "sv10-191",
@@ -12385,7 +12385,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "191",
     "rarity": "Illustration Rare",
-    "price": 13.92
+    "price": 5.73
   },
   {
     "id": "sv10-192",
@@ -12394,7 +12394,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "192",
     "rarity": "Illustration Rare",
-    "price": 29.22
+    "price": 13.8
   },
   {
     "id": "sv10-193",
@@ -12403,7 +12403,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "193",
     "rarity": "Illustration Rare",
-    "price": 21.66
+    "price": 7.9
   },
   {
     "id": "sv10-194",
@@ -12412,7 +12412,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "194",
     "rarity": "Illustration Rare",
-    "price": 7.68
+    "price": 3.72
   },
   {
     "id": "sv10-195",
@@ -12421,7 +12421,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "195",
     "rarity": "Illustration Rare",
-    "price": 17.65
+    "price": 6.8
   },
   {
     "id": "sv10-196",
@@ -12430,7 +12430,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "196",
     "rarity": "Illustration Rare",
-    "price": 7.15
+    "price": 3.53
   },
   {
     "id": "sv10-197",
@@ -12439,7 +12439,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "197",
     "rarity": "Illustration Rare",
-    "price": 15.07
+    "price": 9.68
   },
   {
     "id": "sv10-198",
@@ -12448,7 +12448,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "198",
     "rarity": "Illustration Rare",
-    "price": 19.89
+    "price": 7.42
   },
   {
     "id": "sv10-199",
@@ -12457,7 +12457,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "199",
     "rarity": "Illustration Rare",
-    "price": 34.39
+    "price": 11.05
   },
   {
     "id": "sv10-200",
@@ -12466,7 +12466,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "200",
     "rarity": "Illustration Rare",
-    "price": 12.41
+    "price": 5.27
   },
   {
     "id": "sv10-201",
@@ -12475,7 +12475,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "201",
     "rarity": "Illustration Rare",
-    "price": 36.83
+    "price": 16.33
   },
   {
     "id": "sv10-202",
@@ -12484,7 +12484,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "202",
     "rarity": "Illustration Rare",
-    "price": 11.53
+    "price": 4.99
   },
   {
     "id": "sv10-203",
@@ -12493,7 +12493,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "203",
     "rarity": "Illustration Rare",
-    "price": 26.45
+    "price": 9.13
   },
   {
     "id": "sv10-204",
@@ -12502,7 +12502,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "204",
     "rarity": "Illustration Rare",
-    "price": 45.74
+    "price": 19.12
   },
   {
     "id": "sv10-205",
@@ -12511,7 +12511,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "205",
     "rarity": "Illustration Rare",
-    "price": 16.18
+    "price": 6.39
   },
   {
     "id": "sv10-206",
@@ -12520,7 +12520,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "206",
     "rarity": "Ultra Rare",
-    "price": 18.97
+    "price": 7.48
   },
   {
     "id": "sv10-207",
@@ -12529,7 +12529,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "207",
     "rarity": "Ultra Rare",
-    "price": 19.29
+    "price": 7.57
   },
   {
     "id": "sv10-208",
@@ -12538,7 +12538,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "208",
     "rarity": "Ultra Rare",
-    "price": 10.42
+    "price": 4.84
   },
   {
     "id": "sv10-209",
@@ -12547,7 +12547,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "209",
     "rarity": "Ultra Rare",
-    "price": 11.26
+    "price": 6.13
   },
   {
     "id": "sv10-210",
@@ -12556,7 +12556,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "210",
     "rarity": "Ultra Rare",
-    "price": 21.14
+    "price": 8.1
   },
   {
     "id": "sv10-211",
@@ -12565,7 +12565,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "211",
     "rarity": "Ultra Rare",
-    "price": 9.78
+    "price": 4.99
   },
   {
     "id": "sv10-212",
@@ -12574,7 +12574,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "212",
     "rarity": "Ultra Rare",
-    "price": 19.73
+    "price": 7.38
   },
   {
     "id": "sv10-213",
@@ -12583,7 +12583,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "213",
     "rarity": "Ultra Rare",
-    "price": 19.42
+    "price": 10.25
   },
   {
     "id": "sv10-214",
@@ -12592,7 +12592,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "214",
     "rarity": "Ultra Rare",
-    "price": 29.45
+    "price": 10.3
   },
   {
     "id": "sv10-215",
@@ -12601,7 +12601,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "215",
     "rarity": "Ultra Rare",
-    "price": 9.58
+    "price": 5.45
   },
   {
     "id": "sv10-216",
@@ -12610,7 +12610,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "216",
     "rarity": "Ultra Rare",
-    "price": 8.8
+    "price": 4.28
   },
   {
     "id": "sv10-217",
@@ -12619,7 +12619,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "217",
     "rarity": "Ultra Rare",
-    "price": 31.62
+    "price": 11.72
   },
   {
     "id": "sv10-218",
@@ -12628,7 +12628,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "218",
     "rarity": "Ultra Rare",
-    "price": 12.41
+    "price": 5.5
   },
   {
     "id": "sv10-219",
@@ -12637,7 +12637,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "219",
     "rarity": "Ultra Rare",
-    "price": 10.14
+    "price": 4.55
   },
   {
     "id": "sv10-228",
@@ -12646,7 +12646,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "228",
     "rarity": "Special Illustration Rare",
-    "price": 39.64
+    "price": 15.35
   },
   {
     "id": "sv10-229",
@@ -12655,7 +12655,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "229",
     "rarity": "Special Illustration Rare",
-    "price": 162.12
+    "price": 42.76
   },
   {
     "id": "sv10-230",
@@ -12664,7 +12664,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "230",
     "rarity": "Special Illustration Rare",
-    "price": 170.72
+    "price": 53.14
   },
   {
     "id": "sv10-231",
@@ -12673,7 +12673,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "231",
     "rarity": "Special Illustration Rare",
-    "price": 77.93
+    "price": 33.82
   },
   {
     "id": "sv10-232",
@@ -12682,7 +12682,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "232",
     "rarity": "Special Illustration Rare",
-    "price": 81.37
+    "price": 31
   },
   {
     "id": "sv10-233",
@@ -12691,7 +12691,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "233",
     "rarity": "Special Illustration Rare",
-    "price": 94.33
+    "price": 28.84
   },
   {
     "id": "sv10-234",
@@ -12700,7 +12700,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "234",
     "rarity": "Special Illustration Rare",
-    "price": 329.45
+    "price": 77.37
   },
   {
     "id": "sv10-235",
@@ -12709,7 +12709,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "235",
     "rarity": "Special Illustration Rare",
-    "price": 130.12
+    "price": 36.44
   },
   {
     "id": "sv10-239",
@@ -12718,7 +12718,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "239",
     "rarity": "Hyper Rare",
-    "price": 72.15
+    "price": 28.4
   },
   {
     "id": "sv10-240",
@@ -12727,7 +12727,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "240",
     "rarity": "Hyper Rare",
-    "price": 132.12
+    "price": 49.64
   },
   {
     "id": "sv10-241",
@@ -12736,7 +12736,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "241",
     "rarity": "Hyper Rare",
-    "price": 136.97
+    "price": 45.28
   },
   {
     "id": "sv10-242",
@@ -12745,7 +12745,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "sv10",
     "number": "242",
     "rarity": "Hyper Rare",
-    "price": 104.65
+    "price": 33.6
   },
   {
     "id": "zsv10pt5-3",
@@ -12754,7 +12754,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "3",
     "rarity": "Double Rare",
-    "price": 27.23
+    "price": 14.88
   },
   {
     "id": "zsv10pt5-28",
@@ -12763,7 +12763,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "28",
     "rarity": "Double Rare",
-    "price": 31.57
+    "price": 14.6
   },
   {
     "id": "zsv10pt5-34",
@@ -12772,7 +12772,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "34",
     "rarity": "Double Rare",
-    "price": 31.19
+    "price": 11.61
   },
   {
     "id": "zsv10pt5-44",
@@ -12781,7 +12781,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "44",
     "rarity": "Double Rare",
-    "price": 48.57
+    "price": 14.83
   },
   {
     "id": "zsv10pt5-46",
@@ -12790,7 +12790,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "46",
     "rarity": "Double Rare",
-    "price": 19.34
+    "price": 10.22
   },
   {
     "id": "zsv10pt5-67",
@@ -12799,7 +12799,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "67",
     "rarity": "Double Rare",
-    "price": 3.12
+    "price": 2.41
   },
   {
     "id": "zsv10pt5-87",
@@ -12808,7 +12808,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "87",
     "rarity": "Illustration Rare",
-    "price": 7.24
+    "price": 3.56
   },
   {
     "id": "zsv10pt5-88",
@@ -12817,7 +12817,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "88",
     "rarity": "Illustration Rare",
-    "price": 15.37
+    "price": 6.15
   },
   {
     "id": "zsv10pt5-89",
@@ -12826,7 +12826,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "89",
     "rarity": "Illustration Rare",
-    "price": 24.93
+    "price": 8.75
   },
   {
     "id": "zsv10pt5-90",
@@ -12835,7 +12835,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "90",
     "rarity": "Illustration Rare",
-    "price": 41.95
+    "price": 12.77
   },
   {
     "id": "zsv10pt5-91",
@@ -12844,7 +12844,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "91",
     "rarity": "Illustration Rare",
-    "price": 39.86
+    "price": 12.31
   },
   {
     "id": "zsv10pt5-92",
@@ -12853,7 +12853,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "92",
     "rarity": "Illustration Rare",
-    "price": 14.98
+    "price": 6.04
   },
   {
     "id": "zsv10pt5-93",
@@ -12862,7 +12862,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "93",
     "rarity": "Illustration Rare",
-    "price": 27.46
+    "price": 9.39
   },
   {
     "id": "zsv10pt5-94",
@@ -12871,7 +12871,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "94",
     "rarity": "Illustration Rare",
-    "price": 16.76
+    "price": 6.55
   },
   {
     "id": "zsv10pt5-95",
@@ -12880,7 +12880,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "95",
     "rarity": "Illustration Rare",
-    "price": 18.85
+    "price": 7.14
   },
   {
     "id": "zsv10pt5-96",
@@ -12889,7 +12889,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "96",
     "rarity": "Illustration Rare",
-    "price": 34.28
+    "price": 11.03
   },
   {
     "id": "zsv10pt5-97",
@@ -12898,7 +12898,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "97",
     "rarity": "Illustration Rare",
-    "price": 8.49
+    "price": 3.99
   },
   {
     "id": "zsv10pt5-98",
@@ -12907,7 +12907,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "98",
     "rarity": "Illustration Rare",
-    "price": 12.39
+    "price": 5.26
   },
   {
     "id": "zsv10pt5-99",
@@ -12916,7 +12916,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "99",
     "rarity": "Illustration Rare",
-    "price": 11.21
+    "price": 4.89
   },
   {
     "id": "zsv10pt5-100",
@@ -12925,7 +12925,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "100",
     "rarity": "Illustration Rare",
-    "price": 13.74
+    "price": 5.67
   },
   {
     "id": "zsv10pt5-101",
@@ -12934,7 +12934,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "101",
     "rarity": "Illustration Rare",
-    "price": 14.76
+    "price": 5.98
   },
   {
     "id": "zsv10pt5-102",
@@ -12943,7 +12943,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "102",
     "rarity": "Illustration Rare",
-    "price": 11.88
+    "price": 5.1
   },
   {
     "id": "zsv10pt5-103",
@@ -12952,7 +12952,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "103",
     "rarity": "Illustration Rare",
-    "price": 11.3
+    "price": 4.92
   },
   {
     "id": "zsv10pt5-104",
@@ -12961,7 +12961,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "104",
     "rarity": "Illustration Rare",
-    "price": 27.95
+    "price": 9.51
   },
   {
     "id": "zsv10pt5-105",
@@ -12970,7 +12970,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "105",
     "rarity": "Illustration Rare",
-    "price": 11.6
+    "price": 5.01
   },
   {
     "id": "zsv10pt5-106",
@@ -12979,7 +12979,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "106",
     "rarity": "Illustration Rare",
-    "price": 13.79
+    "price": 5.69
   },
   {
     "id": "zsv10pt5-107",
@@ -12988,7 +12988,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "107",
     "rarity": "Illustration Rare",
-    "price": 13.73
+    "price": 5.67
   },
   {
     "id": "zsv10pt5-108",
@@ -12997,7 +12997,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "108",
     "rarity": "Illustration Rare",
-    "price": 24.36
+    "price": 8.6
   },
   {
     "id": "zsv10pt5-109",
@@ -13006,7 +13006,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "109",
     "rarity": "Illustration Rare",
-    "price": 12.88
+    "price": 5.41
   },
   {
     "id": "zsv10pt5-110",
@@ -13015,7 +13015,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "110",
     "rarity": "Illustration Rare",
-    "price": 17.09
+    "price": 6.65
   },
   {
     "id": "zsv10pt5-111",
@@ -13024,7 +13024,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "111",
     "rarity": "Illustration Rare",
-    "price": 28.9
+    "price": 9.74
   },
   {
     "id": "zsv10pt5-112",
@@ -13033,7 +13033,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "112",
     "rarity": "Illustration Rare",
-    "price": 8.12
+    "price": 3.87
   },
   {
     "id": "zsv10pt5-113",
@@ -13042,7 +13042,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "113",
     "rarity": "Illustration Rare",
-    "price": 7.93
+    "price": 3.8
   },
   {
     "id": "zsv10pt5-114",
@@ -13051,7 +13051,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "114",
     "rarity": "Illustration Rare",
-    "price": 19.19
+    "price": 7.23
   },
   {
     "id": "zsv10pt5-115",
@@ -13060,7 +13060,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "115",
     "rarity": "Illustration Rare",
-    "price": 19.24
+    "price": 8.17
   },
   {
     "id": "zsv10pt5-116",
@@ -13069,7 +13069,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "116",
     "rarity": "Illustration Rare",
-    "price": 20.2
+    "price": 7.51
   },
   {
     "id": "zsv10pt5-117",
@@ -13078,7 +13078,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "117",
     "rarity": "Illustration Rare",
-    "price": 57.93
+    "price": 16.15
   },
   {
     "id": "zsv10pt5-118",
@@ -13087,7 +13087,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "118",
     "rarity": "Illustration Rare",
-    "price": 15
+    "price": 6.05
   },
   {
     "id": "zsv10pt5-119",
@@ -13096,7 +13096,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "119",
     "rarity": "Illustration Rare",
-    "price": 14.13
+    "price": 5.79
   },
   {
     "id": "zsv10pt5-120",
@@ -13105,7 +13105,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "120",
     "rarity": "Illustration Rare",
-    "price": 11.01
+    "price": 4.83
   },
   {
     "id": "zsv10pt5-121",
@@ -13114,7 +13114,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "121",
     "rarity": "Illustration Rare",
-    "price": 30.7
+    "price": 10.18
   },
   {
     "id": "zsv10pt5-122",
@@ -13123,7 +13123,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "122",
     "rarity": "Illustration Rare",
-    "price": 28.31
+    "price": 9.59
   },
   {
     "id": "zsv10pt5-123",
@@ -13132,7 +13132,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "123",
     "rarity": "Illustration Rare",
-    "price": 21.42
+    "price": 8.17
   },
   {
     "id": "zsv10pt5-124",
@@ -13141,7 +13141,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "124",
     "rarity": "Illustration Rare",
-    "price": 18.87
+    "price": 7.14
   },
   {
     "id": "zsv10pt5-125",
@@ -13150,7 +13150,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "125",
     "rarity": "Illustration Rare",
-    "price": 10.21
+    "price": 4.57
   },
   {
     "id": "zsv10pt5-126",
@@ -13159,7 +13159,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "126",
     "rarity": "Illustration Rare",
-    "price": 28.05
+    "price": 9.53
   },
   {
     "id": "zsv10pt5-127",
@@ -13168,7 +13168,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "127",
     "rarity": "Illustration Rare",
-    "price": 27.45
+    "price": 9.79
   },
   {
     "id": "zsv10pt5-128",
@@ -13177,7 +13177,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "128",
     "rarity": "Illustration Rare",
-    "price": 30.62
+    "price": 10.16
   },
   {
     "id": "zsv10pt5-129",
@@ -13186,7 +13186,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "129",
     "rarity": "Illustration Rare",
-    "price": 22.99
+    "price": 8.25
   },
   {
     "id": "zsv10pt5-130",
@@ -13195,7 +13195,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "130",
     "rarity": "Illustration Rare",
-    "price": 11.22
+    "price": 5.11
   },
   {
     "id": "zsv10pt5-131",
@@ -13204,7 +13204,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "131",
     "rarity": "Illustration Rare",
-    "price": 24.6
+    "price": 8.66
   },
   {
     "id": "zsv10pt5-132",
@@ -13213,7 +13213,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "132",
     "rarity": "Illustration Rare",
-    "price": 9.88
+    "price": 4.46
   },
   {
     "id": "zsv10pt5-133",
@@ -13222,7 +13222,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "133",
     "rarity": "Illustration Rare",
-    "price": 10.26
+    "price": 4.59
   },
   {
     "id": "zsv10pt5-134",
@@ -13231,7 +13231,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "134",
     "rarity": "Illustration Rare",
-    "price": 20.14
+    "price": 7.49
   },
   {
     "id": "zsv10pt5-135",
@@ -13240,7 +13240,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "135",
     "rarity": "Illustration Rare",
-    "price": 20.95
+    "price": 7.71
   },
   {
     "id": "zsv10pt5-136",
@@ -13249,7 +13249,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "136",
     "rarity": "Illustration Rare",
-    "price": 23.75
+    "price": 8.45
   },
   {
     "id": "zsv10pt5-137",
@@ -13258,7 +13258,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "137",
     "rarity": "Illustration Rare",
-    "price": 17.27
+    "price": 6.7
   },
   {
     "id": "zsv10pt5-138",
@@ -13267,7 +13267,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "138",
     "rarity": "Illustration Rare",
-    "price": 27.77
+    "price": 9.46
   },
   {
     "id": "zsv10pt5-139",
@@ -13276,7 +13276,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "139",
     "rarity": "Illustration Rare",
-    "price": 23.06
+    "price": 8.26
   },
   {
     "id": "zsv10pt5-140",
@@ -13285,7 +13285,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "140",
     "rarity": "Illustration Rare",
-    "price": 9.86
+    "price": 4.45
   },
   {
     "id": "zsv10pt5-141",
@@ -13294,7 +13294,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "141",
     "rarity": "Illustration Rare",
-    "price": 9.67
+    "price": 4.39
   },
   {
     "id": "zsv10pt5-142",
@@ -13303,7 +13303,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "142",
     "rarity": "Illustration Rare",
-    "price": 12.17
+    "price": 5.19
   },
   {
     "id": "zsv10pt5-143",
@@ -13312,7 +13312,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "143",
     "rarity": "Illustration Rare",
-    "price": 28.76
+    "price": 9.71
   },
   {
     "id": "zsv10pt5-144",
@@ -13321,7 +13321,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "144",
     "rarity": "Illustration Rare",
-    "price": 26.98
+    "price": 9.67
   },
   {
     "id": "zsv10pt5-145",
@@ -13330,7 +13330,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "145",
     "rarity": "Illustration Rare",
-    "price": 20.41
+    "price": 7.56
   },
   {
     "id": "zsv10pt5-146",
@@ -13339,7 +13339,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "146",
     "rarity": "Illustration Rare",
-    "price": 15.06
+    "price": 6.06
   },
   {
     "id": "zsv10pt5-147",
@@ -13348,7 +13348,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "147",
     "rarity": "Illustration Rare",
-    "price": 14.8
+    "price": 5.99
   },
   {
     "id": "zsv10pt5-148",
@@ -13357,7 +13357,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "148",
     "rarity": "Illustration Rare",
-    "price": 8.96
+    "price": 4.16
   },
   {
     "id": "zsv10pt5-149",
@@ -13366,7 +13366,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "149",
     "rarity": "Illustration Rare",
-    "price": 22.28
+    "price": 8.06
   },
   {
     "id": "zsv10pt5-150",
@@ -13375,7 +13375,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "150",
     "rarity": "Illustration Rare",
-    "price": 56.06
+    "price": 15.77
   },
   {
     "id": "zsv10pt5-151",
@@ -13384,7 +13384,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "151",
     "rarity": "Illustration Rare",
-    "price": 12.29
+    "price": 5.46
   },
   {
     "id": "zsv10pt5-152",
@@ -13393,7 +13393,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "152",
     "rarity": "Illustration Rare",
-    "price": 10.33
+    "price": 4.61
   },
   {
     "id": "zsv10pt5-153",
@@ -13402,7 +13402,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "153",
     "rarity": "Illustration Rare",
-    "price": 26.76
+    "price": 11.5
   },
   {
     "id": "zsv10pt5-154",
@@ -13411,7 +13411,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "154",
     "rarity": "Illustration Rare",
-    "price": 15.73
+    "price": 6.26
   },
   {
     "id": "zsv10pt5-155",
@@ -13420,7 +13420,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "155",
     "rarity": "Illustration Rare",
-    "price": 33.46
+    "price": 10.84
   },
   {
     "id": "zsv10pt5-156",
@@ -13429,7 +13429,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "156",
     "rarity": "Ultra Rare",
-    "price": 26.69
+    "price": 14.67
   },
   {
     "id": "zsv10pt5-157",
@@ -13438,7 +13438,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "157",
     "rarity": "Ultra Rare",
-    "price": 15.86
+    "price": 8.85
   },
   {
     "id": "zsv10pt5-158",
@@ -13447,7 +13447,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "158",
     "rarity": "Ultra Rare",
-    "price": 12.61
+    "price": 6.01
   },
   {
     "id": "zsv10pt5-159",
@@ -13456,7 +13456,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "159",
     "rarity": "Ultra Rare",
-    "price": 19.81
+    "price": 7.72
   },
   {
     "id": "zsv10pt5-160",
@@ -13465,7 +13465,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "160",
     "rarity": "Ultra Rare",
-    "price": 24.18
+    "price": 12.03
   },
   {
     "id": "zsv10pt5-161",
@@ -13474,7 +13474,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "161",
     "rarity": "Ultra Rare",
-    "price": 30.64
+    "price": 12.69
   },
   {
     "id": "zsv10pt5-164",
@@ -13483,7 +13483,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "164",
     "rarity": "Special Illustration Rare",
-    "price": 308.95
+    "price": 104.52
   },
   {
     "id": "zsv10pt5-165",
@@ -13492,7 +13492,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "165",
     "rarity": "Special Illustration Rare",
-    "price": 210.75
+    "price": 69.72
   },
   {
     "id": "zsv10pt5-166",
@@ -13501,7 +13501,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "166",
     "rarity": "Special Illustration Rare",
-    "price": 177.8
+    "price": 49.4
   },
   {
     "id": "zsv10pt5-167",
@@ -13510,7 +13510,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "167",
     "rarity": "Special Illustration Rare",
-    "price": 82.12
+    "price": 26.07
   },
   {
     "id": "zsv10pt5-168",
@@ -13519,7 +13519,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "168",
     "rarity": "Special Illustration Rare",
-    "price": 37.91
+    "price": 20.02
   },
   {
     "id": "zsv10pt5-169",
@@ -13528,7 +13528,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "169",
     "rarity": "Special Illustration Rare",
-    "price": 55.41
+    "price": 23.44
   },
   {
     "id": "zsv10pt5-172",
@@ -13537,7 +13537,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "zsv10pt5",
     "number": "172",
     "rarity": "Black White Rare",
-    "price": 129.76
+    "price": 39.29
   },
   {
     "id": "rsv10pt5-5",
@@ -13546,7 +13546,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "5",
     "rarity": "Double Rare",
-    "price": 18.64
+    "price": 9.95
   },
   {
     "id": "rsv10pt5-20",
@@ -13555,7 +13555,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "20",
     "rarity": "Double Rare",
-    "price": 6.77
+    "price": 5.41
   },
   {
     "id": "rsv10pt5-30",
@@ -13564,7 +13564,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "30",
     "rarity": "Double Rare",
-    "price": 11.71
+    "price": 5.27
   },
   {
     "id": "rsv10pt5-45",
@@ -13573,7 +13573,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "45",
     "rarity": "Double Rare",
-    "price": 13.53
+    "price": 5.85
   },
   {
     "id": "rsv10pt5-67",
@@ -13582,7 +13582,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "67",
     "rarity": "Double Rare",
-    "price": 26.23
+    "price": 12.76
   },
   {
     "id": "rsv10pt5-77",
@@ -13591,7 +13591,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "77",
     "rarity": "Double Rare",
-    "price": 8.15
+    "price": 4.05
   },
   {
     "id": "rsv10pt5-87",
@@ -13600,7 +13600,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "87",
     "rarity": "Illustration Rare",
-    "price": 15.24
+    "price": 6.12
   },
   {
     "id": "rsv10pt5-88",
@@ -13609,7 +13609,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "88",
     "rarity": "Illustration Rare",
-    "price": 14.98
+    "price": 6.04
   },
   {
     "id": "rsv10pt5-89",
@@ -13618,7 +13618,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "89",
     "rarity": "Illustration Rare",
-    "price": 8.33
+    "price": 3.94
   },
   {
     "id": "rsv10pt5-90",
@@ -13627,7 +13627,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "90",
     "rarity": "Illustration Rare",
-    "price": 13.19
+    "price": 5.51
   },
   {
     "id": "rsv10pt5-91",
@@ -13636,7 +13636,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "91",
     "rarity": "Illustration Rare",
-    "price": 18.36
+    "price": 7
   },
   {
     "id": "rsv10pt5-92",
@@ -13645,7 +13645,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "92",
     "rarity": "Illustration Rare",
-    "price": 14.68
+    "price": 5.95
   },
   {
     "id": "rsv10pt5-93",
@@ -13654,7 +13654,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "93",
     "rarity": "Illustration Rare",
-    "price": 16.12
+    "price": 6.37
   },
   {
     "id": "rsv10pt5-94",
@@ -13663,7 +13663,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "94",
     "rarity": "Illustration Rare",
-    "price": 9.46
+    "price": 4.32
   },
   {
     "id": "rsv10pt5-95",
@@ -13672,7 +13672,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "95",
     "rarity": "Illustration Rare",
-    "price": 14.54
+    "price": 5.91
   },
   {
     "id": "rsv10pt5-96",
@@ -13681,7 +13681,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "96",
     "rarity": "Illustration Rare",
-    "price": 8.68
+    "price": 4.06
   },
   {
     "id": "rsv10pt5-97",
@@ -13690,7 +13690,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "97",
     "rarity": "Illustration Rare",
-    "price": 13.79
+    "price": 5.69
   },
   {
     "id": "rsv10pt5-98",
@@ -13699,7 +13699,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "98",
     "rarity": "Illustration Rare",
-    "price": 9.55
+    "price": 4.54
   },
   {
     "id": "rsv10pt5-99",
@@ -13708,7 +13708,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "99",
     "rarity": "Illustration Rare",
-    "price": 15.32
+    "price": 6.14
   },
   {
     "id": "rsv10pt5-100",
@@ -13717,7 +13717,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "100",
     "rarity": "Illustration Rare",
-    "price": 18.99
+    "price": 7.18
   },
   {
     "id": "rsv10pt5-101",
@@ -13726,7 +13726,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "101",
     "rarity": "Illustration Rare",
-    "price": 6.87
+    "price": 3.43
   },
   {
     "id": "rsv10pt5-102",
@@ -13735,7 +13735,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "102",
     "rarity": "Illustration Rare",
-    "price": 68.76
+    "price": 18.3
   },
   {
     "id": "rsv10pt5-103",
@@ -13744,7 +13744,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "103",
     "rarity": "Illustration Rare",
-    "price": 54.32
+    "price": 24.59
   },
   {
     "id": "rsv10pt5-104",
@@ -13753,7 +13753,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "104",
     "rarity": "Illustration Rare",
-    "price": 14.08
+    "price": 5.77
   },
   {
     "id": "rsv10pt5-105",
@@ -13762,7 +13762,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "105",
     "rarity": "Illustration Rare",
-    "price": 26.48
+    "price": 9.14
   },
   {
     "id": "rsv10pt5-106",
@@ -13771,7 +13771,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "106",
     "rarity": "Illustration Rare",
-    "price": 13.74
+    "price": 5.67
   },
   {
     "id": "rsv10pt5-107",
@@ -13780,7 +13780,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "107",
     "rarity": "Illustration Rare",
-    "price": 9.96
+    "price": 4.49
   },
   {
     "id": "rsv10pt5-108",
@@ -13789,7 +13789,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "108",
     "rarity": "Illustration Rare",
-    "price": 32.96
+    "price": 10.72
   },
   {
     "id": "rsv10pt5-109",
@@ -13798,7 +13798,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "109",
     "rarity": "Illustration Rare",
-    "price": 11.91
+    "price": 5.11
   },
   {
     "id": "rsv10pt5-110",
@@ -13807,7 +13807,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "110",
     "rarity": "Illustration Rare",
-    "price": 10.29
+    "price": 4.6
   },
   {
     "id": "rsv10pt5-111",
@@ -13816,7 +13816,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "111",
     "rarity": "Illustration Rare",
-    "price": 43.9
+    "price": 13.2
   },
   {
     "id": "rsv10pt5-112",
@@ -13825,7 +13825,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "112",
     "rarity": "Illustration Rare",
-    "price": 61.75
+    "price": 16.92
   },
   {
     "id": "rsv10pt5-113",
@@ -13834,7 +13834,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "113",
     "rarity": "Illustration Rare",
-    "price": 5.76
+    "price": 3.02
   },
   {
     "id": "rsv10pt5-114",
@@ -13843,7 +13843,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "114",
     "rarity": "Illustration Rare",
-    "price": 13.44
+    "price": 5.58
   },
   {
     "id": "rsv10pt5-115",
@@ -13852,7 +13852,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "115",
     "rarity": "Illustration Rare",
-    "price": 16.63
+    "price": 6.52
   },
   {
     "id": "rsv10pt5-116",
@@ -13861,7 +13861,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "116",
     "rarity": "Illustration Rare",
-    "price": 20.51
+    "price": 7.92
   },
   {
     "id": "rsv10pt5-117",
@@ -13870,7 +13870,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "117",
     "rarity": "Illustration Rare",
-    "price": 21.36
+    "price": 8.81
   },
   {
     "id": "rsv10pt5-118",
@@ -13879,7 +13879,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "118",
     "rarity": "Illustration Rare",
-    "price": 17.97
+    "price": 7.77
   },
   {
     "id": "rsv10pt5-119",
@@ -13888,7 +13888,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "119",
     "rarity": "Illustration Rare",
-    "price": 7.23
+    "price": 3.56
   },
   {
     "id": "rsv10pt5-120",
@@ -13897,7 +13897,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "120",
     "rarity": "Illustration Rare",
-    "price": 19.07
+    "price": 7.2
   },
   {
     "id": "rsv10pt5-121",
@@ -13906,7 +13906,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "121",
     "rarity": "Illustration Rare",
-    "price": 42.93
+    "price": 12.99
   },
   {
     "id": "rsv10pt5-122",
@@ -13915,7 +13915,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "122",
     "rarity": "Illustration Rare",
-    "price": 7.45
+    "price": 3.64
   },
   {
     "id": "rsv10pt5-123",
@@ -13924,7 +13924,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "123",
     "rarity": "Illustration Rare",
-    "price": 15.77
+    "price": 6.54
   },
   {
     "id": "rsv10pt5-124",
@@ -13933,7 +13933,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "124",
     "rarity": "Illustration Rare",
-    "price": 38.7
+    "price": 12.04
   },
   {
     "id": "rsv10pt5-125",
@@ -13942,7 +13942,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "125",
     "rarity": "Illustration Rare",
-    "price": 14.4
+    "price": 5.87
   },
   {
     "id": "rsv10pt5-126",
@@ -13951,7 +13951,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "126",
     "rarity": "Illustration Rare",
-    "price": 26.26
+    "price": 9.08
   },
   {
     "id": "rsv10pt5-127",
@@ -13960,7 +13960,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "127",
     "rarity": "Illustration Rare",
-    "price": 11.79
+    "price": 5.07
   },
   {
     "id": "rsv10pt5-128",
@@ -13969,7 +13969,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "128",
     "rarity": "Illustration Rare",
-    "price": 14.77
+    "price": 5.98
   },
   {
     "id": "rsv10pt5-129",
@@ -13978,7 +13978,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "129",
     "rarity": "Illustration Rare",
-    "price": 8.87
+    "price": 4.13
   },
   {
     "id": "rsv10pt5-130",
@@ -13987,7 +13987,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "130",
     "rarity": "Illustration Rare",
-    "price": 24.08
+    "price": 8.53
   },
   {
     "id": "rsv10pt5-132",
@@ -13996,7 +13996,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "132",
     "rarity": "Illustration Rare",
-    "price": 8.07
+    "price": 3.85
   },
   {
     "id": "rsv10pt5-133",
@@ -14005,7 +14005,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "133",
     "rarity": "Illustration Rare",
-    "price": 4.41
+    "price": 2.48
   },
   {
     "id": "rsv10pt5-134",
@@ -14014,7 +14014,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "134",
     "rarity": "Illustration Rare",
-    "price": 11.76
+    "price": 5.07
   },
   {
     "id": "rsv10pt5-135",
@@ -14023,7 +14023,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "135",
     "rarity": "Illustration Rare",
-    "price": 20.6
+    "price": 7.61
   },
   {
     "id": "rsv10pt5-136",
@@ -14032,7 +14032,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "136",
     "rarity": "Illustration Rare",
-    "price": 8.33
+    "price": 3.94
   },
   {
     "id": "rsv10pt5-137",
@@ -14041,7 +14041,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "137",
     "rarity": "Illustration Rare",
-    "price": 38.82
+    "price": 12.08
   },
   {
     "id": "rsv10pt5-138",
@@ -14050,7 +14050,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "138",
     "rarity": "Illustration Rare",
-    "price": 12.39
+    "price": 5.26
   },
   {
     "id": "rsv10pt5-139",
@@ -14059,7 +14059,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "139",
     "rarity": "Illustration Rare",
-    "price": 14.72
+    "price": 6.72
   },
   {
     "id": "rsv10pt5-140",
@@ -14068,7 +14068,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "140",
     "rarity": "Illustration Rare",
-    "price": 11.29
+    "price": 4.92
   },
   {
     "id": "rsv10pt5-141",
@@ -14077,7 +14077,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "141",
     "rarity": "Illustration Rare",
-    "price": 24.15
+    "price": 10.67
   },
   {
     "id": "rsv10pt5-142",
@@ -14086,7 +14086,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "142",
     "rarity": "Illustration Rare",
-    "price": 12.43
+    "price": 5.27
   },
   {
     "id": "rsv10pt5-143",
@@ -14095,7 +14095,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "143",
     "rarity": "Illustration Rare",
-    "price": 7.3
+    "price": 3.58
   },
   {
     "id": "rsv10pt5-144",
@@ -14104,7 +14104,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "144",
     "rarity": "Illustration Rare",
-    "price": 17.45
+    "price": 6.75
   },
   {
     "id": "rsv10pt5-145",
@@ -14113,7 +14113,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "145",
     "rarity": "Illustration Rare",
-    "price": 12.78
+    "price": 5.38
   },
   {
     "id": "rsv10pt5-146",
@@ -14122,7 +14122,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "146",
     "rarity": "Illustration Rare",
-    "price": 22.61
+    "price": 8.15
   },
   {
     "id": "rsv10pt5-147",
@@ -14131,7 +14131,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "147",
     "rarity": "Illustration Rare",
-    "price": 29.56
+    "price": 9.9
   },
   {
     "id": "rsv10pt5-148",
@@ -14140,7 +14140,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "148",
     "rarity": "Illustration Rare",
-    "price": 18.55
+    "price": 7.06
   },
   {
     "id": "rsv10pt5-149",
@@ -14149,7 +14149,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "149",
     "rarity": "Illustration Rare",
-    "price": 26.91
+    "price": 9.25
   },
   {
     "id": "rsv10pt5-150",
@@ -14158,7 +14158,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "150",
     "rarity": "Illustration Rare",
-    "price": 37.8
+    "price": 13.35
   },
   {
     "id": "rsv10pt5-151",
@@ -14167,7 +14167,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "151",
     "rarity": "Illustration Rare",
-    "price": 8.3
+    "price": 3.93
   },
   {
     "id": "rsv10pt5-152",
@@ -14176,7 +14176,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "152",
     "rarity": "Illustration Rare",
-    "price": 28.98
+    "price": 9.76
   },
   {
     "id": "rsv10pt5-153",
@@ -14185,7 +14185,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "153",
     "rarity": "Illustration Rare",
-    "price": 37.63
+    "price": 11.8
   },
   {
     "id": "rsv10pt5-154",
@@ -14194,7 +14194,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "154",
     "rarity": "Illustration Rare",
-    "price": 58.05
+    "price": 16.18
   },
   {
     "id": "rsv10pt5-155",
@@ -14203,7 +14203,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "155",
     "rarity": "Illustration Rare",
-    "price": 7.55
+    "price": 3.67
   },
   {
     "id": "rsv10pt5-156",
@@ -14212,7 +14212,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "156",
     "rarity": "Illustration Rare",
-    "price": 7.73
+    "price": 3.73
   },
   {
     "id": "rsv10pt5-157",
@@ -14221,7 +14221,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "157",
     "rarity": "Ultra Rare",
-    "price": 9.64
+    "price": 6.16
   },
   {
     "id": "rsv10pt5-158",
@@ -14230,7 +14230,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "158",
     "rarity": "Ultra Rare",
-    "price": 24.49
+    "price": 13.78
   },
   {
     "id": "rsv10pt5-159",
@@ -14239,7 +14239,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "159",
     "rarity": "Ultra Rare",
-    "price": 22.68
+    "price": 8.52
   },
   {
     "id": "rsv10pt5-160",
@@ -14248,7 +14248,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "160",
     "rarity": "Ultra Rare",
-    "price": 17.53
+    "price": 7.06
   },
   {
     "id": "rsv10pt5-161",
@@ -14257,7 +14257,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "161",
     "rarity": "Ultra Rare",
-    "price": 18.48
+    "price": 9.89
   },
   {
     "id": "rsv10pt5-162",
@@ -14266,7 +14266,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "162",
     "rarity": "Ultra Rare",
-    "price": 6.07
+    "price": 3.27
   },
   {
     "id": "rsv10pt5-165",
@@ -14275,7 +14275,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "165",
     "rarity": "Special Illustration Rare",
-    "price": 142.61
+    "price": 52.48
   },
   {
     "id": "rsv10pt5-166",
@@ -14284,7 +14284,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "166",
     "rarity": "Special Illustration Rare",
-    "price": 46.16
+    "price": 26.23
   },
   {
     "id": "rsv10pt5-167",
@@ -14293,7 +14293,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "167",
     "rarity": "Special Illustration Rare",
-    "price": 131.53
+    "price": 36.73
   },
   {
     "id": "rsv10pt5-168",
@@ -14302,7 +14302,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "168",
     "rarity": "Special Illustration Rare",
-    "price": 29.16
+    "price": 12.28
   },
   {
     "id": "rsv10pt5-169",
@@ -14311,7 +14311,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "169",
     "rarity": "Special Illustration Rare",
-    "price": 155.32
+    "price": 55.84
   },
   {
     "id": "rsv10pt5-170",
@@ -14320,7 +14320,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "170",
     "rarity": "Special Illustration Rare",
-    "price": 215.45
+    "price": 52.59
   },
   {
     "id": "rsv10pt5-173",
@@ -14329,7 +14329,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "rsv10pt5",
     "number": "173",
     "rarity": "Black White Rare",
-    "price": 60.09
+    "price": 31.77
   },
   {
     "id": "me1-3",
@@ -14338,7 +14338,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "3",
     "rarity": "Double Rare",
-    "price": 18.08
+    "price": 11.05
   },
   {
     "id": "me1-22",
@@ -14347,7 +14347,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "22",
     "rarity": "Double Rare",
-    "price": 41.71
+    "price": 12.72
   },
   {
     "id": "me1-36",
@@ -14356,7 +14356,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "36",
     "rarity": "Double Rare",
-    "price": 14.41
+    "price": 6.13
   },
   {
     "id": "me1-50",
@@ -14365,7 +14365,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "50",
     "rarity": "Double Rare",
-    "price": 26.49
+    "price": 9.54
   },
   {
     "id": "me1-60",
@@ -14374,7 +14374,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "60",
     "rarity": "Double Rare",
-    "price": 62
+    "price": 62.76
   },
   {
     "id": "me1-77",
@@ -14383,7 +14383,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "77",
     "rarity": "Double Rare",
-    "price": 26.22
+    "price": 16.48
   },
   {
     "id": "me1-86",
@@ -14392,7 +14392,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "86",
     "rarity": "Double Rare",
-    "price": 28.16
+    "price": 11.94
   },
   {
     "id": "me1-94",
@@ -14401,7 +14401,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "94",
     "rarity": "Double Rare",
-    "price": 17.81
+    "price": 9.63
   },
   {
     "id": "me1-100",
@@ -14410,7 +14410,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "100",
     "rarity": "Double Rare",
-    "price": 36.37
+    "price": 16.18
   },
   {
     "id": "me1-104",
@@ -14419,7 +14419,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "104",
     "rarity": "Double Rare",
-    "price": 9.67
+    "price": 6.18
   },
   {
     "id": "me1-133",
@@ -14428,7 +14428,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "133",
     "rarity": "Illustration Rare",
-    "price": 17.28
+    "price": 6.99
   },
   {
     "id": "me1-134",
@@ -14437,7 +14437,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "134",
     "rarity": "Illustration Rare",
-    "price": 25.02
+    "price": 8.77
   },
   {
     "id": "me1-135",
@@ -14446,7 +14446,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "135",
     "rarity": "Illustration Rare",
-    "price": 11.1
+    "price": 4.86
   },
   {
     "id": "me1-136",
@@ -14455,7 +14455,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "136",
     "rarity": "Illustration Rare",
-    "price": 12.46
+    "price": 5.28
   },
   {
     "id": "me1-137",
@@ -14464,7 +14464,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "137",
     "rarity": "Illustration Rare",
-    "price": 13.59
+    "price": 5.63
   },
   {
     "id": "me1-138",
@@ -14473,7 +14473,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "138",
     "rarity": "Illustration Rare",
-    "price": 26.2
+    "price": 9.07
   },
   {
     "id": "me1-139",
@@ -14482,7 +14482,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "139",
     "rarity": "Illustration Rare",
-    "price": 18.03
+    "price": 6.91
   },
   {
     "id": "me1-140",
@@ -14491,7 +14491,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "140",
     "rarity": "Illustration Rare",
-    "price": 19.05
+    "price": 7.2
   },
   {
     "id": "me1-141",
@@ -14500,7 +14500,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "141",
     "rarity": "Illustration Rare",
-    "price": 34.51
+    "price": 11.08
   },
   {
     "id": "me1-142",
@@ -14509,7 +14509,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "142",
     "rarity": "Illustration Rare",
-    "price": 19.04
+    "price": 11.47
   },
   {
     "id": "me1-143",
@@ -14518,7 +14518,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "143",
     "rarity": "Illustration Rare",
-    "price": 9.11
+    "price": 4.21
   },
   {
     "id": "me1-144",
@@ -14527,7 +14527,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "144",
     "rarity": "Illustration Rare",
-    "price": 16.67
+    "price": 6.53
   },
   {
     "id": "me1-145",
@@ -14536,7 +14536,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "145",
     "rarity": "Illustration Rare",
-    "price": 7.34
+    "price": 3.75
   },
   {
     "id": "me1-146",
@@ -14545,7 +14545,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "146",
     "rarity": "Illustration Rare",
-    "price": 16.92
+    "price": 6.6
   },
   {
     "id": "me1-147",
@@ -14554,7 +14554,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "147",
     "rarity": "Illustration Rare",
-    "price": 8.81
+    "price": 4.63
   },
   {
     "id": "me1-148",
@@ -14563,7 +14563,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "148",
     "rarity": "Illustration Rare",
-    "price": 11.31
+    "price": 4.92
   },
   {
     "id": "me1-149",
@@ -14572,7 +14572,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "149",
     "rarity": "Illustration Rare",
-    "price": 21.95
+    "price": 7.98
   },
   {
     "id": "me1-150",
@@ -14581,7 +14581,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "150",
     "rarity": "Illustration Rare",
-    "price": 29.69
+    "price": 10.36
   },
   {
     "id": "me1-151",
@@ -14590,7 +14590,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "151",
     "rarity": "Illustration Rare",
-    "price": 15.8
+    "price": 6.28
   },
   {
     "id": "me1-152",
@@ -14599,7 +14599,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "152",
     "rarity": "Illustration Rare",
-    "price": 18.12
+    "price": 6.94
   },
   {
     "id": "me1-153",
@@ -14608,7 +14608,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "153",
     "rarity": "Illustration Rare",
-    "price": 10.9
+    "price": 4.79
   },
   {
     "id": "me1-154",
@@ -14617,7 +14617,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "154",
     "rarity": "Illustration Rare",
-    "price": 10.9
+    "price": 4.79
   },
   {
     "id": "me1-155",
@@ -14626,7 +14626,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "155",
     "rarity": "Ultra Rare",
-    "price": 5.2
+    "price": 4.46
   },
   {
     "id": "me1-156",
@@ -14635,7 +14635,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "156",
     "rarity": "Ultra Rare",
-    "price": 6.16
+    "price": 3.17
   },
   {
     "id": "me1-157",
@@ -14644,7 +14644,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "157",
     "rarity": "Ultra Rare",
-    "price": 21.54
+    "price": 8.21
   },
   {
     "id": "me1-158",
@@ -14653,7 +14653,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "158",
     "rarity": "Ultra Rare",
-    "price": 22.57
+    "price": 8.49
   },
   {
     "id": "me1-159",
@@ -14662,7 +14662,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "159",
     "rarity": "Ultra Rare",
-    "price": 23.19
+    "price": 30.7
   },
   {
     "id": "me1-160",
@@ -14671,7 +14671,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "160",
     "rarity": "Ultra Rare",
-    "price": 12.8
+    "price": 9.79
   },
   {
     "id": "me1-161",
@@ -14680,7 +14680,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "161",
     "rarity": "Ultra Rare",
-    "price": 21.33
+    "price": 9.75
   },
   {
     "id": "me1-162",
@@ -14689,7 +14689,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "162",
     "rarity": "Ultra Rare",
-    "price": 13.69
+    "price": 7.95
   },
   {
     "id": "me1-163",
@@ -14698,7 +14698,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "163",
     "rarity": "Ultra Rare",
-    "price": 24.07
+    "price": 11.99
   },
   {
     "id": "me1-164",
@@ -14707,7 +14707,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "164",
     "rarity": "Ultra Rare",
-    "price": 13.8
+    "price": 8
   },
   {
     "id": "me1-177",
@@ -14716,7 +14716,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "177",
     "rarity": "Special Illustration Rare",
-    "price": 53.45
+    "price": 29.18
   },
   {
     "id": "me1-178",
@@ -14725,7 +14725,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "178",
     "rarity": "Special Illustration Rare",
-    "price": 105.91
+    "price": 111.21
   },
   {
     "id": "me1-179",
@@ -14734,7 +14734,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "179",
     "rarity": "Special Illustration Rare",
-    "price": 40.44
+    "price": 27.11
   },
   {
     "id": "me1-180",
@@ -14743,7 +14743,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "180",
     "rarity": "Special Illustration Rare",
-    "price": 34.12
+    "price": 16.48
   },
   {
     "id": "me1-181",
@@ -14752,7 +14752,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "181",
     "rarity": "Special Illustration Rare",
-    "price": 105.98
+    "price": 42.29
   },
   {
     "id": "me1-182",
@@ -14761,7 +14761,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "182",
     "rarity": "Special Illustration Rare",
-    "price": 83.13
+    "price": 35.44
   },
   {
     "id": "me1-187",
@@ -14770,7 +14770,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "187",
     "rarity": "Mega Hyper Rare",
-    "price": 129.24
+    "price": 128.53
   },
   {
     "id": "me1-188",
@@ -14779,7 +14779,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me1",
     "number": "188",
     "rarity": "Mega Hyper Rare",
-    "price": 63.01
+    "price": 37.43
   },
   {
     "id": "me2-4",
@@ -14788,7 +14788,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "4",
     "rarity": "Double Rare",
-    "price": 22.5
+    "price": 8.47
   },
   {
     "id": "me2-13",
@@ -14797,7 +14797,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "13",
     "rarity": "Double Rare",
-    "price": 10.9
+    "price": 5.4
   },
   {
     "id": "me2-18",
@@ -14806,7 +14806,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "18",
     "rarity": "Double Rare",
-    "price": 14.88
+    "price": 6.27
   },
   {
     "id": "me2-29",
@@ -14815,7 +14815,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "29",
     "rarity": "Double Rare",
-    "price": 28.14
+    "price": 15.24
   },
   {
     "id": "me2-36",
@@ -14824,7 +14824,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "36",
     "rarity": "Double Rare",
-    "price": 17.36
+    "price": 7.02
   },
   {
     "id": "me2-41",
@@ -14833,7 +14833,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "41",
     "rarity": "Double Rare",
-    "price": 15.44
+    "price": 6.44
   },
   {
     "id": "me2-56",
@@ -14842,7 +14842,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "56",
     "rarity": "Double Rare",
-    "price": 14.38
+    "price": 10.65
   },
   {
     "id": "me2-61",
@@ -14851,7 +14851,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "61",
     "rarity": "Double Rare",
-    "price": 27.68
+    "price": 9.85
   },
   {
     "id": "me2-70",
@@ -14860,7 +14860,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "70",
     "rarity": "Double Rare",
-    "price": 17.37
+    "price": 7.58
   },
   {
     "id": "me2-84",
@@ -14869,7 +14869,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "84",
     "rarity": "Double Rare",
-    "price": 11.45
+    "price": 5.18
   },
   {
     "id": "me2-95",
@@ -14878,7 +14878,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "95",
     "rarity": "Illustration Rare",
-    "price": 16.8
+    "price": 6.57
   },
   {
     "id": "me2-96",
@@ -14887,7 +14887,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "96",
     "rarity": "Illustration Rare",
-    "price": 17.54
+    "price": 6.78
   },
   {
     "id": "me2-97",
@@ -14896,7 +14896,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "97",
     "rarity": "Illustration Rare",
-    "price": 25.26
+    "price": 8.83
   },
   {
     "id": "me2-98",
@@ -14905,7 +14905,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "98",
     "rarity": "Illustration Rare",
-    "price": 8.69
+    "price": 4.07
   },
   {
     "id": "me2-99",
@@ -14914,7 +14914,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "99",
     "rarity": "Illustration Rare",
-    "price": 10.9
+    "price": 4.79
   },
   {
     "id": "me2-100",
@@ -14923,7 +14923,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "100",
     "rarity": "Illustration Rare",
-    "price": 34.19
+    "price": 13.75
   },
   {
     "id": "me2-101",
@@ -14932,7 +14932,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "101",
     "rarity": "Illustration Rare",
-    "price": 33.04
+    "price": 12.1
   },
   {
     "id": "me2-102",
@@ -14941,7 +14941,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "102",
     "rarity": "Illustration Rare",
-    "price": 14.4
+    "price": 6.12
   },
   {
     "id": "me2-103",
@@ -14950,7 +14950,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "103",
     "rarity": "Illustration Rare",
-    "price": 23.01
+    "price": 13.17
   },
   {
     "id": "me2-104",
@@ -14959,7 +14959,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "104",
     "rarity": "Illustration Rare",
-    "price": 20.71
+    "price": 7.65
   },
   {
     "id": "me2-105",
@@ -14968,7 +14968,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "105",
     "rarity": "Illustration Rare",
-    "price": 16.85
+    "price": 8.22
   },
   {
     "id": "me2-106",
@@ -14977,7 +14977,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "106",
     "rarity": "Illustration Rare",
-    "price": 14.16
+    "price": 6.54
   },
   {
     "id": "me2-107",
@@ -14986,7 +14986,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "107",
     "rarity": "Illustration Rare",
-    "price": 27.9
+    "price": 9.49
   },
   {
     "id": "me2-108",
@@ -14995,7 +14995,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "108",
     "rarity": "Ultra Rare",
-    "price": 10.89
+    "price": 5
   },
   {
     "id": "me2-109",
@@ -15004,7 +15004,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "109",
     "rarity": "Ultra Rare",
-    "price": 13.18
+    "price": 6.2
   },
   {
     "id": "me2-110",
@@ -15013,7 +15013,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "110",
     "rarity": "Ultra Rare",
-    "price": 48.1
+    "price": 14.72
   },
   {
     "id": "me2-111",
@@ -15022,7 +15022,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "111",
     "rarity": "Ultra Rare",
-    "price": 17.43
+    "price": 10.76
   },
   {
     "id": "me2-112",
@@ -15031,7 +15031,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "112",
     "rarity": "Ultra Rare",
-    "price": 10.39
+    "price": 4.83
   },
   {
     "id": "me2-113",
@@ -15040,7 +15040,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "113",
     "rarity": "Ultra Rare",
-    "price": 15.3
+    "price": 6.4
   },
   {
     "id": "me2-114",
@@ -15049,7 +15049,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "114",
     "rarity": "Ultra Rare",
-    "price": 7.39
+    "price": 4.07
   },
   {
     "id": "me2-115",
@@ -15058,7 +15058,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "115",
     "rarity": "Ultra Rare",
-    "price": 23.21
+    "price": 8.66
   },
   {
     "id": "me2-125",
@@ -15067,7 +15067,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "125",
     "rarity": "Special Illustration Rare",
-    "price": 129.12
+    "price": 39.15
   },
   {
     "id": "me2-126",
@@ -15076,7 +15076,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "126",
     "rarity": "Special Illustration Rare",
-    "price": 274.55
+    "price": 95.92
   },
   {
     "id": "me2-127",
@@ -15085,7 +15085,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "127",
     "rarity": "Special Illustration Rare",
-    "price": 53.58
+    "price": 19.11
   },
   {
     "id": "me2-128",
@@ -15094,7 +15094,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "128",
     "rarity": "Special Illustration Rare",
-    "price": 104.7
+    "price": 31.12
   },
   {
     "id": "me2-130",
@@ -15103,7 +15103,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2",
     "number": "130",
     "rarity": "Mega Hyper Rare",
-    "price": 203.92
+    "price": 54.58
   },
   {
     "id": "me2pt5-3",
@@ -15112,7 +15112,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "3",
     "rarity": "Double Rare",
-    "price": 12.56
+    "price": 5.31
   },
   {
     "id": "me2pt5-10",
@@ -15121,7 +15121,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "10",
     "rarity": "Double Rare",
-    "price": 24.95
+    "price": 8.76
   },
   {
     "id": "me2pt5-22",
@@ -15130,7 +15130,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "22",
     "rarity": "Double Rare",
-    "price": 19.7
+    "price": 7.37
   },
   {
     "id": "me2pt5-26",
@@ -15139,7 +15139,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "26",
     "rarity": "Double Rare",
-    "price": 4.33
+    "price": 3.06
   },
   {
     "id": "me2pt5-31",
@@ -15148,7 +15148,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "31",
     "rarity": "Double Rare",
-    "price": 39.95
+    "price": 12.86
   },
   {
     "id": "me2pt5-38",
@@ -15157,7 +15157,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "38",
     "rarity": "Double Rare",
-    "price": 16.57
+    "price": 11.81
   },
   {
     "id": "me2pt5-43",
@@ -15166,7 +15166,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "43",
     "rarity": "Double Rare",
-    "price": 21.47
+    "price": 7.85
   },
   {
     "id": "me2pt5-47",
@@ -15175,7 +15175,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "47",
     "rarity": "Double Rare",
-    "price": 33.9
+    "price": 17.46
   },
   {
     "id": "me2pt5-48",
@@ -15184,7 +15184,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "48",
     "rarity": "Double Rare",
-    "price": 11.17
+    "price": 4.88
   },
   {
     "id": "me2pt5-57",
@@ -15193,7 +15193,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "57",
     "rarity": "Double Rare",
-    "price": 38.43
+    "price": 59.24
   },
   {
     "id": "me2pt5-58",
@@ -15202,7 +15202,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "58",
     "rarity": "Double Rare",
-    "price": 23.61
+    "price": 8.41
   },
   {
     "id": "me2pt5-61",
@@ -15211,7 +15211,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "61",
     "rarity": "Double Rare",
-    "price": 26.55
+    "price": 10.32
   },
   {
     "id": "me2pt5-68",
@@ -15220,7 +15220,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "68",
     "rarity": "Double Rare",
-    "price": 5.48
+    "price": 2.91
   },
   {
     "id": "me2pt5-70",
@@ -15229,7 +15229,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "70",
     "rarity": "Double Rare",
-    "price": 28.58
+    "price": 13.58
   },
   {
     "id": "me2pt5-73",
@@ -15238,7 +15238,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "73",
     "rarity": "Double Rare",
-    "price": 23.02
+    "price": 14.99
   },
   {
     "id": "me2pt5-76",
@@ -15247,7 +15247,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "76",
     "rarity": "Double Rare",
-    "price": 20.21
+    "price": 9.38
   },
   {
     "id": "me2pt5-79",
@@ -15256,7 +15256,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "79",
     "rarity": "Double Rare",
-    "price": 23.21
+    "price": 11.67
   },
   {
     "id": "me2pt5-84",
@@ -15265,7 +15265,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "84",
     "rarity": "Double Rare",
-    "price": 35.25
+    "price": 11.25
   },
   {
     "id": "me2pt5-89",
@@ -15274,7 +15274,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "89",
     "rarity": "Double Rare",
-    "price": 24.14
+    "price": 31.6
   },
   {
     "id": "me2pt5-107",
@@ -15283,7 +15283,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "107",
     "rarity": "Double Rare",
-    "price": 26.97
+    "price": 9.67
   },
   {
     "id": "me2pt5-111",
@@ -15292,7 +15292,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "111",
     "rarity": "Double Rare",
-    "price": 33.93
+    "price": 13.67
   },
   {
     "id": "me2pt5-113",
@@ -15301,7 +15301,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "113",
     "rarity": "Double Rare",
-    "price": 31.86
+    "price": 18.99
   },
   {
     "id": "me2pt5-114",
@@ -15310,7 +15310,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "114",
     "rarity": "Double Rare",
-    "price": 25.73
+    "price": 10.09
   },
   {
     "id": "me2pt5-116",
@@ -15319,7 +15319,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "116",
     "rarity": "Double Rare",
-    "price": 22.98
+    "price": 9.29
   },
   {
     "id": "me2pt5-121",
@@ -15328,7 +15328,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "121",
     "rarity": "Double Rare",
-    "price": 40.73
+    "price": 22.71
   },
   {
     "id": "me2pt5-125",
@@ -15337,7 +15337,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "125",
     "rarity": "Double Rare",
-    "price": 67.27
+    "price": 32.71
   },
   {
     "id": "me2pt5-135",
@@ -15346,7 +15346,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "135",
     "rarity": "Double Rare",
-    "price": 9.42
+    "price": 4.86
   },
   {
     "id": "me2pt5-137",
@@ -15355,7 +15355,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "137",
     "rarity": "Double Rare",
-    "price": 27.22
+    "price": 13.11
   },
   {
     "id": "me2pt5-139",
@@ -15364,7 +15364,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "139",
     "rarity": "Double Rare",
-    "price": 39.46
+    "price": 12.22
   },
   {
     "id": "me2pt5-142",
@@ -15373,7 +15373,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "142",
     "rarity": "Double Rare",
-    "price": 10.37
+    "price": 6.5
   },
   {
     "id": "me2pt5-145",
@@ -15382,7 +15382,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "145",
     "rarity": "Double Rare",
-    "price": 37.83
+    "price": 11.85
   },
   {
     "id": "me2pt5-149",
@@ -15391,7 +15391,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "149",
     "rarity": "Double Rare",
-    "price": 28.43
+    "price": 9.63
   },
   {
     "id": "me2pt5-152",
@@ -15400,7 +15400,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "152",
     "rarity": "Double Rare",
-    "price": 18.88
+    "price": 16.75
   },
   {
     "id": "me2pt5-160",
@@ -15409,7 +15409,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "160",
     "rarity": "Double Rare",
-    "price": 17.23
+    "price": 12.14
   },
   {
     "id": "me2pt5-162",
@@ -15418,7 +15418,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "162",
     "rarity": "Double Rare",
-    "price": 61.45
+    "price": 16.86
   },
   {
     "id": "me2pt5-164",
@@ -15427,7 +15427,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "164",
     "rarity": "Double Rare",
-    "price": 9.46
+    "price": 4.32
   },
   {
     "id": "me2pt5-167",
@@ -15436,7 +15436,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "167",
     "rarity": "Double Rare",
-    "price": 9.15
+    "price": 4.22
   },
   {
     "id": "me2pt5-172",
@@ -15445,7 +15445,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "172",
     "rarity": "Double Rare",
-    "price": 26.13
+    "price": 9.45
   },
   {
     "id": "me2pt5-179",
@@ -15454,7 +15454,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "179",
     "rarity": "Double Rare",
-    "price": 95.94
+    "price": 37.2
   },
   {
     "id": "me2pt5-218",
@@ -15463,7 +15463,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "218",
     "rarity": "Illustration Rare",
-    "price": 12.81
+    "price": 5.39
   },
   {
     "id": "me2pt5-219",
@@ -15472,7 +15472,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "219",
     "rarity": "Illustration Rare",
-    "price": 8.54
+    "price": 4.01
   },
   {
     "id": "me2pt5-220",
@@ -15481,7 +15481,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "220",
     "rarity": "Illustration Rare",
-    "price": 12.54
+    "price": 5.31
   },
   {
     "id": "me2pt5-221",
@@ -15490,7 +15490,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "221",
     "rarity": "Illustration Rare",
-    "price": 20.88
+    "price": 7.69
   },
   {
     "id": "me2pt5-222",
@@ -15499,7 +15499,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "222",
     "rarity": "Illustration Rare",
-    "price": 7.54
+    "price": 3.67
   },
   {
     "id": "me2pt5-223",
@@ -15508,7 +15508,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "223",
     "rarity": "Illustration Rare",
-    "price": 7.13
+    "price": 3.52
   },
   {
     "id": "me2pt5-224",
@@ -15517,7 +15517,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "224",
     "rarity": "Illustration Rare",
-    "price": 23.54
+    "price": 8.76
   },
   {
     "id": "me2pt5-225",
@@ -15526,7 +15526,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "225",
     "rarity": "Illustration Rare",
-    "price": 15.22
+    "price": 6.11
   },
   {
     "id": "me2pt5-226",
@@ -15535,7 +15535,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "226",
     "rarity": "Illustration Rare",
-    "price": 19.34
+    "price": 7.27
   },
   {
     "id": "me2pt5-227",
@@ -15544,7 +15544,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "227",
     "rarity": "Illustration Rare",
-    "price": 7.44
+    "price": 3.63
   },
   {
     "id": "me2pt5-228",
@@ -15553,7 +15553,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "228",
     "rarity": "Illustration Rare",
-    "price": 16.17
+    "price": 6.39
   },
   {
     "id": "me2pt5-229",
@@ -15562,7 +15562,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "229",
     "rarity": "Illustration Rare",
-    "price": 26.21
+    "price": 9.08
   },
   {
     "id": "me2pt5-230",
@@ -15571,7 +15571,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "230",
     "rarity": "Illustration Rare",
-    "price": 17.56
+    "price": 6.78
   },
   {
     "id": "me2pt5-231",
@@ -15580,7 +15580,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "231",
     "rarity": "Illustration Rare",
-    "price": 11.42
+    "price": 4.96
   },
   {
     "id": "me2pt5-232",
@@ -15589,7 +15589,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "232",
     "rarity": "Illustration Rare",
-    "price": 16.35
+    "price": 6.44
   },
   {
     "id": "me2pt5-233",
@@ -15598,7 +15598,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "233",
     "rarity": "Illustration Rare",
-    "price": 14
+    "price": 5.75
   },
   {
     "id": "me2pt5-234",
@@ -15607,7 +15607,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "234",
     "rarity": "Illustration Rare",
-    "price": 26.03
+    "price": 9.42
   },
   {
     "id": "me2pt5-235",
@@ -15616,7 +15616,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "235",
     "rarity": "Illustration Rare",
-    "price": 12.31
+    "price": 5.9
   },
   {
     "id": "me2pt5-236",
@@ -15625,7 +15625,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "236",
     "rarity": "Illustration Rare",
-    "price": 14.86
+    "price": 6
   },
   {
     "id": "me2pt5-237",
@@ -15634,7 +15634,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "237",
     "rarity": "Illustration Rare",
-    "price": 10.07
+    "price": 4.53
   },
   {
     "id": "me2pt5-238",
@@ -15643,7 +15643,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "238",
     "rarity": "Illustration Rare",
-    "price": 18.49
+    "price": 7.04
   },
   {
     "id": "me2pt5-239",
@@ -15652,7 +15652,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "239",
     "rarity": "Illustration Rare",
-    "price": 18.42
+    "price": 7.02
   },
   {
     "id": "me2pt5-240",
@@ -15661,7 +15661,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "240",
     "rarity": "Illustration Rare",
-    "price": 23.35
+    "price": 8.34
   },
   {
     "id": "me2pt5-241",
@@ -15670,7 +15670,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "241",
     "rarity": "Illustration Rare",
-    "price": 20.3
+    "price": 9.41
   },
   {
     "id": "me2pt5-242",
@@ -15679,7 +15679,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "242",
     "rarity": "Illustration Rare",
-    "price": 17.48
+    "price": 6.76
   },
   {
     "id": "me2pt5-243",
@@ -15688,7 +15688,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "243",
     "rarity": "Illustration Rare",
-    "price": 23.3
+    "price": 8.33
   },
   {
     "id": "me2pt5-244",
@@ -15697,7 +15697,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "244",
     "rarity": "Illustration Rare",
-    "price": 14.77
+    "price": 5.98
   },
   {
     "id": "me2pt5-245",
@@ -15706,7 +15706,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "245",
     "rarity": "Illustration Rare",
-    "price": 21.58
+    "price": 7.88
   },
   {
     "id": "me2pt5-246",
@@ -15715,7 +15715,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "246",
     "rarity": "Illustration Rare",
-    "price": 21.52
+    "price": 11.05
   },
   {
     "id": "me2pt5-247",
@@ -15724,7 +15724,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "247",
     "rarity": "Illustration Rare",
-    "price": 10.45
+    "price": 4.65
   },
   {
     "id": "me2pt5-248",
@@ -15733,7 +15733,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "248",
     "rarity": "Illustration Rare",
-    "price": 5.47
+    "price": 2.9
   },
   {
     "id": "me2pt5-249",
@@ -15742,7 +15742,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "249",
     "rarity": "Illustration Rare",
-    "price": 21.07
+    "price": 7.74
   },
   {
     "id": "me2pt5-250",
@@ -15751,7 +15751,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "250",
     "rarity": "Illustration Rare",
-    "price": 28.92
+    "price": 9.74
   },
   {
     "id": "me2pt5-251",
@@ -15760,7 +15760,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "251",
     "rarity": "Ultra Rare",
-    "price": 25.33
+    "price": 8.85
   },
   {
     "id": "me2pt5-252",
@@ -15769,7 +15769,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "252",
     "rarity": "Ultra Rare",
-    "price": 9.27
+    "price": 4.8
   },
   {
     "id": "me2pt5-253",
@@ -15778,7 +15778,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "253",
     "rarity": "Ultra Rare",
-    "price": 27.69
+    "price": 9.85
   },
   {
     "id": "me2pt5-265",
@@ -15787,7 +15787,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "265",
     "rarity": "MEGA_ATTACK_RARE",
-    "price": 8.86
+    "price": 6.58
   },
   {
     "id": "me2pt5-266",
@@ -15796,7 +15796,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "266",
     "rarity": "MEGA_ATTACK_RARE",
-    "price": 28.49
+    "price": 10.87
   },
   {
     "id": "me2pt5-267",
@@ -15805,7 +15805,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "267",
     "rarity": "MEGA_ATTACK_RARE",
-    "price": 18.82
+    "price": 7.44
   },
   {
     "id": "me2pt5-268",
@@ -15814,7 +15814,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "268",
     "rarity": "MEGA_ATTACK_RARE",
-    "price": 13.14
+    "price": 6.19
   },
   {
     "id": "me2pt5-269",
@@ -15823,7 +15823,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "269",
     "rarity": "MEGA_ATTACK_RARE",
-    "price": 14.1
+    "price": 10.5
   },
   {
     "id": "me2pt5-270",
@@ -15832,7 +15832,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "270",
     "rarity": "MEGA_ATTACK_RARE",
-    "price": 14.33
+    "price": 6.59
   },
   {
     "id": "me2pt5-271",
@@ -15841,7 +15841,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "271",
     "rarity": "MEGA_ATTACK_RARE",
-    "price": 10.07
+    "price": 10.6
   },
   {
     "id": "me2pt5-272",
@@ -15850,7 +15850,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "272",
     "rarity": "Special Illustration Rare",
-    "price": 15.48
+    "price": 7.43
   },
   {
     "id": "me2pt5-273",
@@ -15859,7 +15859,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "273",
     "rarity": "Special Illustration Rare",
-    "price": 41.79
+    "price": 15.95
   },
   {
     "id": "me2pt5-274",
@@ -15868,7 +15868,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "274",
     "rarity": "Special Illustration Rare",
-    "price": 153.05
+    "price": 39.31
   },
   {
     "id": "me2pt5-275",
@@ -15877,7 +15877,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "275",
     "rarity": "Special Illustration Rare",
-    "price": 61.47
+    "price": 32.3
   },
   {
     "id": "me2pt5-276",
@@ -15886,7 +15886,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "276",
     "rarity": "Special Illustration Rare",
-    "price": 54.88
+    "price": 92.16
   },
   {
     "id": "me2pt5-277",
@@ -15895,7 +15895,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "277",
     "rarity": "Special Illustration Rare",
-    "price": 173.52
+    "price": 212.86
   },
   {
     "id": "me2pt5-278",
@@ -15904,7 +15904,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "278",
     "rarity": "Special Illustration Rare",
-    "price": 200.93
+    "price": 54
   },
   {
     "id": "me2pt5-279",
@@ -15913,7 +15913,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "279",
     "rarity": "Special Illustration Rare",
-    "price": 71.3
+    "price": 31.7
   },
   {
     "id": "me2pt5-280",
@@ -15922,7 +15922,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "280",
     "rarity": "Special Illustration Rare",
-    "price": 203.19
+    "price": 60.32
   },
   {
     "id": "me2pt5-281",
@@ -15931,7 +15931,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "281",
     "rarity": "Special Illustration Rare",
-    "price": 46.05
+    "price": 23.07
   },
   {
     "id": "me2pt5-282",
@@ -15940,7 +15940,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "282",
     "rarity": "Special Illustration Rare",
-    "price": 53.38
+    "price": 19.06
   },
   {
     "id": "me2pt5-283",
@@ -15949,7 +15949,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "283",
     "rarity": "Special Illustration Rare",
-    "price": 92.47
+    "price": 30.71
   },
   {
     "id": "me2pt5-284",
@@ -15958,7 +15958,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "284",
     "rarity": "Special Illustration Rare",
-    "price": 76.08
+    "price": 42.94
   },
   {
     "id": "me2pt5-285",
@@ -15967,7 +15967,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "285",
     "rarity": "Special Illustration Rare",
-    "price": 44.9
+    "price": 18.16
   },
   {
     "id": "me2pt5-286",
@@ -15976,7 +15976,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "286",
     "rarity": "Special Illustration Rare",
-    "price": 83.24
+    "price": 35.48
   },
   {
     "id": "me2pt5-287",
@@ -15985,7 +15985,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "287",
     "rarity": "Special Illustration Rare",
-    "price": 91.75
+    "price": 27.09
   },
   {
     "id": "me2pt5-288",
@@ -15994,7 +15994,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "288",
     "rarity": "Special Illustration Rare",
-    "price": 113.46
+    "price": 44.44
   },
   {
     "id": "me2pt5-289",
@@ -16003,7 +16003,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "289",
     "rarity": "Special Illustration Rare",
-    "price": 80.94
+    "price": 24.73
   },
   {
     "id": "me2pt5-290",
@@ -16012,7 +16012,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "290",
     "rarity": "Special Illustration Rare",
-    "price": 99.07
+    "price": 67.12
   },
   {
     "id": "me2pt5-294",
@@ -16021,7 +16021,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "294",
     "rarity": "Mega Hyper Rare",
-    "price": 43.83
+    "price": 15.83
   },
   {
     "id": "me2pt5-295",
@@ -16030,7 +16030,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me2pt5",
     "number": "295",
     "rarity": "Mega Hyper Rare",
-    "price": 109.78
+    "price": 72.32
   },
   {
     "id": "me3-12",
@@ -16039,7 +16039,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me3",
     "number": "12",
     "rarity": "Double Rare",
-    "price": 7.53
+    "price": 3.82
   },
   {
     "id": "me3-16",
@@ -16048,7 +16048,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me3",
     "number": "16",
     "rarity": "Double Rare",
-    "price": 8.05
+    "price": 4.01
   },
   {
     "id": "me3-21",
@@ -16057,7 +16057,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me3",
     "number": "21",
     "rarity": "Double Rare",
-    "price": 23.93
+    "price": 10.6
   },
   {
     "id": "me3-22",
@@ -16066,7 +16066,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me3",
     "number": "22",
     "rarity": "Double Rare",
-    "price": 15.73
+    "price": 8.8
   },
   {
     "id": "me3-31",
@@ -16075,7 +16075,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me3",
     "number": "31",
     "rarity": "Double Rare",
-    "price": 12.57
+    "price": 5.99
   },
   {
     "id": "me3-47",
@@ -16084,7 +16084,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me3",
     "number": "47",
     "rarity": "Double Rare",
-    "price": 11.75
+    "price": 5.7
   },
   {
     "id": "me3-53",
@@ -16093,7 +16093,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me3",
     "number": "53",
     "rarity": "Double Rare",
-    "price": 8.34
+    "price": 4.45
   },
   {
     "id": "me3-55",
@@ -16102,7 +16102,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me3",
     "number": "55",
     "rarity": "Double Rare",
-    "price": 12.45
+    "price": 5.51
   },
   {
     "id": "me3-62",
@@ -16111,7 +16111,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me3",
     "number": "62",
     "rarity": "Double Rare",
-    "price": 6.65
+    "price": 3.77
   },
   {
     "id": "me3-89",
@@ -16120,7 +16120,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me3",
     "number": "89",
     "rarity": "Illustration Rare",
-    "price": 25.46
+    "price": 8.88
   },
   {
     "id": "me3-90",
@@ -16129,7 +16129,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me3",
     "number": "90",
     "rarity": "Illustration Rare",
-    "price": 24.48
+    "price": 8.63
   },
   {
     "id": "me3-91",
@@ -16138,7 +16138,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me3",
     "number": "91",
     "rarity": "Illustration Rare",
-    "price": 25.54
+    "price": 8.9
   },
   {
     "id": "me3-92",
@@ -16147,7 +16147,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me3",
     "number": "92",
     "rarity": "Illustration Rare",
-    "price": 11.68
+    "price": 5.04
   },
   {
     "id": "me3-93",
@@ -16156,7 +16156,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me3",
     "number": "93",
     "rarity": "Illustration Rare",
-    "price": 13.69
+    "price": 5.9
   },
   {
     "id": "me3-94",
@@ -16165,7 +16165,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me3",
     "number": "94",
     "rarity": "Illustration Rare",
-    "price": 14.42
+    "price": 5.87
   },
   {
     "id": "me3-95",
@@ -16174,7 +16174,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me3",
     "number": "95",
     "rarity": "Illustration Rare",
-    "price": 15.01
+    "price": 6.05
   },
   {
     "id": "me3-96",
@@ -16183,7 +16183,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me3",
     "number": "96",
     "rarity": "Illustration Rare",
-    "price": 16.15
+    "price": 6.38
   },
   {
     "id": "me3-97",
@@ -16192,7 +16192,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me3",
     "number": "97",
     "rarity": "Illustration Rare",
-    "price": 18.64
+    "price": 8.84
   },
   {
     "id": "me3-98",
@@ -16201,7 +16201,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me3",
     "number": "98",
     "rarity": "Illustration Rare",
-    "price": 13.57
+    "price": 5.62
   },
   {
     "id": "me3-99",
@@ -16210,7 +16210,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me3",
     "number": "99",
     "rarity": "Illustration Rare",
-    "price": 10.8
+    "price": 4.76
   },
   {
     "id": "me3-100",
@@ -16219,7 +16219,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me3",
     "number": "100",
     "rarity": "Ultra Rare",
-    "price": 8.66
+    "price": 4.23
   },
   {
     "id": "me3-101",
@@ -16228,7 +16228,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me3",
     "number": "101",
     "rarity": "Ultra Rare",
-    "price": 12.29
+    "price": 5.46
   },
   {
     "id": "me3-102",
@@ -16237,7 +16237,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me3",
     "number": "102",
     "rarity": "Ultra Rare",
-    "price": 19.61
+    "price": 9.18
   },
   {
     "id": "me3-103",
@@ -16246,7 +16246,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me3",
     "number": "103",
     "rarity": "Ultra Rare",
-    "price": 36.51
+    "price": 13.01
   },
   {
     "id": "me3-104",
@@ -16255,7 +16255,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me3",
     "number": "104",
     "rarity": "Ultra Rare",
-    "price": 12.57
+    "price": 5.99
   },
   {
     "id": "me3-105",
@@ -16264,7 +16264,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me3",
     "number": "105",
     "rarity": "Ultra Rare",
-    "price": 9.78
+    "price": 4.99
   },
   {
     "id": "me3-106",
@@ -16273,7 +16273,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me3",
     "number": "106",
     "rarity": "Ultra Rare",
-    "price": 24.93
+    "price": 9.13
   },
   {
     "id": "me3-107",
@@ -16282,7 +16282,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me3",
     "number": "107",
     "rarity": "Ultra Rare",
-    "price": 22.43
+    "price": 9.13
   },
   {
     "id": "me3-118",
@@ -16291,7 +16291,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me3",
     "number": "118",
     "rarity": "Special Illustration Rare",
-    "price": 73.59
+    "price": 28.82
   },
   {
     "id": "me3-119",
@@ -16300,7 +16300,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me3",
     "number": "119",
     "rarity": "Special Illustration Rare",
-    "price": 114.28
+    "price": 35.82
   },
   {
     "id": "me3-120",
@@ -16309,7 +16309,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me3",
     "number": "120",
     "rarity": "Special Illustration Rare",
-    "price": 145.51
+    "price": 42.7
   },
   {
     "id": "me3-121",
@@ -16318,7 +16318,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me3",
     "number": "121",
     "rarity": "Special Illustration Rare",
-    "price": 156.44
+    "price": 45.01
   },
   {
     "id": "me3-124",
@@ -16327,7 +16327,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me3",
     "number": "124",
     "rarity": "Mega Hyper Rare",
-    "price": 97.4
+    "price": 31.89
   },
   {
     "id": "me4-3",
@@ -16336,7 +16336,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me4",
     "number": "3",
     "rarity": "Double Rare",
-    "price": 8.35
+    "price": 4.45
   },
   {
     "id": "me4-15",
@@ -16345,7 +16345,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me4",
     "number": "15",
     "rarity": "Double Rare",
-    "price": 18.05
+    "price": 7.22
   },
   {
     "id": "me4-22",
@@ -16354,7 +16354,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me4",
     "number": "22",
     "rarity": "Double Rare",
-    "price": 25.7
+    "price": 16.24
   },
   {
     "id": "me4-35",
@@ -16363,7 +16363,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me4",
     "number": "35",
     "rarity": "Double Rare",
-    "price": 16.67
+    "price": 6.81
   },
   {
     "id": "me4-41",
@@ -16372,7 +16372,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me4",
     "number": "41",
     "rarity": "Double Rare",
-    "price": 15.42
+    "price": 6.17
   },
   {
     "id": "me4-48",
@@ -16381,7 +16381,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me4",
     "number": "48",
     "rarity": "Double Rare",
-    "price": 26.08
+    "price": 9.04
   },
   {
     "id": "me4-55",
@@ -16390,7 +16390,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me4",
     "number": "55",
     "rarity": "Double Rare",
-    "price": 38.81
+    "price": 12.07
   },
   {
     "id": "me4-64",
@@ -16399,7 +16399,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me4",
     "number": "64",
     "rarity": "Double Rare",
-    "price": 14.96
+    "price": 6.29
   },
   {
     "id": "me4-65",
@@ -16408,7 +16408,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me4",
     "number": "65",
     "rarity": "Double Rare",
-    "price": 4.53
+    "price": 2.64
   },
   {
     "id": "me4-73",
@@ -16417,7 +16417,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me4",
     "number": "73",
     "rarity": "Double Rare",
-    "price": 15.81
+    "price": 7.85
   },
   {
     "id": "me4-87",
@@ -16426,7 +16426,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me4",
     "number": "87",
     "rarity": "Illustration Rare",
-    "price": 14.58
+    "price": 5.92
   },
   {
     "id": "me4-88",
@@ -16435,7 +16435,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me4",
     "number": "88",
     "rarity": "Illustration Rare",
-    "price": 12.66
+    "price": 5.34
   },
   {
     "id": "me4-89",
@@ -16444,7 +16444,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me4",
     "number": "89",
     "rarity": "Illustration Rare",
-    "price": 10.29
+    "price": 4.6
   },
   {
     "id": "me4-90",
@@ -16453,7 +16453,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me4",
     "number": "90",
     "rarity": "Illustration Rare",
-    "price": 31.15
+    "price": 10.29
   },
   {
     "id": "me4-91",
@@ -16462,7 +16462,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me4",
     "number": "91",
     "rarity": "Illustration Rare",
-    "price": 12.25
+    "price": 5.22
   },
   {
     "id": "me4-92",
@@ -16471,7 +16471,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me4",
     "number": "92",
     "rarity": "Illustration Rare",
-    "price": 8.09
+    "price": 3.86
   },
   {
     "id": "me4-93",
@@ -16480,7 +16480,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me4",
     "number": "93",
     "rarity": "Illustration Rare",
-    "price": 17.91
+    "price": 7.18
   },
   {
     "id": "me4-94",
@@ -16489,7 +16489,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me4",
     "number": "94",
     "rarity": "Illustration Rare",
-    "price": 20.16
+    "price": 7.5
   },
   {
     "id": "me4-95",
@@ -16498,7 +16498,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me4",
     "number": "95",
     "rarity": "Illustration Rare",
-    "price": 13.12
+    "price": 5.48
   },
   {
     "id": "me4-96",
@@ -16507,7 +16507,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me4",
     "number": "96",
     "rarity": "Illustration Rare",
-    "price": 16.18
+    "price": 6.39
   },
   {
     "id": "me4-97",
@@ -16516,7 +16516,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me4",
     "number": "97",
     "rarity": "Illustration Rare",
-    "price": 14.74
+    "price": 5.97
   },
   {
     "id": "me4-98",
@@ -16525,7 +16525,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me4",
     "number": "98",
     "rarity": "Ultra Rare",
-    "price": 33.72
+    "price": 12.28
   },
   {
     "id": "me4-99",
@@ -16534,7 +16534,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me4",
     "number": "99",
     "rarity": "Ultra Rare",
-    "price": 15.68
+    "price": 6.51
   },
   {
     "id": "me4-100",
@@ -16543,7 +16543,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me4",
     "number": "100",
     "rarity": "Ultra Rare",
-    "price": 20.76
+    "price": 13.91
   },
   {
     "id": "me4-101",
@@ -16552,7 +16552,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me4",
     "number": "101",
     "rarity": "Ultra Rare",
-    "price": 8.97
+    "price": 4.34
   },
   {
     "id": "me4-102",
@@ -16561,7 +16561,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me4",
     "number": "102",
     "rarity": "Ultra Rare",
-    "price": 14.9
+    "price": 6.02
   },
   {
     "id": "me4-103",
@@ -16570,7 +16570,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me4",
     "number": "103",
     "rarity": "Ultra Rare",
-    "price": 6.1
+    "price": 3.28
   },
   {
     "id": "me4-104",
@@ -16579,7 +16579,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me4",
     "number": "104",
     "rarity": "Ultra Rare",
-    "price": 7.37
+    "price": 3.76
   },
   {
     "id": "me4-105",
@@ -16588,7 +16588,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me4",
     "number": "105",
     "rarity": "Ultra Rare",
-    "price": 19.97
+    "price": 9.3
   },
   {
     "id": "me4-116",
@@ -16597,7 +16597,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me4",
     "number": "116",
     "rarity": "Special Illustration Rare",
-    "price": 167.88
+    "price": 76.35
   },
   {
     "id": "me4-117",
@@ -16606,7 +16606,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me4",
     "number": "117",
     "rarity": "Special Illustration Rare",
-    "price": 81.52
+    "price": 25.94
   },
   {
     "id": "me4-118",
@@ -16615,7 +16615,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me4",
     "number": "118",
     "rarity": "Special Illustration Rare",
-    "price": 38.86
+    "price": 15.13
   },
   {
     "id": "me4-119",
@@ -16624,7 +16624,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me4",
     "number": "119",
     "rarity": "Special Illustration Rare",
-    "price": 28.19
+    "price": 14.34
   },
   {
     "id": "me4-122",
@@ -16633,7 +16633,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me4",
     "number": "122",
     "rarity": "Mega Hyper Rare",
-    "price": 272.12
+    "price": 108.48
   },
   {
     "id": "me5-4",
@@ -16642,7 +16642,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me5",
     "number": "4",
     "rarity": "Double Rare",
-    "price": 6.26
+    "price": 3.2
   },
   {
     "id": "me5-8",
@@ -16651,7 +16651,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me5",
     "number": "8",
     "rarity": "Double Rare",
-    "price": 7.34
+    "price": 3.59
   },
   {
     "id": "me5-16",
@@ -16660,7 +16660,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me5",
     "number": "16",
     "rarity": "Double Rare",
-    "price": 7.76
+    "price": 3.91
   },
   {
     "id": "me5-27",
@@ -16669,7 +16669,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me5",
     "number": "27",
     "rarity": "Double Rare",
-    "price": 5.58
+    "price": 5.35
   },
   {
     "id": "me5-31",
@@ -16678,7 +16678,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me5",
     "number": "31",
     "rarity": "Double Rare",
-    "price": 19.29
+    "price": 7.57
   },
   {
     "id": "me5-38",
@@ -16687,7 +16687,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me5",
     "number": "38",
     "rarity": "Double Rare",
-    "price": 13.59
+    "price": 8.98
   },
   {
     "id": "me5-45",
@@ -16696,7 +16696,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me5",
     "number": "45",
     "rarity": "Double Rare",
-    "price": 14.93
+    "price": 6.02
   },
   {
     "id": "me5-48",
@@ -16705,7 +16705,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me5",
     "number": "48",
     "rarity": "Double Rare",
-    "price": 14.32
+    "price": 7.3
   },
   {
     "id": "me5-55",
@@ -16714,7 +16714,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me5",
     "number": "55",
     "rarity": "Double Rare",
-    "price": 12.12
+    "price": 9.4
   },
   {
     "id": "me5-65",
@@ -16723,7 +16723,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me5",
     "number": "65",
     "rarity": "Double Rare",
-    "price": 18.52
+    "price": 9.91
   },
   {
     "id": "me5-85",
@@ -16732,7 +16732,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me5",
     "number": "85",
     "rarity": "Illustration Rare",
-    "price": 11.17
+    "price": 4.88
   },
   {
     "id": "me5-86",
@@ -16741,7 +16741,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me5",
     "number": "86",
     "rarity": "Illustration Rare",
-    "price": 13.09
+    "price": 6.84
   },
   {
     "id": "me5-87",
@@ -16750,7 +16750,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me5",
     "number": "87",
     "rarity": "Illustration Rare",
-    "price": 22.27
+    "price": 8.06
   },
   {
     "id": "me5-88",
@@ -16759,7 +16759,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me5",
     "number": "88",
     "rarity": "Illustration Rare",
-    "price": 21.08
+    "price": 7.74
   },
   {
     "id": "me5-89",
@@ -16768,7 +16768,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me5",
     "number": "89",
     "rarity": "Illustration Rare",
-    "price": 5.22
+    "price": 2.93
   },
   {
     "id": "me5-90",
@@ -16777,7 +16777,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me5",
     "number": "90",
     "rarity": "Illustration Rare",
-    "price": 33.94
+    "price": 11.42
   },
   {
     "id": "me5-91",
@@ -16786,7 +16786,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me5",
     "number": "91",
     "rarity": "Illustration Rare",
-    "price": 22.66
+    "price": 8.52
   },
   {
     "id": "me5-92",
@@ -16795,7 +16795,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me5",
     "number": "92",
     "rarity": "Illustration Rare",
-    "price": 23.03
+    "price": 8.26
   },
   {
     "id": "me5-93",
@@ -16804,7 +16804,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me5",
     "number": "93",
     "rarity": "Illustration Rare",
-    "price": 17.75
+    "price": 6.83
   },
   {
     "id": "me5-94",
@@ -16813,7 +16813,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me5",
     "number": "94",
     "rarity": "Illustration Rare",
-    "price": 4.94
+    "price": 2.69
   },
   {
     "id": "me5-95",
@@ -16822,7 +16822,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me5",
     "number": "95",
     "rarity": "Illustration Rare",
-    "price": 7.7
+    "price": 3.72
   },
   {
     "id": "me5-96",
@@ -16831,7 +16831,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me5",
     "number": "96",
     "rarity": "Ultra Rare",
-    "price": 26.08
+    "price": 9.04
   },
   {
     "id": "me5-97",
@@ -16840,7 +16840,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me5",
     "number": "97",
     "rarity": "Ultra Rare",
-    "price": 40.49
+    "price": 12.99
   },
   {
     "id": "me5-98",
@@ -16849,7 +16849,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me5",
     "number": "98",
     "rarity": "Ultra Rare",
-    "price": 25.48
+    "price": 16.14
   },
   {
     "id": "me5-99",
@@ -16858,7 +16858,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me5",
     "number": "99",
     "rarity": "Ultra Rare",
-    "price": 18.08
+    "price": 11.05
   },
   {
     "id": "me5-100",
@@ -16867,7 +16867,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me5",
     "number": "100",
     "rarity": "Ultra Rare",
-    "price": 25.19
+    "price": 8.81
   },
   {
     "id": "me5-101",
@@ -16876,7 +16876,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me5",
     "number": "101",
     "rarity": "Ultra Rare",
-    "price": 18.39
+    "price": 8.75
   },
   {
     "id": "me5-102",
@@ -16885,7 +16885,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me5",
     "number": "102",
     "rarity": "Ultra Rare",
-    "price": 34.08
+    "price": 19.94
   },
   {
     "id": "me5-103",
@@ -16894,7 +16894,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me5",
     "number": "103",
     "rarity": "Ultra Rare",
-    "price": 8.36
+    "price": 5.55
   },
   {
     "id": "me5-114",
@@ -16903,7 +16903,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me5",
     "number": "114",
     "rarity": "Special Illustration Rare",
-    "price": 102.08
+    "price": 53.17
   },
   {
     "id": "me5-115",
@@ -16912,7 +16912,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me5",
     "number": "115",
     "rarity": "Special Illustration Rare",
-    "price": 27.44
+    "price": 17.97
   },
   {
     "id": "me5-116",
@@ -16921,7 +16921,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me5",
     "number": "116",
     "rarity": "Special Illustration Rare",
-    "price": 47.41
+    "price": 20.93
   },
   {
     "id": "me5-117",
@@ -16930,7 +16930,7 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me5",
     "number": "117",
     "rarity": "Special Illustration Rare",
-    "price": 67.02
+    "price": 39.15
   },
   {
     "id": "me5-120",
@@ -16939,6 +16939,6 @@ export const FIXTURE_CARDS: Card[] = [
     "setId": "me5",
     "number": "120",
     "rarity": "Mega Hyper Rare",
-    "price": 90.27
+    "price": 33.43
   }
 ];
